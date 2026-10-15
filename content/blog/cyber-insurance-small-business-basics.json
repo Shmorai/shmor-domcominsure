@@ -1,0 +1,70 @@
+{
+  "updated": "2026-10-08",
+  "type": "post",
+  "slug": "blog/cyber-insurance-small-business-basics",
+  "date": "2026-10-08",
+  "short": "Cyber basics",
+  "title": "Cyber Insurance Basics for Small Businesses in 2026",
+  "description": "What small businesses should know before buying cyber insurance: insurer questions, security basics, invoice fraud and breach reporting duties.",
+  "h1": "Cyber insurance basics for small businesses",
+  "intro": "Cyber insurance applications ask more about your security than most policies ask about anything. Getting the basics in place makes cover easier to buy and less likely to be needed.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "alt": "Glowing teal LED panel suggesting digital security",
+    "credit": "Adi Goldstein",
+    "creditUrl": "https://unsplash.com/@adigold1"
+  },
+  "sections": [
+    {
+      "h2": "Questions insurers commonly ask",
+      "html": "<ul><li>Is multi-factor authentication switched on for email and remote access?</li><li>Do you take regular backups, stored separately, and have you tested restoring them?</li><li>Are systems patched and supported?</li><li>Do staff get phishing awareness training?</li><li>How do you verify changes to supplier or customer bank details?</li></ul>"
+    },
+    {
+      "h2": "Free starting points",
+      "html": "<p>In the UK, the NCSC’s <strong>Small Business Guide</strong> and <strong>Cyber Essentials</strong> scheme set out the basics. In the US, CISA publishes free resources for small businesses. Working through them helps with insurer questions and reduces risk.</p>"
+    },
+    {
+      "h2": "Invoice fraud and social engineering",
+      "html": "<p>Some of the most common losses involve fake invoices or emails convincing staff to pay into a criminal’s account. Many cyber policies cover this only as an optional extra or with a lower limit. Check the wording, and use call-back checks on known numbers before changing payment details.</p>"
+    },
+    {
+      "h2": "Breach reporting",
+      "html": "<p>Under UK GDPR and EU GDPR, reportable personal data breaches must be notified to the regulator within 72 hours of becoming aware. A good cyber policy gives you fast access to legal and forensic help to meet that deadline. See our <a href=\"/cyber-insurance/\">cyber insurance guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do sole traders need cyber insurance?",
+      "a": "If you hold client data or rely on email and online systems to trade, it’s worth considering. Some policies are designed for very small firms."
+    },
+    {
+      "q": "Does Cyber Essentials make insurance cheaper?",
+      "a": "Some insurers take it into account, and some packages include cyber cover for certified small organisations. Check with insurers."
+    }
+  ],
+  "sources": [
+    {
+      "title": "NCSC: Small Business Guide",
+      "url": "https://www.ncsc.gov.uk/collection/small-business-guide"
+    },
+    {
+      "title": "NCSC: Cyber Essentials",
+      "url": "https://www.ncsc.gov.uk/cyberessentials/overview"
+    },
+    {
+      "title": "CISA: Cyber guidance for small businesses",
+      "url": "https://www.cisa.gov/cyber-guidance-small-businesses"
+    }
+  ],
+  "keywords": [
+    "cyber insurance small business",
+    "cyber essentials insurance",
+    "invoice fraud insurance",
+    "cyber insurance questions"
+  ],
+  "related": [
+    "cyber-insurance",
+    "professional-indemnity-insurance",
+    "blog/new-business-insurance-checklist"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "updated": "2026-10-15",
+  "slug": "tradesperson-insurance",
+  "short": "Tradesperson insurance",
+  "title": "Tradesperson Insurance: Builders, Electricians & More",
+  "description": "Insurance for tradespeople and contractors: public liability, tools cover, employers’ liability, contract works, vans and what contractors ask for.",
+  "eyebrow": "Commercial · Trades",
+  "h1": "Tradesperson and contractor insurance",
+  "intro": "Tradespeople work in other people’s homes and on sites, carry valuable tools, and often take on helpers. That’s why trade insurance packages combine liability, tools and vans, with employers’ cover once you’re not working alone.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e",
+    "alt": "Electrician in a yellow hard hat installing wiring",
+    "credit": "Emmanuel Ikwuegbu",
+    "creditUrl": "https://unsplash.com/@emmages"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-TRADE",
+      "rows": [
+        [
+          "Core cover",
+          "Public liability (UK) / general liability (US), usually £1m–£10m or $1m+."
+        ],
+        [
+          "Usually added",
+          "Tools and equipment, contract works, products liability."
+        ],
+        [
+          "Legal must-haves",
+          "Employers’ liability (UK) or workers’ comp (US) if you have employees; motor cover for vans."
+        ],
+        [
+          "Often required",
+          "Main contractors may ask for specific limits and certificates before you start on site."
+        ],
+        [
+          "Watch out for",
+          "Tools left in vans overnight, heat work (welding, roofing torches), work at height limits."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Trade insurance at a glance",
+      "covered": [
+        "Injury to the public and damage to clients’ property",
+        "Tools and equipment (if added), including theft from a locked van on many policies",
+        "Contract works: damage to the work in progress",
+        "Employers’ liability for staff and some labour-only subcontractors"
+      ],
+      "excluded": [
+        "Faulty workmanship itself (the cost of putting it right)",
+        "Tools left in a van overnight without meeting conditions",
+        "Heat work unless declared",
+        "Work above stated heights or depths"
+      ],
+      "addons": [
+        "Tools cover",
+        "Contract works",
+        "Hired-in plant",
+        "Personal accident",
+        "Legal expenses"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Which trades this covers",
+      "html": "<p>Builders, electricians, plumbers, gas engineers, roofers, plasterers, painters and decorators, carpenters, landscapers, cleaners, handymen and more. Insurers price by trade because risks differ: roofing and work with heat carry more risk than decorating. Declare every type of work you do.</p>"
+    },
+    {
+      "h2": "Tools and vans",
+      "html": "<p>Tools are expensive and theft from vans is a common claim. Check the conditions: some policies require tools to be removed from vehicles overnight or kept in a locked steel cabinet, and may only pay for visible forced entry. Your van needs its own <a href=\"/van-insurance/\">van insurance</a> with the right class of use.</p>"
+    },
+    {
+      "h2": "Find work and compare tradespeople",
+      "html": "<p>Homeowners looking for trusted local tradespeople can compare options on our sister sites <a href=\"https://tradesstation.shmor.ai/\">TradesStation</a> and <a href=\"https://localplumbers.shmor.ai/\">LocalPlumbers</a>. Insured, accredited trades are easier to recommend.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is public liability insurance compulsory for tradespeople?",
+      "a": "Not by law, but many clients, letting agents and main contractors require it, and a single claim can be expensive."
+    },
+    {
+      "q": "Do I need employers’ liability for a labourer I pay by the day?",
+      "a": "Often yes. Labour-only subcontractors and casual helpers can count as employees for employers’ liability purposes in the UK. Check with your insurer."
+    },
+    {
+      "q": "Does my policy cover putting right my own bad work?",
+      "a": "Usually no. It covers resulting damage to other property, not the cost of redoing faulty work."
+    }
+  ],
+  "keywords": [
+    "tradesman insurance",
+    "tradesperson insurance",
+    "builders insurance",
+    "contractors insurance",
+    "electrician insurance",
+    "plumber insurance",
+    "tools insurance"
+  ],
+  "cardText": "Liability, tools, contract works and vans for builders, plumbers and electricians.",
+  "related": [
+    "public-liability-insurance",
+    "van-insurance",
+    "employers-liability-insurance",
+    "workers-compensation"
+  ]
+}

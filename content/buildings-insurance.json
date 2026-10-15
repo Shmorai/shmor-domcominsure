@@ -1,0 +1,120 @@
+{
+  "updated": "2026-10-15",
+  "slug": "buildings-insurance",
+  "short": "Buildings insurance",
+  "title": "Buildings Insurance: Rebuild Cost, Cover & Exclusions",
+  "description": "What buildings insurance covers, how to work out your rebuild cost, why lenders insist on it, and what leaseholders and flat owners should check first.",
+  "eyebrow": "Domestic · Home",
+  "h1": "Buildings insurance",
+  "intro": "Buildings insurance pays to repair or rebuild the structure of your home after damage such as fire, storm or subsidence. Getting the sum insured right matters more than shaving a few pounds off the premium.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+    "alt": "Two-storey house with a dark roof and a covered front porch",
+    "credit": "Naomi Hutchinson",
+    "creditUrl": "https://unsplash.com/@naomi365photography"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-BLDG",
+      "rows": [
+        [
+          "Covers",
+          "Walls, roof, floors, windows, doors, fitted kitchens and bathrooms, permanent fixtures; often outbuildings, fences, gates and drives."
+        ],
+        [
+          "Who needs it",
+          "Homeowners, especially with a mortgage. Leasehold flat owners are usually covered by the building’s block policy."
+        ],
+        [
+          "Legal requirement",
+          "No, but it’s a standard condition of a mortgage."
+        ],
+        [
+          "Sum insured",
+          "The rebuild cost (UK) or replacement cost (US), not the market value."
+        ],
+        [
+          "Watch out for",
+          "Subsidence excess, unoccupancy limits, maintenance exclusions, flood exclusion (US)."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Buildings cover at a glance",
+      "covered": [
+        "Fire, explosion, lightning, earthquake (UK policies commonly include it)",
+        "Storm and flood (UK standard policies)",
+        "Escape of water and oil",
+        "Subsidence, heave and landslip, usually with a higher excess",
+        "Impact by vehicles, falling trees and aerials",
+        "Malicious damage and vandalism (limits can apply if unoccupied)",
+        "Property owner’s liability",
+        "Cost of alternative accommodation"
+      ],
+      "excluded": [
+        "Wear and tear, rot, damp and lack of maintenance",
+        "Storm damage to gates and fences (common exclusion)",
+        "Damage caused by faulty workmanship",
+        "Settlement or shrinkage of new structures",
+        "Loss while unoccupied beyond the policy limit"
+      ],
+      "addons": [
+        "Accidental damage to the building",
+        "Trace and access (finding a hidden leak)",
+        "Home emergency",
+        "Higher limits for outbuildings or swimming pools"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Working out your rebuild cost",
+      "html": "<p>The rebuild cost is what it would cost to demolish, clear the site and rebuild your home to the same standard, including professional fees and meeting current building regulations. It’s usually different from the market value because it excludes land and includes demolition.</p><ul><li>Check your mortgage valuation report, which often includes a reinstatement figure.</li><li>The BCIS (part of RICS) publishes a free online rebuild cost calculator for typical UK homes.</li><li>For listed, unusual or larger homes, ask a chartered surveyor for a reinstatement cost assessment.</li><li>Some insurers offer cover “up to” a high limit without asking for a sum. Check that limit really fits your home.</li></ul>"
+    },
+    {
+      "h2": "Flats and leasehold homes",
+      "html": "<p>If you own a leasehold flat in England or Wales, the freeholder or management company usually insures the whole building and recharges a share through your service charge. You then only need <a href=\"/contents-insurance/\">contents insurance</a>. Ask for a copy of the block policy summary so you know what’s covered and the excess. In the US, condo owners buy an <strong>HO-6</strong> policy for interior walls, fixtures and improvements while the association insures the shell.</p>"
+    },
+    {
+      "h2": "Subsidence and other big-ticket claims",
+      "html": "<p>Subsidence is when the ground beneath a building sinks, often linked to clay soils, trees and leaking drains. UK buildings policies typically include it with a higher compulsory excess. If your home has had subsidence before, you must declare it; some insurers will still offer cover, sometimes with conditions. Escape of water is one of the most common home claims, so check whether your policy covers finding the leak (“trace and access”) as well as the damage it causes.</p>"
+    },
+    {
+      "h2": "When you must tell your insurer",
+      "html": "<ul><li>Building work, extensions or loft conversions (before work starts).</li><li>Leaving the home empty for longer than the policy allows.</li><li>Letting the property, taking in lodgers or running a business from home.</li><li>Changes to the roof, structure or heating.</li></ul><p>Not telling your insurer can lead to a claim being reduced or refused. See <a href=\"/blog/non-disclosure-misrepresentation/\">non-disclosure and misrepresentation</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need buildings insurance if I have a mortgage?",
+      "a": "Almost certainly. Lenders require the property to be insured from exchange of contracts (England and Wales) or completion, depending on the deal. Check your mortgage offer."
+    },
+    {
+      "q": "Is my rebuild cost the same as what I paid?",
+      "a": "Rarely. The price includes land and location; the rebuild cost is the construction cost. It can be much lower in expensive areas and higher for period or rural homes."
+    },
+    {
+      "q": "Does buildings insurance cover my boiler?",
+      "a": "Damage caused by a fault (for example escaping water) may be covered, but breakdown and repair of the boiler itself usually isn’t. That’s what home emergency cover or a boiler service plan is for."
+    }
+  ],
+  "keywords": [
+    "buildings insurance",
+    "rebuild cost",
+    "reinstatement cost",
+    "dwelling coverage",
+    "house insurance uk",
+    "leasehold buildings insurance"
+  ],
+  "cardText": "Insure the rebuild cost, not the market value, and know what leaseholders already have.",
+  "related": [
+    "home-insurance",
+    "contents-insurance",
+    "landlord-insurance",
+    "flood-insurance"
+  ]
+}

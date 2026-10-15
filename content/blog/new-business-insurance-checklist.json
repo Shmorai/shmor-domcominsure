@@ -1,0 +1,56 @@
+{
+  "updated": "2026-09-26",
+  "type": "post",
+  "slug": "blog/new-business-insurance-checklist",
+  "date": "2026-09-26",
+  "short": "New business checklist",
+  "title": "Starting a Business? Your Insurance Checklist for Year One",
+  "description": "The insurance to sort before you start trading: legal must-haves, what clients and landlords ask for, policies to update and covers to review later.",
+  "h1": "Starting a business: your insurance checklist",
+  "intro": "Insurance is easy to overlook when you’re launching a business. This checklist covers what to sort before you trade, what to tell your existing insurers, and what to review as you grow.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+    "alt": "Small team working together around laptops",
+    "credit": "Annie Spratt",
+    "creditUrl": "https://unsplash.com/@anniespratt"
+  },
+  "sections": [
+    {
+      "h2": "Before you trade",
+      "html": "<ul><li><strong>Employees?</strong> <a href=\"/employers-liability-insurance/\">Employers’ liability</a> (UK) or <a href=\"/workers-compensation/\">workers’ comp</a> (US) from day one of employment.</li><li><strong>Vehicles?</strong> Business use on your car policy, or a <a href=\"/van-insurance/\">van policy</a> with the right class of use.</li><li><strong>Meeting the public?</strong> <a href=\"/public-liability-insurance/\">Public or general liability</a>.</li><li><strong>Giving advice or professional services?</strong> <a href=\"/professional-indemnity-insurance/\">Professional indemnity</a>.</li></ul>"
+    },
+    {
+      "h2": "Tell your existing insurers",
+      "html": "<ul><li>Home insurer: if you’ll work from home, hold stock or have visitors. See <a href=\"/home-business-insurance/\">home business insurance</a>.</li><li>Car insurer: business use beyond commuting.</li><li>Mortgage lender or landlord: business use may be restricted.</li></ul>"
+    },
+    {
+      "h2": "Read your contracts",
+      "html": "<p>Leases, client contracts, platform terms and venue agreements often specify insurance types and minimum limits, and sometimes ask to be named on your policy. Collect these requirements before buying so you don’t have to change cover mid-term.</p>"
+    },
+    {
+      "h2": "Review at 6 and 12 months",
+      "html": "<ul><li>Turnover and staff numbers changed? Update your insurer.</li><li>Holding customer data or taking online payments? Look at <a href=\"/cyber-insurance/\">cyber insurance</a>.</li><li>Moved into premises? Add <a href=\"/commercial-property-insurance/\">property and business interruption</a>.</li><li>Brought in investors or directors? Consider <a href=\"/directors-and-officers-insurance/\">D&O</a>.</li></ul><p>Or run the <a href=\"/cover-checker/\">cover checker</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need insurance to register a company?",
+      "a": "Not to register, but legal requirements such as employers’ liability apply as soon as you employ people."
+    },
+    {
+      "q": "Can I buy cover monthly as a new business?",
+      "a": "Many insurers offer monthly payments for small business policies. Check whether interest applies."
+    }
+  ],
+  "keywords": [
+    "new business insurance",
+    "insurance for startups",
+    "business insurance checklist",
+    "what insurance do i need for my business"
+  ],
+  "related": [
+    "business-insurance",
+    "cover-checker",
+    "home-business-insurance"
+  ]
+}

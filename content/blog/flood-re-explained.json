@@ -1,0 +1,88 @@
+{
+  "updated": "2026-09-18",
+  "type": "post",
+  "slug": "blog/flood-re-explained",
+  "date": "2026-09-18",
+  "short": "Flood Re explained",
+  "title": "Flood Re Explained: Affordable Flood Cover for UK Homes",
+  "description": "How Flood Re helps UK homes in flood-risk areas get affordable insurance, which homes are eligible, why post-2009 homes are excluded and the 2039 end.",
+  "h1": "Flood Re explained",
+  "intro": "If you live somewhere at high flood risk in the UK, you may have benefited from Flood Re without knowing it. Here’s how the scheme works and whether your home qualifies.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1604275689235-fdc521556c16",
+    "alt": "Floodwater surrounding stone buildings and a partly submerged car",
+    "credit": "Chris Gallagher",
+    "creditUrl": "https://unsplash.com/@chriswebdog"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "title": "Key points",
+      "rows": [
+        [
+          "What it is",
+          "A reinsurance scheme run jointly by government and insurers."
+        ],
+        [
+          "How you use it",
+          "Through your normal home insurer; you can’t buy from Flood Re directly."
+        ],
+        [
+          "Build date",
+          "Homes built before 1 January 2009 can be eligible."
+        ],
+        [
+          "Ends",
+          "Designed to close in 2039."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>Insurers can pass (“cede”) the flood part of an eligible home policy to Flood Re for a set price based on the home’s council tax band. That lets them offer cover at prices they might not otherwise. All UK home insurers pay a levy that funds the scheme.</p>"
+    },
+    {
+      "h2": "Who is eligible",
+      "html": "<p>Broadly, a home must be residential, in council tax bands A–H (or equivalent), insured by the occupants or left empty, and built before 1 January 2009. Some types of property and policy, including certain landlord, leasehold block and commercial arrangements, aren’t eligible. Flood Re’s own website has an eligibility checker and a list of insurers using the scheme.</p>"
+    },
+    {
+      "h2": "Why 2009 and 2039?",
+      "html": "<p>Excluding newer homes is meant to discourage building in flood-prone areas without proper protection. Flood Re is designed as a transition: by 2039 the aim is for flood insurance to be affordable through a combination of better flood defences, resilient homes and risk-reflective pricing. That’s why Flood Re also promotes property flood resilience, such as through “Build Back Better” payments some insurers offer after a flood.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to apply to Flood Re?",
+      "a": "No. Buy home insurance as usual; if your insurer uses Flood Re and your home is eligible, it can use the scheme behind the scenes."
+    },
+    {
+      "q": "Does Flood Re cover businesses?",
+      "a": "No. It’s for eligible households only."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Flood Re",
+      "url": "https://www.floodre.co.uk/"
+    },
+    {
+      "title": "GOV.UK: Check your long term flood risk",
+      "url": "https://www.gov.uk/check-long-term-flood-risk"
+    }
+  ],
+  "keywords": [
+    "flood re",
+    "flood re eligibility",
+    "flood insurance uk",
+    "home insurance flood risk area"
+  ],
+  "related": [
+    "flood-insurance",
+    "home-insurance",
+    "blog/storm-season-claims"
+  ]
+}

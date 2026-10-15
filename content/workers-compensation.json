@@ -1,0 +1,93 @@
+{
+  "updated": "2026-10-15",
+  "slug": "workers-compensation",
+  "short": "Workers’ comp",
+  "title": "Workers’ Compensation Insurance Explained (US Guide)",
+  "description": "US workers’ compensation insurance: who must carry it, what it pays, how premiums are calculated, state funds, Texas nonsubscribers and employer’s liability.",
+  "eyebrow": "Commercial · US law",
+  "h1": "Workers’ compensation insurance",
+  "intro": "Workers’ comp pays medical costs and part of lost wages when employees are hurt or made ill by their work. In return, employees generally can’t sue the employer for those injuries. Each state sets its own rules.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5",
+    "alt": "Construction workers in hard hats and hi-vis standing on a site",
+    "credit": "Scott Blake",
+    "creditUrl": "https://unsplash.com/@sunburned_surveyor"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-WC",
+      "rows": [
+        [
+          "Who needs it",
+          "Employers in almost every state once they have employees; thresholds and exemptions vary by state and industry."
+        ],
+        [
+          "Exception",
+          "Texas lets most private employers opt out (“nonsubscribers”), but they lose key legal protections."
+        ],
+        [
+          "What it pays",
+          "Medical care, part of lost wages, rehabilitation and death benefits."
+        ],
+        [
+          "Part two",
+          "Employer’s liability cover for lawsuits not barred by the comp system."
+        ],
+        [
+          "Where to buy",
+          "Private insurers, state funds, or monopolistic state funds in a few states."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>Workers’ compensation is a “no-fault” system: injured employees receive benefits regardless of who caused the accident, and in exchange the comp system is usually their exclusive remedy against the employer. A standard policy has two parts: <strong>Part One</strong> pays the statutory benefits set by state law, and <strong>Part Two (employer’s liability)</strong> covers lawsuits that fall outside the comp system, up to policy limits.</p>"
+    },
+    {
+      "h2": "Who must carry it",
+      "html": "<p>Rules vary: some states require cover from the first employee, others from a set number of employees, and some exclude certain groups such as some agricultural workers or sole proprietors. A handful of states (North Dakota, Ohio, Washington and Wyoming) run <strong>monopolistic state funds</strong>, where employers must buy from the state. Penalties for not having required cover can include fines, stop-work orders and personal liability for claims.</p>"
+    },
+    {
+      "h2": "How premiums are set",
+      "html": "<p>Premiums are usually based on <strong>payroll</strong> per class of work (each with a classification code and rate), adjusted by an <strong>experience modification rate</strong> that reflects your claims history compared with similar businesses. Policies are often audited after the year ends to compare estimated and actual payroll. Misclassifying workers, or treating employees as contractors, can lead to unexpected bills.</p>"
+    },
+    {
+      "h2": "Contractors and the self-employed",
+      "html": "<p>Independent contractors generally aren’t covered by your policy, but if a contractor is uninsured, some states can treat their workers as yours for comp purposes. Ask subcontractors for certificates of insurance. Sole proprietors can often choose to cover themselves.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is workers’ comp required in every state?",
+      "a": "Almost. Texas is the notable exception where most private employers can choose not to carry it. Even there, many do because nonsubscribers can be sued directly by injured workers."
+    },
+    {
+      "q": "Does workers’ comp cover remote employees?",
+      "a": "Generally yes, for injuries arising out of and in the course of employment, although home-working claims can be harder to prove. State rules apply."
+    },
+    {
+      "q": "Is workers’ comp the same as UK employers’ liability?",
+      "a": "They serve similar purposes but work differently. UK <a href=\"/employers-liability-insurance/\">employers’ liability</a> pays compensation when an employer is legally liable; US workers’ comp pays defined benefits regardless of fault."
+    }
+  ],
+  "keywords": [
+    "workers comp",
+    "workers compensation",
+    "workers compensation insurance",
+    "employer liability insurance us",
+    "experience mod",
+    "texas nonsubscriber"
+  ],
+  "cardText": "US state-mandated cover for injured employees, and how premiums are worked out.",
+  "related": [
+    "employers-liability-insurance",
+    "business-owners-policy",
+    "usa",
+    "tradesperson-insurance"
+  ]
+}

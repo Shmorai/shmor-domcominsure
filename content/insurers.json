@@ -1,0 +1,836 @@
+{
+  "updated": "2026-10-15",
+  "slug": "insurers",
+  "nav": "Insurers",
+  "navOrder": 5,
+  "title": "Insurers & Comparison Sites: UK, US and Europe Directory",
+  "description": "A directory of well-known insurers, brokers and insurance comparison sites in the UK, US and Europe, with what each sells and official site links.",
+  "eyebrow": "Directory",
+  "h1": "Insurers and comparison sites",
+  "intro": "Well-known insurers, specialist business insurers, brokers and comparison services, with what they sell and links to their official sites. No ratings or rankings: compare quotes and policy wordings for your own situation.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Two people shaking hands over a paper agreement",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "blocks": [
+    {
+      "type": "specs",
+      "position": "top",
+      "title": "Directory",
+      "intro": "Filter by region or type. Listing here isn’t an endorsement; check each provider’s authorisation and policy documents.",
+      "allLabel": "All",
+      "tabs": [
+        {
+          "id": "uk",
+          "label": "UK"
+        },
+        {
+          "id": "us",
+          "label": "USA"
+        },
+        {
+          "id": "eu",
+          "label": "Europe"
+        },
+        {
+          "id": "compare",
+          "label": "Comparison sites"
+        }
+      ],
+      "items": [
+        {
+          "tag": "uk",
+          "mono": "Av",
+          "title": "Aviva",
+          "kind": "Home · Motor · Life · Business",
+          "text": "One of the UK’s largest insurers. Completed its acquisition of Direct Line Group in July 2025.",
+          "url": "https://www.aviva.co.uk/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "DL",
+          "title": "Direct Line",
+          "kind": "Home · Motor · Business",
+          "text": "Sells mainly direct rather than through comparison sites. Group brands include Churchill, Privilege and Green Flag. Part of Aviva since 2025.",
+          "url": "https://www.directline.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; small business"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "Ad",
+          "title": "Admiral",
+          "kind": "Motor · Home · Travel",
+          "text": "Cardiff-based insurer best known for car insurance. Brands include Elephant, Bell and Diamond.",
+          "url": "https://www.admiral.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal lines"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "AX",
+          "title": "AXA UK",
+          "kind": "Home · Motor · Business · Health",
+          "text": "UK arm of the French insurance group, with business insurance for small firms and tradespeople.",
+          "url": "https://www.axa.co.uk/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "LV",
+          "title": "LV=",
+          "kind": "Motor · Home · Travel",
+          "text": "Car, home and travel insurance under the LV= brand, provided by LV= General Insurance, part of Allianz.",
+          "url": "https://www.lv.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal lines"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "Hx",
+          "title": "Hiscox",
+          "kind": "Business · High-value home",
+          "text": "Specialist insurer known for small business, professional indemnity and high-value home insurance.",
+          "url": "https://www.hiscox.co.uk/",
+          "specs": [
+            [
+              "Type",
+              "Specialist insurer"
+            ],
+            [
+              "Sells",
+              "Commercial &amp; home"
+            ],
+            [
+              "Region",
+              "UK, US, Europe"
+            ]
+          ],
+          "badge": "Business"
+        },
+        {
+          "tag": "uk",
+          "mono": "NF",
+          "title": "NFU Mutual",
+          "kind": "Farm · Home · Motor · Business",
+          "text": "Mutual insurer with rural roots, selling through local agency offices.",
+          "url": "https://www.nfumutual.co.uk/",
+          "specs": [
+            [
+              "Type",
+              "Mutual insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "Zu",
+          "title": "Zurich UK",
+          "kind": "Home · Business · Life",
+          "text": "UK business of the Swiss group, selling home insurance and a wide range of commercial cover, often via brokers.",
+          "url": "https://www.zurich.co.uk/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "uk",
+          "mono": "SB",
+          "title": "Simply Business",
+          "kind": "Business · Landlord",
+          "text": "Online broker comparing business and landlord insurance quotes for small firms and sole traders. Owned by Travelers.",
+          "url": "https://www.simplybusiness.co.uk/",
+          "specs": [
+            [
+              "Type",
+              "Online broker"
+            ],
+            [
+              "Sells",
+              "Small business"
+            ],
+            [
+              "Region",
+              "UK, US"
+            ]
+          ],
+          "badge": "Broker"
+        },
+        {
+          "tag": "us",
+          "mono": "SF",
+          "title": "State Farm",
+          "kind": "Auto · Home · Renters · Life",
+          "text": "Mutual insurer selling personal insurance through a large network of local agents.",
+          "url": "https://www.statefarm.com/",
+          "specs": [
+            [
+              "Type",
+              "Mutual insurer"
+            ],
+            [
+              "Sells",
+              "Personal lines"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "GE",
+          "title": "GEICO",
+          "kind": "Auto · Home · Renters",
+          "text": "Auto insurer owned by Berkshire Hathaway; home and renters policies are often arranged through partner insurers.",
+          "url": "https://www.geico.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal lines"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "Pr",
+          "title": "Progressive",
+          "kind": "Auto · Commercial auto · Home",
+          "text": "Large auto insurer, also a major writer of commercial auto for small businesses.",
+          "url": "https://www.progressive.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial auto"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "As",
+          "title": "Allstate",
+          "kind": "Auto · Home · Renters · Life",
+          "text": "Sells personal insurance through agents and online.",
+          "url": "https://www.allstate.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal lines"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "LM",
+          "title": "Liberty Mutual",
+          "kind": "Auto · Home · Renters · Business",
+          "text": "Personal and commercial insurance, with small business cover through agents.",
+          "url": "https://www.libertymutual.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "US",
+          "title": "USAA",
+          "kind": "Auto · Home · Renters · Life",
+          "text": "Insurance and banking for eligible US military members, veterans and their families.",
+          "url": "https://www.usaa.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Eligibility",
+              "Military community"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "TH",
+          "title": "The Hartford",
+          "kind": "Small business · Workers’ comp",
+          "text": "Long-established insurer focused on small business packages, BOPs and workers’ compensation.",
+          "url": "https://www.thehartford.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Commercial"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ],
+          "badge": "Business"
+        },
+        {
+          "tag": "us",
+          "mono": "Tr",
+          "title": "Travelers",
+          "kind": "Auto · Home · Business",
+          "text": "Personal and commercial insurer, selling largely through independent agents.",
+          "url": "https://www.travelers.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "Ch",
+          "title": "Chubb",
+          "kind": "High-value home · Commercial",
+          "text": "Global insurer known for high-value homes, collections and commercial risks.",
+          "url": "https://www.chubb.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal &amp; commercial"
+            ],
+            [
+              "Region",
+              "Global"
+            ]
+          ]
+        },
+        {
+          "tag": "us",
+          "mono": "Le",
+          "title": "Lemonade",
+          "kind": "Renters · Home · Car · Pet · Life",
+          "text": "App-based insurer selling renters, homeowners, car, pet and term life insurance online.",
+          "url": "https://www.lemonade.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurer"
+            ],
+            [
+              "Sells",
+              "Personal lines"
+            ],
+            [
+              "Region",
+              "USA, parts of Europe"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "Al",
+          "title": "Allianz",
+          "kind": "Personal · Commercial",
+          "text": "Munich-based insurance group operating across Europe and worldwide.",
+          "url": "https://www.allianz.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "Germany"
+            ],
+            [
+              "Region",
+              "Europe &amp; global"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "AX",
+          "title": "AXA",
+          "kind": "Personal · Commercial",
+          "text": "Paris-based insurance group with home, motor, health and business cover across Europe.",
+          "url": "https://www.axa.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "France"
+            ],
+            [
+              "Region",
+              "Europe &amp; global"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "Ge",
+          "title": "Generali",
+          "kind": "Personal · Commercial",
+          "text": "Trieste-based insurance group with operations across Europe.",
+          "url": "https://www.generali.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "Italy"
+            ],
+            [
+              "Region",
+              "Europe &amp; global"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "Ma",
+          "title": "Mapfre",
+          "kind": "Personal · Commercial",
+          "text": "Spanish insurance group with motor, home and business cover in Spain and Latin America.",
+          "url": "https://www.mapfre.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "Spain"
+            ],
+            [
+              "Region",
+              "Europe &amp; Americas"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "Ag",
+          "title": "Ageas",
+          "kind": "Personal · Commercial",
+          "text": "Brussels-based insurance group; also operates in the UK as Ageas UK.",
+          "url": "https://www.ageas.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "Belgium"
+            ],
+            [
+              "Region",
+              "Europe &amp; Asia"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "Ac",
+          "title": "Achmea",
+          "kind": "Personal · Commercial",
+          "text": "Dutch insurance group behind brands such as Centraal Beheer and Interpolis.",
+          "url": "https://www.achmea.nl/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "Netherlands"
+            ],
+            [
+              "Region",
+              "Netherlands"
+            ]
+          ]
+        },
+        {
+          "tag": "eu",
+          "mono": "Zu",
+          "title": "Zurich",
+          "kind": "Personal · Commercial",
+          "text": "Swiss insurance group with retail and commercial insurance across Europe.",
+          "url": "https://www.zurich.com/",
+          "specs": [
+            [
+              "Type",
+              "Insurance group"
+            ],
+            [
+              "Home market",
+              "Switzerland"
+            ],
+            [
+              "Region",
+              "Europe &amp; global"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "CM",
+          "title": "Compare the Market",
+          "kind": "UK comparison site",
+          "text": "Compares car, home, van, travel, life and business insurance from many UK providers.",
+          "url": "https://www.comparethemarket.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "MS",
+          "title": "MoneySuperMarket",
+          "kind": "UK comparison site",
+          "text": "Compares insurance, energy and financial products in the UK.",
+          "url": "https://www.moneysupermarket.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "GC",
+          "title": "GoCompare",
+          "kind": "UK comparison site",
+          "text": "Compares car, home, van, travel and other insurance in the UK.",
+          "url": "https://www.gocompare.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "Cf",
+          "title": "Confused.com",
+          "kind": "UK comparison site",
+          "text": "Compares car, van, home and other insurance in the UK.",
+          "url": "https://www.confused.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "UK"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "PG",
+          "title": "Policygenius",
+          "kind": "US marketplace",
+          "text": "Online marketplace for life, home and other insurance in the US.",
+          "url": "https://www.policygenius.com/",
+          "specs": [
+            [
+              "Type",
+              "Marketplace / broker"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "Ze",
+          "title": "The Zebra",
+          "kind": "US comparison site",
+          "text": "Compares car and home insurance quotes in the US.",
+          "url": "https://www.thezebra.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "USA"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "C24",
+          "title": "Check24",
+          "kind": "German comparison site",
+          "text": "Compares insurance (Versicherungen), energy and more in Germany.",
+          "url": "https://www.check24.de/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "Germany"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "LF",
+          "title": "LesFurets",
+          "kind": "French comparison site",
+          "text": "Compares car, home and other insurance in France.",
+          "url": "https://www.lesfurets.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "France"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "Ra",
+          "title": "Rastreator",
+          "kind": "Spanish comparison site",
+          "text": "Compares car, home and other insurance in Spain.",
+          "url": "https://www.rastreator.com/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "Spain"
+            ]
+          ]
+        },
+        {
+          "tag": "compare",
+          "mono": "Fa",
+          "title": "Facile.it",
+          "kind": "Italian comparison site",
+          "text": "Compares car, home and other insurance in Italy.",
+          "url": "https://www.facile.it/",
+          "specs": [
+            [
+              "Type",
+              "Comparison site"
+            ],
+            [
+              "Region",
+              "Italy"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Before you buy from anyone",
+      "html": "<ul><li><strong>UK</strong>: check the firm on the <a href=\"https://register.fca.org.uk/\" rel=\"noopener\" target=\"_blank\">FCA Financial Services Register</a> and beware clone firms using real firms’ names.</li><li><strong>US</strong>: check the insurer and agent license with your state insurance department; the NAIC links to every state.</li><li><strong>EU</strong>: check with your national supervisor; EIOPA lists national authorities.</li></ul><p class=\"warn\"><strong>Ghost broking:</strong> cheap “insurance” sold through social media or messaging apps can be fake or based on false details, leaving you uninsured. Buy from authorised firms only.</p>"
+    },
+    {
+      "h2": "Insurers vs brokers vs comparison sites",
+      "html": "<p>An <strong>insurer</strong> carries the risk and pays claims. A <strong>broker</strong> or <strong>agent</strong> arranges cover with insurers; independent brokers can approach several. A <strong>comparison site</strong> shows quotes from participating providers and passes you to them to buy. Some brands are “managing general agents” that design products underwritten by other insurers; the policy documents name the actual insurer.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why aren’t there star ratings?",
+      "a": "We don’t publish ratings or rankings we can’t back with our own verifiable testing. Use independent complaint data and the policy documents to compare."
+    },
+    {
+      "q": "Is every insurer on comparison sites?",
+      "a": "No. Some insurers sell only direct. Check those separately when you compare."
+    }
+  ],
+  "keywords": [
+    "insurance companies",
+    "insurers list",
+    "insurance comparison sites",
+    "business insurance brokers",
+    "uk insurers",
+    "us insurance companies"
+  ],
+  "cardText": "Well-known insurers, brokers and comparison sites across the UK, US and Europe.",
+  "related": [
+    "how-to-compare-insurance",
+    "claims",
+    "usa",
+    "europe"
+  ]
+}

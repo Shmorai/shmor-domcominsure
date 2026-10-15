@@ -1,0 +1,130 @@
+{
+  "updated": "2026-10-15",
+  "slug": "life-insurance",
+  "short": "Life insurance",
+  "title": "Life Insurance Explained: Term, Whole of Life & Trusts",
+  "description": "Life insurance basics: level and decreasing term, whole of life, critical illness, income protection, writing a policy in trust and how much cover to get.",
+  "eyebrow": "Domestic · Family",
+  "h1": "Life insurance",
+  "intro": "Life insurance pays out if you die during the policy, so the people who depend on your income can keep their home and plans on track. Here’s how the main types work and what to think about before you buy.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503431153573-96e959f4d9b7",
+    "alt": "Parents and a young child walking together along a dirt road",
+    "credit": "Alberto Casetta",
+    "creditUrl": "https://unsplash.com/@acasetta"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-LIFE",
+      "rows": [
+        [
+          "Who needs it",
+          "Anyone with dependants or debts (such as a mortgage) that others would have to pay."
+        ],
+        [
+          "Main types",
+          "Level term · Decreasing term (mortgage) · Whole of life · Family income benefit."
+        ],
+        [
+          "Related covers",
+          "Critical illness cover · Income protection · Death in service (through an employer)."
+        ],
+        [
+          "Legal requirement",
+          "No. Some lenders ask for it alongside a mortgage, but it’s rarely compulsory."
+        ],
+        [
+          "Watch out for",
+          "Non-disclosure of health or lifestyle, policies not written in trust, cover ending before debts do."
+        ]
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "The main types of life cover",
+      "items": [
+        {
+          "icon": "heart",
+          "title": "Level term",
+          "text": "Pays a fixed lump sum if you die within the term. Common for family protection."
+        },
+        {
+          "icon": "house",
+          "title": "Decreasing term",
+          "text": "The payout falls over time, usually matching a repayment mortgage. Often cheaper."
+        },
+        {
+          "icon": "calendar",
+          "title": "Family income benefit",
+          "text": "Pays a regular income until the end of the term rather than a lump sum."
+        },
+        {
+          "icon": "shield",
+          "title": "Whole of life",
+          "text": "Covers you for life, so it always pays out eventually. Costs much more; sometimes used for inheritance tax planning."
+        },
+        {
+          "icon": "heartpulse",
+          "title": "Critical illness",
+          "text": "Pays a lump sum on diagnosis of listed serious illnesses. Definitions vary by insurer."
+        },
+        {
+          "icon": "wallet",
+          "title": "Income protection",
+          "text": "Replaces part of your income if illness or injury stops you working, after a waiting period."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How much cover?",
+      "html": "<p>Start with what would need paying if you died: the outstanding mortgage and other debts, plus the income your family would lose until children are independent, and costs like childcare. Subtract existing cover such as death in service from your employer. A regulated adviser can help with complex situations.</p>"
+    },
+    {
+      "h2": "Writing a policy in trust (UK)",
+      "html": "<p>Putting a life policy in trust can mean the payout goes directly to your chosen beneficiaries without waiting for probate, and in many cases keeps it outside your estate for inheritance tax. Most insurers provide free trust forms; take advice if your situation is complicated.</p>"
+    },
+    {
+      "h2": "Life insurance in the US",
+      "html": "<p>US policies come as <strong>term life</strong> (for a set number of years) and <strong>permanent life</strong> (whole life and universal life, which include a cash value element). Many employers provide group life cover, often a multiple of salary, but it usually ends when you leave the job. Insurers are regulated by state insurance departments.</p>"
+    },
+    {
+      "h2": "Honesty on the application",
+      "html": "<p>Answer health, smoking and lifestyle questions accurately. Misrepresentation can lead to a claim being reduced or refused, which is the worst possible outcome for a family. Life insurance is also exempt from UK Insurance Premium Tax.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need life insurance if I’m single with no dependants?",
+      "a": "Often not, unless someone else would be left with debts. Income protection may be more relevant if you rely on your own salary."
+    },
+    {
+      "q": "Is joint life cover cheaper than two single policies?",
+      "a": "Often slightly cheaper, but joint policies usually pay out only once, on the first death. Two single policies pay twice."
+    },
+    {
+      "q": "Is life insurance taxed in the UK?",
+      "a": "Life insurance is exempt from Insurance Premium Tax. Payouts may count towards your estate for inheritance tax unless written in trust."
+    }
+  ],
+  "keywords": [
+    "life insurance",
+    "term life insurance",
+    "mortgage life insurance",
+    "whole of life",
+    "critical illness cover",
+    "income protection",
+    "life insurance trust"
+  ],
+  "cardText": "Level or decreasing term, whole of life and the covers that sit alongside them.",
+  "related": [
+    "home-insurance",
+    "travel-insurance",
+    "how-to-compare-insurance",
+    "insurance-glossary"
+  ]
+}

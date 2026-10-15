@@ -1,0 +1,108 @@
+{
+  "updated": "2026-10-15",
+  "slug": "usa",
+  "short": "Insurance in the USA",
+  "title": "Insurance in the USA: A Guide for Homes and Businesses",
+  "description": "How US insurance works: state regulation, homeowners forms, auto minimums, flood and the NFIP, workers’ comp, BOPs and checking an agent license.",
+  "eyebrow": "Region · United States",
+  "h1": "Insurance in the USA",
+  "intro": "US insurance is regulated state by state, which is why rules on auto minimums, workers’ comp and even policy forms vary depending on where you live and work. Here’s the map.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1572523473094-46c0d60ceb29",
+    "alt": "White and brown suburban house among trees on a sunny day",
+    "credit": "Eilis Garvey",
+    "creditUrl": "https://unsplash.com/@eilisgarvey"
+  },
+  "blocks": [
+    {
+      "type": "deals",
+      "position": "top",
+      "title": "US guides",
+      "items": [
+        {
+          "icon": "house",
+          "title": "Homeowners (HO-3, HO-5)",
+          "slug": "home-insurance"
+        },
+        {
+          "icon": "key",
+          "title": "Renters (HO-4)",
+          "slug": "renters-insurance"
+        },
+        {
+          "icon": "waves",
+          "title": "Flood & the NFIP",
+          "slug": "flood-insurance"
+        },
+        {
+          "icon": "car",
+          "title": "Auto insurance",
+          "slug": "car-insurance"
+        },
+        {
+          "icon": "heartpulse",
+          "title": "Workers’ comp",
+          "slug": "workers-compensation"
+        },
+        {
+          "icon": "store",
+          "title": "Business owner’s policy",
+          "slug": "business-owners-policy"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who regulates insurance",
+      "html": "<p>Insurance in the US is mainly regulated by the states. Each state’s insurance department licenses insurers and agents, approves many policy forms and rates, and handles consumer complaints. The National Association of Insurance Commissioners (NAIC) coordinates standards between states. Some federal programs sit alongside, notably the NFIP for flood.</p>"
+    },
+    {
+      "h2": "Household insurance in the US",
+      "html": "<ul><li><strong>Homeowners</strong>: usually an HO-3 or HO-5 policy, required by mortgage lenders. Earthquake and flood need separate cover.</li><li><strong>Renters</strong>: HO-4 covers belongings, liability and loss of use; many leases require it.</li><li><strong>Auto</strong>: liability required in almost every state, with state-specific minimum limits; some states also require PIP or uninsured motorist cover.</li><li><strong>Umbrella</strong>: extra liability above home and auto limits, popular with homeowners.</li></ul>"
+    },
+    {
+      "h2": "Business insurance in the US",
+      "html": "<ul><li><a href=\"/workers-compensation/\">Workers’ compensation</a> is required in almost every state once you have employees.</li><li><a href=\"/business-owners-policy/\">BOPs</a> bundle property, general liability and business income for small firms.</li><li>Commercial auto is needed for business vehicles.</li><li>Professional liability (E&O), cyber and D&O are bought separately.</li></ul>"
+    },
+    {
+      "h2": "Check a license",
+      "html": "<p>Use your state insurance department’s website to check that an insurer is authorized and an agent or broker is licensed in your state. The NAIC’s directory links to each department.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why does car insurance cost so differently between states?",
+      "a": "States set different minimum coverage, fault systems (tort or no-fault) and rating rules, and risks such as weather, theft and litigation vary a lot by location."
+    },
+    {
+      "q": "Is health insurance covered here?",
+      "a": "No. DomCom Insure focuses on property, liability, motor, travel, life and business insurance."
+    }
+  ],
+  "keywords": [
+    "insurance in the usa",
+    "us insurance guide",
+    "state insurance department",
+    "naic",
+    "homeowners insurance usa",
+    "small business insurance usa"
+  ],
+  "cardText": "State regulation, homeowners forms, auto rules, workers’ comp and BOPs.",
+  "related": [
+    "home-insurance",
+    "workers-compensation",
+    "flood-insurance",
+    "business-owners-policy"
+  ],
+  "sources": [
+    {
+      "title": "NAIC: state insurance departments",
+      "url": "https://content.naic.org/state-insurance-departments"
+    },
+    {
+      "title": "FEMA: flood insurance",
+      "url": "https://www.fema.gov/flood-insurance"
+    }
+  ]
+}

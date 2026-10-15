@@ -1,0 +1,65 @@
+{
+  "updated": "2026-10-15",
+  "slug": "europe",
+  "short": "Insurance in Europe",
+  "title": "Insurance in Europe: EU Rules, Motor Cover & More",
+  "description": "How insurance works across the EU: compulsory motor cover, the IDD and IPID, tenant and liability cover by country, accident insurance and complaints.",
+  "eyebrow": "Region · Europe",
+  "h1": "Insurance in Europe",
+  "intro": "EU law sets common rules for selling insurance and for motor cover, but much of what’s compulsory, and how disasters and workplace accidents are covered, still depends on the country.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1616036902568-fa623d8f0c0a",
+    "alt": "People walking along a European city street lined with old buildings",
+    "credit": "Alice",
+    "creditUrl": "https://unsplash.com/@thewonderalice"
+  },
+  "sections": [
+    {
+      "h2": "Common EU rules",
+      "html": "<ul><li><strong>Motor insurance</strong>: third-party liability cover is compulsory in every member state, and an EU policy provides at least the legal minimum across the EU.</li><li><strong>Insurance Distribution Directive (IDD)</strong>: rules on how insurance is sold, including acting in customers’ best interests, disclosing how sellers are paid, and giving an IPID summary for general insurance.</li><li><strong>Solvency II</strong>: capital and risk rules that insurers must meet.</li><li><strong>EIOPA</strong>: the EU insurance supervisory authority; day-to-day supervision is by national regulators.</li></ul>"
+    },
+    {
+      "h2": "Country differences worth knowing",
+      "html": "<table><thead><tr><th>Country</th><th>Worth knowing</th></tr></thead><tbody><tr><td>France</td><td>Tenants must insure against rental risks. The “CatNat” regime adds natural catastrophe cover to property policies when a disaster is officially declared.</td></tr><tr><td>Germany</td><td>Private liability (Privathaftpflicht) insurance is very widely held but not compulsory. Workplace accidents are covered by statutory accident insurance through employers’ liability associations (Berufsgenossenschaften).</td></tr><tr><td>Spain</td><td>The Consorcio de Compensación de Seguros covers extraordinary risks, such as floods, for policies that include its surcharge.</td></tr><tr><td>Netherlands</td><td>Liability (aansprakelijkheid) and home contents policies are common household purchases.</td></tr></tbody></table><p>This is a summary, not a full guide to each country. Check with a local insurer, broker or regulator.</p>"
+    },
+    {
+      "h2": "Driving across borders",
+      "html": "<p>EU-registered vehicles don’t need a green card within the EU and several neighbouring countries. Since August 2021, UK drivers taking their insured vehicle into the EU haven’t needed one either, but they should check whether their policy gives full cover abroad or only the legal minimum. See <a href=\"/blog/driving-in-europe-insurance/\">driving in Europe</a>.</p>"
+    },
+    {
+      "h2": "Complaints across borders",
+      "html": "<p>Complain to the insurer first, then to your national dispute resolution body or insurance ombudsman. For cross-border disputes, FIN-NET helps identify the right scheme. See <a href=\"/claims/\">claims and complaints</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is home insurance compulsory in the EU?",
+      "a": "Not generally for owners, but some countries require tenants to insure (France), and lenders require property cover."
+    },
+    {
+      "q": "Can I buy insurance from another EU country?",
+      "a": "Insurers authorised in one member state can sell across the EU under passporting rules, but policy terms, taxes and claims handling follow local arrangements. Check who regulates the insurer."
+    }
+  ],
+  "keywords": [
+    "insurance in europe",
+    "eu insurance rules",
+    "insurance distribution directive",
+    "motor insurance directive",
+    "haftpflicht",
+    "assurance habitation"
+  ],
+  "cardText": "EU-wide rules, compulsory motor cover and key differences by country.",
+  "related": [
+    "car-insurance",
+    "renters-insurance",
+    "claims",
+    "blog/driving-in-europe-insurance"
+  ],
+  "sources": [
+    {
+      "title": "EIOPA: European Insurance and Occupational Pensions Authority",
+      "url": "https://www.eiopa.europa.eu/"
+    }
+  ]
+}

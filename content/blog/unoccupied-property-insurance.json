@@ -1,0 +1,52 @@
+{
+  "updated": "2026-10-02",
+  "type": "post",
+  "slug": "blog/unoccupied-property-insurance",
+  "date": "2026-10-02",
+  "short": "Unoccupied property",
+  "title": "Unoccupied Property Insurance: Empty Homes and Lets",
+  "description": "Why home and landlord policies restrict cover after 30–60 days empty, what unoccupied property insurance covers, inspection conditions and probate properties.",
+  "h1": "Unoccupied property insurance",
+  "intro": "An empty property is more vulnerable to undetected leaks, break-ins and vandalism, so standard policies restrict cover after a while. Here’s when that kicks in and what to do about it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1625585598750-3535fe40efb3",
+    "alt": "Empty room with a wooden ladder, a stool and a potted plant",
+    "credit": "Andrew Neel",
+    "creditUrl": "https://unsplash.com/@andrewtneel"
+  },
+  "sections": [
+    {
+      "h2": "When does a home count as unoccupied?",
+      "html": "<p>Policies define it, but commonly a home is unoccupied when nobody has lived in it for more than a set number of consecutive days, often 30 or 60. After that, cover for risks such as escape of water, theft, malicious damage and accidental damage may be removed or reduced. Read the definitions section of your policy.</p>"
+    },
+    {
+      "h2": "Common situations",
+      "html": "<ul><li>Between tenancies on a buy-to-let.</li><li>A home inherited during probate.</li><li>Renovations that make a home uninhabitable.</li><li>A long stay abroad or in hospital or care.</li><li>A home that hasn’t sold after a move.</li></ul>"
+    },
+    {
+      "h2": "What unoccupied cover involves",
+      "html": "<p>Specialist unoccupied property policies are available for homes and commercial buildings. They often offer restricted cover (for example fire, lightning, explosion and aircraft only) with options to add more, and come with conditions such as regular inspections, draining the water system and securing doors and windows. Keep inspection logs.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is my home unoccupied if I’m on a long holiday?",
+      "a": "It may be, depending on the policy definition and how long you’re away. Tell your insurer before you go."
+    },
+    {
+      "q": "Who insures a property during probate?",
+      "a": "The executors should arrange or maintain suitable cover. Tell the existing insurer about the death promptly."
+    }
+  ],
+  "keywords": [
+    "unoccupied property insurance",
+    "empty house insurance",
+    "probate property insurance",
+    "unoccupancy clause"
+  ],
+  "related": [
+    "landlord-insurance",
+    "buildings-insurance",
+    "blog/winter-home-insurance-checklist"
+  ]
+}

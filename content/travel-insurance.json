@@ -1,0 +1,120 @@
+{
+  "updated": "2026-10-15",
+  "slug": "travel-insurance",
+  "short": "Travel insurance",
+  "title": "Travel Insurance: Medical, Cancellation & GHIC Explained",
+  "description": "What good travel insurance covers: emergency medical costs, cancellation, baggage and repatriation, plus how GHIC and EHIC work and what to declare.",
+  "eyebrow": "Domestic · Travel",
+  "h1": "Travel insurance",
+  "intro": "Travel insurance protects you against the expensive things that can go wrong on a trip: medical emergencies abroad, having to cancel, and lost or stolen belongings. The medical cover matters most.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1549894595-4698795b38ee",
+    "alt": "Traveller walking through a bright airport terminal with luggage",
+    "credit": "Sergey Zolkin",
+    "creditUrl": "https://unsplash.com/@szolkin"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-TRVL",
+      "rows": [
+        [
+          "Core covers",
+          "Emergency medical and repatriation, cancellation and curtailment, baggage, personal liability."
+        ],
+        [
+          "Types",
+          "Single trip, annual multi-trip, backpacker/long-stay, cruise and winter sports."
+        ],
+        [
+          "Legal requirement",
+          "Not usually, but some visas (e.g. Schengen visas for many nationalities) require medical cover."
+        ],
+        [
+          "Health cards",
+          "UK GHIC/EHIC gives state healthcare in the EU on the same basis as locals; it’s not a substitute for insurance."
+        ],
+        [
+          "Watch out for",
+          "Undeclared medical conditions, alcohol exclusions, activity exclusions, FCDO advice against travel."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Travel cover at a glance",
+      "covered": [
+        "Emergency medical treatment abroad",
+        "Repatriation and medical evacuation",
+        "Cancellation and cutting a trip short for listed reasons",
+        "Lost, stolen or damaged baggage and money (with limits)",
+        "Personal liability abroad",
+        "Missed departure and travel delay (some policies)"
+      ],
+      "excluded": [
+        "Pre-existing conditions you didn’t declare",
+        "Travelling against official government advice",
+        "Incidents while under the influence of alcohol or drugs (depends on wording)",
+        "Hazardous activities not listed",
+        "Changing your mind about travelling"
+      ],
+      "addons": [
+        "Winter sports",
+        "Cruise cover",
+        "Gadget cover",
+        "Scheduled airline failure",
+        "Business equipment"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why medical cover is the priority",
+      "html": "<p>Emergency medical treatment and repatriation can be extremely expensive, particularly in the US, so look for a high medical limit and 24/7 emergency assistance. Declare all pre-existing medical conditions honestly: specialist insurers exist if a mainstream insurer won’t cover a condition.</p>"
+    },
+    {
+      "h2": "GHIC, EHIC and travel insurance",
+      "html": "<p>UK residents can get a free <strong>Global Health Insurance Card (GHIC)</strong> through the NHS website, which gives access to state-provided healthcare in EU countries (and some others) on the same terms as local residents. EU residents carry the EHIC. Neither covers private treatment, repatriation, cancellation or belongings, so you still need travel insurance. Only apply through the official NHS site: the card is free.</p>"
+    },
+    {
+      "h2": "Single trip or annual?",
+      "html": "<p>If you travel more than once or twice a year, an annual multi-trip policy is often better value, but check the maximum length of each trip and whether worldwide cover includes the US, Canada and the Caribbean. Buy cancellation cover as soon as you book, not just before you leave.</p>"
+    },
+    {
+      "h2": "Package holidays and airline failure",
+      "html": "<p>Package holidays sold in the UK are generally protected by the Package Travel Regulations and, for flight packages, the ATOL scheme if the company fails. Flight-only and separately booked trips may not be, so scheduled airline failure cover can be worth adding. For deals on trips themselves, our sister site <a href=\"https://traveldeals.shmor.ai/\">TravelDeals</a> compares holidays and flights.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the GHIC the same as travel insurance?",
+      "a": "No. It gives access to state healthcare in participating countries, but doesn’t cover private treatment, getting you home, cancellation or your belongings."
+    },
+    {
+      "q": "When should I buy travel insurance?",
+      "a": "As soon as you book, so cancellation cover protects you between booking and departure."
+    },
+    {
+      "q": "Do I need to declare medical conditions?",
+      "a": "Yes. Undeclared conditions are one of the most common reasons claims are refused. Answer the medical questions fully and accurately."
+    }
+  ],
+  "keywords": [
+    "travel insurance",
+    "holiday insurance",
+    "annual travel insurance",
+    "ghic",
+    "ehic",
+    "medical travel insurance",
+    "cancellation cover"
+  ],
+  "cardText": "Medical cover first, then cancellation and baggage. Plus how GHIC fits in.",
+  "related": [
+    "car-insurance",
+    "life-insurance",
+    "europe",
+    "usa"
+  ]
+}

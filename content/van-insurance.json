@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "van-insurance",
+  "short": "Van insurance",
+  "title": "Van Insurance: Social, Business & Haulage Use Explained",
+  "description": "Van insurance for personal and business use: classes of use, carriage of own goods vs hire and reward, goods in transit, tools in vans and courier cover.",
+  "eyebrow": "Commercial · Vehicles",
+  "h1": "Van insurance",
+  "intro": "Van insurance works like car insurance, but the class of use matters even more. Carrying your own tools, delivering other people’s parcels and moving house are all priced, and covered, differently.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1694802180731-1ee2ea37692a",
+    "alt": "White van driving down a country road beside green fields",
+    "credit": "Artem Balashevsky",
+    "creditUrl": "https://unsplash.com/@abalashevsky"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-VAN",
+      "rows": [
+        [
+          "Legal requirement",
+          "Yes: at least third party (UK), state minimum commercial or personal auto (US), third party (EU)."
+        ],
+        [
+          "Classes of use",
+          "Social, domestic & pleasure · Carriage of own goods · Haulage / hire and reward · Courier."
+        ],
+        [
+          "Add-ons",
+          "Tools in van, goods in transit, breakdown, legal expenses, courtesy van."
+        ],
+        [
+          "Several vehicles?",
+          "Three or more is often cheaper on a <a href=\"/fleet-insurance/\">fleet policy</a>."
+        ],
+        [
+          "Watch out for",
+          "Delivery app work on the wrong class of use, overnight tools conditions."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Choosing the right class of use",
+      "html": "<ul><li><strong>Social, domestic and pleasure</strong>: personal use only, no business.</li><li><strong>Carriage of own goods</strong>: carrying your own tools, equipment or stock for your business, for example a plumber or florist.</li><li><strong>Haulage / hire and reward</strong>: carrying other people’s goods for payment, such as removals.</li><li><strong>Courier</strong>: multi-drop parcel delivery, including for delivery platforms.</li></ul><p class=\"warn\">Using a van for courier work on a carriage-of-own-goods policy can leave you uninsured for that journey. Tell your insurer exactly how the van is used.</p>"
+    },
+    {
+      "h2": "Tools and goods",
+      "html": "<p>A van policy covers the vehicle; the contents usually need separate cover. <strong>Tools in van</strong> cover protects your equipment, often with overnight conditions. <strong>Goods in transit</strong> covers stock or customers’ goods while being carried. Tradespeople often get tools cover through a <a href=\"/tradesperson-insurance/\">trade package</a> instead.</p>"
+    },
+    {
+      "h2": "In the US",
+      "html": "<p>Vans used for business typically need a <strong>commercial auto</strong> policy; personal auto policies commonly exclude business use beyond commuting. If employees use their own vehicles for work errands, consider hired and non-owned auto liability.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I use my personal van insurance for occasional business?",
+      "a": "Only if the policy includes business use. Social-only policies exclude any business journeys."
+    },
+    {
+      "q": "Do I need courier insurance for delivery apps?",
+      "a": "Yes. Multi-drop delivery for payment needs courier or hire-and-reward cover; standard business use won’t do."
+    },
+    {
+      "q": "Are my tools covered if my van is stolen?",
+      "a": "Only if you have tools cover. Check conditions about where tools are kept overnight."
+    }
+  ],
+  "keywords": [
+    "van insurance",
+    "business van insurance",
+    "courier insurance",
+    "goods in transit insurance",
+    "tools in van insurance",
+    "commercial auto insurance"
+  ],
+  "cardText": "Classes of use, tools in vans and courier cover for single vans.",
+  "related": [
+    "fleet-insurance",
+    "car-insurance",
+    "tradesperson-insurance",
+    "business-insurance"
+  ]
+}

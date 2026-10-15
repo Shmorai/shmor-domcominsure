@@ -1,0 +1,117 @@
+{
+  "updated": "2026-10-15",
+  "slug": "landlord-insurance",
+  "short": "Landlord insurance",
+  "title": "Landlord Insurance: Buy-to-Let, Rent & Liability Cover",
+  "description": "Landlord insurance explained: buildings and landlord contents, liability, loss of rent, US DP-3 policies and what to tell your insurer about tenants.",
+  "eyebrow": "Domestic · Letting",
+  "h1": "Landlord insurance",
+  "intro": "A standard home insurance policy usually stops covering a property once you let it out. Landlord insurance is built for rented homes: the building, your furnishings, liability to tenants and visitors, and optional loss of rent.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1464082354059-27db6ce50048",
+    "alt": "Row of colourful terraced houses under a cloudy sky",
+    "credit": "Toa Heftiba",
+    "creditUrl": "https://unsplash.com/@heftiba"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-LORD",
+      "rows": [
+        [
+          "What it is",
+          "Buildings cover for a let property, plus landlord’s contents, liability and optional rent cover. US: DP-3 or landlord policies."
+        ],
+        [
+          "Who needs it",
+          "Buy-to-let and accidental landlords, holiday-let owners (specialist cover), HMO landlords."
+        ],
+        [
+          "Legal requirement",
+          "Not by law, but buy-to-let mortgages require buildings cover."
+        ],
+        [
+          "Common extras",
+          "Loss of rent, rent guarantee, legal expenses, malicious damage by tenants, unoccupancy cover."
+        ],
+        [
+          "Tell the insurer",
+          "Tenant type, number of tenants, HMO status, empty periods and any business use."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Landlord cover at a glance",
+      "covered": [
+        "Buildings: fire, storm, flood, escape of water, subsidence",
+        "Landlord’s contents in furnished lets (carpets, white goods, furniture)",
+        "Property owner’s liability if a tenant or visitor is injured",
+        "Loss of rent or alternative accommodation for tenants after an insured event"
+      ],
+      "excluded": [
+        "Tenants’ own belongings",
+        "Rent arrears from a tenant who simply stops paying (needs rent guarantee)",
+        "Wear and tear between tenancies",
+        "Damage during long empty periods beyond the policy limit"
+      ],
+      "addons": [
+        "Rent guarantee insurance",
+        "Landlord legal expenses (possession proceedings)",
+        "Malicious damage by tenants",
+        "Accidental damage",
+        "Home emergency for tenants"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why home insurance isn’t enough",
+      "html": "<p>Standard home insurance assumes the policyholder lives in the property. Letting it out changes the risk: different people, longer empty periods, and legal duties as a landlord. If you let a property on a home policy without telling the insurer, claims can be refused. That includes “accidental landlords” renting out a home they couldn’t sell, and people letting a room to a lodger (tell your home insurer; some will adapt your policy).</p>"
+    },
+    {
+      "h2": "Loss of rent vs rent guarantee",
+      "html": "<p><strong>Loss of rent</strong> pays rent you lose when the property can’t be lived in after an insured event such as a fire or flood. <strong>Rent guarantee insurance</strong> is different: it covers rent arrears when a tenant doesn’t pay, usually only if the tenant passed referencing before the tenancy started. Read the conditions carefully, including how quickly you must report arrears.</p>"
+    },
+    {
+      "h2": "Landlords in the US",
+      "html": "<p>US landlords usually insure single-family rentals on a <strong>dwelling fire policy</strong> such as the DP-3 (open-perils cover for the dwelling) or a landlord package. These typically include fair rental value (loss of rent) and can add premises liability. Tenants are encouraged to buy their own <a href=\"/renters-insurance/\">renters insurance</a> for their belongings.</p>"
+    },
+    {
+      "h2": "Portfolios, HMOs and holiday lets",
+      "html": "<ul><li><strong>Portfolio landlords</strong> can often insure several properties on one policy with a single renewal date.</li><li><strong>HMOs</strong> (houses in multiple occupation) need insurers who accept them; licensing conditions may also apply.</li><li><strong>Short-term and holiday lets</strong> need specialist cover; standard landlord policies usually assume longer tenancies.</li><li><strong>Commercial property</strong> lets (shops, offices) need <a href=\"/commercial-property-insurance/\">commercial property insurance</a>.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is landlord insurance a legal requirement?",
+      "a": "No, but buy-to-let lenders require buildings cover, and landlords have legal duties to tenants that make liability cover sensible."
+    },
+    {
+      "q": "Does landlord insurance cover tenants’ belongings?",
+      "a": "No. Tenants need their own contents or renters insurance."
+    },
+    {
+      "q": "What if my property is empty between tenants?",
+      "a": "Most policies restrict cover after a set number of consecutive days unoccupied. Tell your insurer; see our guide to <a href=\"/blog/unoccupied-property-insurance/\">unoccupied property insurance</a>."
+    }
+  ],
+  "keywords": [
+    "landlord insurance",
+    "buy to let insurance",
+    "rental property insurance",
+    "dp-3",
+    "rent guarantee insurance",
+    "loss of rent cover",
+    "hmo insurance"
+  ],
+  "cardText": "Buildings, contents, liability and rent cover built for let properties.",
+  "related": [
+    "buildings-insurance",
+    "renters-insurance",
+    "blog/unoccupied-property-insurance",
+    "commercial-property-insurance"
+  ]
+}

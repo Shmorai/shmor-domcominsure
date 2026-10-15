@@ -1,0 +1,115 @@
+{
+  "updated": "2026-10-15",
+  "slug": "claims",
+  "short": "Claims & complaints",
+  "title": "Insurance Claims & Complaints: Your Rights Explained",
+  "description": "How to make an insurance claim, what to do if it’s refused, and how to complain: the Financial Ombudsman Service, US state regulators, FIN-NET and the FSCS.",
+  "eyebrow": "Guide · Claims",
+  "h1": "Making a claim, and complaining if it goes wrong",
+  "intro": "Most claims go smoothly when you report quickly, keep evidence and follow the policy conditions. If an insurer refuses or delays unfairly, there are free routes to challenge it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1500740516770-92bd004b996e",
+    "alt": "Dark storm clouds gathering over the landscape",
+    "credit": "Anandu Vinod",
+    "creditUrl": "https://unsplash.com/@anandu"
+  },
+  "blocks": [
+    {
+      "type": "steps",
+      "position": "top",
+      "title": "Making a claim: step by step",
+      "items": [
+        {
+          "icon": "alert",
+          "title": "Make safe",
+          "text": "Prevent further damage if it’s safe to (turn off water, cover a broken window). Insurers expect reasonable steps."
+        },
+        {
+          "icon": "phone",
+          "title": "Report promptly",
+          "text": "Call the claims line or report online. Report theft and vandalism to the police and get a crime reference."
+        },
+        {
+          "icon": "file",
+          "title": "Gather evidence",
+          "text": "Photos and video, receipts, valuations, repair quotes and a list of what’s damaged."
+        },
+        {
+          "icon": "clipboard",
+          "title": "Keep records",
+          "text": "Note every call, name and reference number. Don’t throw away damaged items until told you can."
+        },
+        {
+          "icon": "check",
+          "title": "Check the offer",
+          "text": "Compare the settlement against your policy. Ask how it was calculated if anything’s unclear."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Complaining in the UK",
+      "html": "<p>Complain to the insurer first. It has up to eight weeks to send a final response. If you’re unhappy with that response, or it’s been eight weeks, you can take the complaint to the <strong>Financial Ombudsman Service</strong>, which is free. You normally need to do so within six months of the final response. Many small businesses, charities and trusts can use the ombudsman too, subject to size limits.</p><p>If an authorised insurer fails, the <strong>Financial Services Compensation Scheme (FSCS)</strong> can protect claims: 100% for compulsory insurance (such as third-party motor and employers’ liability) and 90% for most other general insurance.</p>"
+    },
+    {
+      "h2": "Complaining in the US",
+      "html": "<p>Use the insurer’s internal complaint or appeal process first. If that fails, file a complaint with your <strong>state insurance department</strong>, which regulates insurers and agents in your state. The NAIC website links to every state’s regulator and complaint information. For larger disputes, appraisal clauses (for valuation disagreements), mediation programs or legal advice may be options.</p>"
+    },
+    {
+      "h2": "Complaining in the EU",
+      "html": "<p>Each EU country has its own complaints system and often an insurance ombudsman (for example the Versicherungsombudsmann in Germany or La Médiation de l’Assurance in France). For cross-border disputes, <strong>FIN-NET</strong>, the European Commission’s network of financial dispute resolution bodies, can point you to the right scheme.</p>"
+    },
+    {
+      "h2": "Common reasons claims are refused",
+      "html": "<ul><li>Non-disclosure or misrepresentation when buying or renewing.</li><li>An exclusion applies, such as wear and tear or gradual damage.</li><li>A condition wasn’t met (security, unoccupancy, reporting time limits).</li><li>The sum insured was too low, so the average clause reduced the claim.</li></ul><p>Read <a href=\"/blog/how-to-make-a-home-insurance-claim/\">how to make a home insurance claim</a> and <a href=\"/blog/non-disclosure-misrepresentation/\">disclosure explained</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will making a claim increase my premium?",
+      "a": "It can. Claims history is a common pricing factor. For small losses, compare the claim with your excess and any impact on no-claims discounts."
+    },
+    {
+      "q": "Can I choose my own repairer?",
+      "a": "Some policies allow it; others use approved networks. Check the policy before arranging work."
+    },
+    {
+      "q": "How long does the ombudsman take?",
+      "a": "It varies with complexity and demand. The service publishes current information on its website."
+    }
+  ],
+  "keywords": [
+    "insurance claim",
+    "insurance complaint",
+    "financial ombudsman insurance",
+    "claim refused",
+    "fscs insurance",
+    "state insurance department complaint"
+  ],
+  "cardText": "Claim step by step, then the free routes if your insurer gets it wrong.",
+  "related": [
+    "how-to-compare-insurance",
+    "blog/how-to-make-a-home-insurance-claim",
+    "insurance-glossary",
+    "home-insurance"
+  ],
+  "sources": [
+    {
+      "title": "Financial Ombudsman Service: insurance complaints",
+      "url": "https://www.financial-ombudsman.org.uk/"
+    },
+    {
+      "title": "FSCS: insurance protection",
+      "url": "https://www.fscs.org.uk/what-we-cover/insurance/"
+    },
+    {
+      "title": "NAIC: insurance departments by state",
+      "url": "https://content.naic.org/state-insurance-departments"
+    },
+    {
+      "title": "European Commission: FIN-NET",
+      "url": "https://finance.ec.europa.eu/consumer-finance-and-payments/retail-financial-services/financial-dispute-resolution-network-fin-net_en"
+    }
+  ]
+}

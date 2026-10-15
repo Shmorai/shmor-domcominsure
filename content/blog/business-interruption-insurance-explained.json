@@ -1,0 +1,52 @@
+{
+  "updated": "2026-10-09",
+  "type": "post",
+  "slug": "blog/business-interruption-insurance-explained",
+  "date": "2026-10-09",
+  "short": "Business interruption",
+  "title": "Business Interruption Insurance Explained for Small Firms",
+  "description": "How business interruption insurance replaces lost profit after damage: gross profit, indemnity periods, extra costs and supplier extensions.",
+  "h1": "Business interruption insurance explained",
+  "intro": "A fire can be repaired in months, but customers can drift away for longer. Business interruption cover replaces lost profit while you recover, if it’s set up correctly.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1498811008858-d95a730b2ffc",
+    "alt": "“Sorry, we’re closed” sign hanging on a glass shop door",
+    "credit": "Tim Mossholder",
+    "creditUrl": "https://unsplash.com/@timmossholder"
+  },
+  "sections": [
+    {
+      "h2": "How it works",
+      "html": "<p>Business interruption (BI) pays loss of gross profit (or revenue, on some policies) and increased costs of working after insured physical damage, such as fire or flood, interrupts your business. It’s normally linked to your <a href=\"/commercial-property-insurance/\">property policy</a>: no insured damage, no BI claim, unless an extension applies.</p>"
+    },
+    {
+      "h2": "The two settings that matter",
+      "html": "<ul><li><strong>Sum insured</strong>: based on insurable gross profit, which is defined differently from accounting gross profit. Ask your accountant or broker.</li><li><strong>Indemnity period</strong>: the maximum time the policy pays. Think about rebuilding, planning, replacing specialist equipment and regaining customers; 12 months is often too short.</li></ul>"
+    },
+    {
+      "h2": "Useful extensions",
+      "html": "<ul><li><strong>Suppliers and customers</strong>: damage at a key supplier’s or customer’s premises.</li><li><strong>Denial of access</strong>: you can’t get in because of damage nearby or police cordons.</li><li><strong>Utilities</strong>: failure of power, water or telecoms supply.</li><li><strong>Notifiable disease</strong>: wordings vary greatly, and many were tested by pandemic claims; read carefully.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does BI cover a downturn in trade?",
+      "a": "No. It covers losses caused by insured damage or specific extensions, not general market conditions."
+    },
+    {
+      "q": "Do home-based businesses need BI?",
+      "a": "If your income depends on equipment or premises that could be damaged, it’s worth considering."
+    }
+  ],
+  "keywords": [
+    "business interruption insurance",
+    "indemnity period",
+    "loss of profits insurance",
+    "business income insurance"
+  ],
+  "related": [
+    "commercial-property-insurance",
+    "business-owners-policy",
+    "blog/underinsurance-average-clause"
+  ]
+}

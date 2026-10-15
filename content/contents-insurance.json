@@ -1,0 +1,116 @@
+{
+  "updated": "2026-10-15",
+  "slug": "contents-insurance",
+  "short": "Contents insurance",
+  "title": "Contents Insurance: What It Covers & How Much You Need",
+  "description": "Contents insurance for owners and renters: new-for-old cover, single-item limits, possessions away from home, accidental damage and how to value your things.",
+  "eyebrow": "Domestic · Home",
+  "h1": "Contents insurance",
+  "intro": "Contents insurance covers your belongings against theft, fire, water damage and more. Whether you own or rent, the key is valuing everything properly and checking the limits that apply to valuables.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1583847268964-b28dc8f51f92",
+    "alt": "Bright living room with a sofa, cushions and a large window",
+    "credit": "Minh Pham",
+    "creditUrl": "https://unsplash.com/@minhphamdesign"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-CNTS",
+      "rows": [
+        [
+          "Covers",
+          "Furniture, clothes, electronics, jewellery, kitchenware and other things you’d take with you if you moved."
+        ],
+        [
+          "Who needs it",
+          "Homeowners and renters alike. Your landlord’s policy won’t cover your belongings."
+        ],
+        [
+          "Legal requirement",
+          "No. Some tenancy agreements ask tenants to hold contents or liability cover."
+        ],
+        [
+          "Sum insured",
+          "The cost of replacing everything as new (new-for-old), except clothes and linen on some policies."
+        ],
+        [
+          "Watch out for",
+          "Single-item limits, valuables limits, unspecified vs specified items."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Contents cover at a glance",
+      "covered": [
+        "Theft (usually with forced entry for shared homes)",
+        "Fire, smoke, storm, flood (UK) and escape of water damage to belongings",
+        "Contents in the garden and outbuildings, up to a limit",
+        "Tenant’s liability for damage to the landlord’s fixtures (renters)",
+        "Occupier’s liability if a visitor is hurt"
+      ],
+      "excluded": [
+        "Wear and tear, and mechanical or electrical breakdown",
+        "Items away from home unless you add personal possessions cover",
+        "Items over the single-article limit that you haven’t listed",
+        "Theft by people you invited in, unless the policy says otherwise"
+      ],
+      "addons": [
+        "Accidental damage to contents",
+        "Personal possessions away from home (phones, laptops, bikes)",
+        "Specified high-value items",
+        "Freezer contents and garden plants"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Valuing your contents",
+      "html": "<p>Walk through each room and estimate what it would cost to replace everything new today. Don’t forget clothes, shoes, bedding, kitchen equipment, tools, garden furniture and things in the loft. Photograph valuable items and keep receipts or valuations; they make claims faster.</p><p class=\"note\">Many people under-estimate contents by thousands. If your sum insured is too low, an <a href=\"/blog/underinsurance-average-clause/\">average clause</a> can reduce what you’re paid.</p>"
+    },
+    {
+      "h2": "Single-item and valuables limits",
+      "html": "<p>Most UK policies cap any single item (for example jewellery, watches, art or a high-end bike) at a set amount unless you list it. They may also cap the total value of “valuables”. If one item is worth more than the single-item limit, <strong>specify it</strong> on the policy. US policies have similar “sub-limits” for categories such as jewellery and firearms; a scheduled personal property endorsement raises them.</p>"
+    },
+    {
+      "h2": "Cover away from home",
+      "html": "<p>Standard contents cover is for items inside your home. To cover a phone, laptop, camera, bike or jewellery when you’re out, add <strong>personal possessions</strong> cover (sometimes called “all risks”). Check whether it covers you abroad and for how long, and whether bikes need a specific lock standard.</p>"
+    },
+    {
+      "h2": "Students, sharers and lodgers",
+      "html": "<p>Students in halls may already be covered by a block policy arranged by the university or accommodation provider; check before buying. In shared houses, look for policies that cover individual rooms and allow theft claims without forced entry. Some parents’ home policies extend limited cover to students’ belongings at university.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do renters need contents insurance?",
+      "a": "It’s not compulsory, but your landlord’s insurance only covers the building and their own fixtures. If you want your belongings protected, you need your own policy. See our <a href=\"/renters-insurance/\">renters and tenants guide</a>."
+    },
+    {
+      "q": "What does new-for-old mean?",
+      "a": "The insurer replaces items with new equivalents rather than paying their second-hand value. Some policies apply wear-and-tear deductions to clothing and linen."
+    },
+    {
+      "q": "Is my phone covered by contents insurance?",
+      "a": "At home, usually yes for insured events like theft or fire. Away from home or for accidental damage, only if you add those covers. Gadget insurance is an alternative for single devices."
+    }
+  ],
+  "keywords": [
+    "contents insurance",
+    "home contents insurance",
+    "personal property insurance",
+    "personal possessions cover",
+    "new for old",
+    "single item limit"
+  ],
+  "cardText": "Value your belongings properly, list your valuables and add cover away from home.",
+  "related": [
+    "renters-insurance",
+    "home-insurance",
+    "buildings-insurance",
+    "blog/christmas-gifts-contents-cover"
+  ]
+}

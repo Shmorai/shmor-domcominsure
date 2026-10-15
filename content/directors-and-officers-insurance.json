@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "directors-and-officers-insurance",
+  "short": "Directors & officers",
+  "title": "Directors and Officers (D&O) Insurance Explained",
+  "description": "D&O insurance protects directors’ personal assets from claims about their decisions: who can sue, what’s covered, Side A, B and C, and why small firms buy it.",
+  "eyebrow": "Commercial · Management",
+  "h1": "Directors and officers (D&O) insurance",
+  "intro": "Company directors can be personally liable for decisions they make running the business. D&O insurance pays legal defence costs and compensation, so directors aren’t paying from their own pockets.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1431540015161-0bf868a2d407",
+    "alt": "Empty boardroom with a long wooden table and chairs",
+    "credit": "Benjamin Child",
+    "creditUrl": "https://unsplash.com/@bchild311"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-DO",
+      "rows": [
+        [
+          "Who it protects",
+          "Directors, officers and often senior managers, past, present and future."
+        ],
+        [
+          "Who might claim",
+          "Shareholders, regulators, creditors, liquidators, employees, customers."
+        ],
+        [
+          "Structure",
+          "Side A: directors directly · Side B: reimburses the company · Side C: the company itself (entity cover)."
+        ],
+        [
+          "Who buys it",
+          "Limited companies of all sizes, charities and non-profits, start-ups with investors."
+        ],
+        [
+          "Watch out for",
+          "Fraud and dishonesty exclusions, prior claims, insolvency-related limits."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why directors carry personal risk",
+      "html": "<p>Directors have legal duties. In the UK these are set out in the Companies Act 2006, including duties to act within powers, promote the success of the company and exercise reasonable care, skill and diligence. Claims can come from regulators, shareholders, or a liquidator if the company becomes insolvent. Even a claim that fails can cost a lot to defend.</p>"
+    },
+    {
+      "h2": "What D&O typically covers",
+      "html": "<ul><li>Legal defence costs, including for regulatory investigations.</li><li>Compensation and settlements (where legally insurable).</li><li>Costs of responding to official investigations and inquiries.</li><li>Employment practices claims, if included, or as separate employment practices liability (EPL).</li></ul><p>It won’t cover deliberate fraud, criminal fines or personal profit you weren’t entitled to.</p>"
+    },
+    {
+      "h2": "Small companies and start-ups",
+      "html": "<p>Investors commonly expect D&O to be in place, and non-executive directors may ask for it before joining a board. Charities and non-profits buy it to protect trustees. Like PI, D&O is usually claims-made, so think about run-off cover when a company is sold or wound up.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a small limited company need D&O?",
+      "a": "It isn’t compulsory, but directors are personally exposed. Many small companies buy it, especially with outside investors or non-executive directors."
+    },
+    {
+      "q": "Can the company pay for D&O?",
+      "a": "Yes. Companies generally buy D&O for their directors, and company law allows this."
+    },
+    {
+      "q": "Does D&O cover a director’s mistakes in advice to clients?",
+      "a": "No. Professional mistakes towards clients fall under <a href=\"/professional-indemnity-insurance/\">professional indemnity</a>."
+    }
+  ],
+  "keywords": [
+    "directors and officers insurance",
+    "d&o insurance",
+    "management liability insurance",
+    "directors liability",
+    "side a d&o",
+    "trustee indemnity insurance"
+  ],
+  "cardText": "Protects directors’ personal assets from claims about how they ran the company.",
+  "related": [
+    "professional-indemnity-insurance",
+    "cyber-insurance",
+    "business-insurance",
+    "insurance-glossary"
+  ]
+}

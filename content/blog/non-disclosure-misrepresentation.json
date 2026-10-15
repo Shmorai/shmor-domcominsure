@@ -1,0 +1,67 @@
+{
+  "updated": "2026-10-06",
+  "type": "post",
+  "slug": "blog/non-disclosure-misrepresentation",
+  "date": "2026-10-06",
+  "short": "Disclosure rules",
+  "title": "Non-Disclosure & Misrepresentation: Why Honesty Pays",
+  "description": "Consumers must take reasonable care not to misrepresent; businesses must make a fair presentation. How UK law works and how to protect yourself.",
+  "h1": "Non-disclosure and misrepresentation explained",
+  "intro": "Most refused claims don’t involve fraud. They come from inaccurate answers when buying or renewing. Here’s what the law expects from consumers and businesses, and what happens if you get it wrong.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1562564055-71e051d33c19",
+    "alt": "Two people reviewing and signing a document at a desk",
+    "credit": "Gabrielle Henderson",
+    "creditUrl": "https://unsplash.com/@gabriellefaithhenderson"
+  },
+  "sections": [
+    {
+      "h2": "Consumers (UK)",
+      "html": "<p>Under the <strong>Consumer Insurance (Disclosure and Representations) Act 2012</strong>, consumers must take reasonable care not to make a misrepresentation when answering an insurer’s questions. The insurer’s remedy depends on the type of mistake: if a misrepresentation was <strong>deliberate or reckless</strong>, the insurer can generally avoid the policy and refuse claims; if it was <strong>careless</strong>, the remedy is proportionate to what the insurer would have done had it known (for example, charging more, so paying claims proportionately). Honest and reasonable mistakes shouldn’t lead to a remedy.</p>"
+    },
+    {
+      "h2": "Businesses (UK)",
+      "html": "<p>The <strong>Insurance Act 2015</strong> gives businesses a duty of <strong>fair presentation</strong>: disclose every material circumstance you know or ought to know, in a reasonably clear and accessible way. Again, remedies are proportionate unless a breach was deliberate or reckless.</p>"
+    },
+    {
+      "h2": "Elsewhere",
+      "html": "<p>US states have their own rules on material misrepresentation, often allowing rescission where a misstatement was material to the risk. EU countries set their own national rules. The safe approach everywhere is the same.</p>"
+    },
+    {
+      "h2": "How to protect yourself",
+      "html": "<ul><li>Read every question; don’t accept pre-filled answers on comparison sites without checking.</li><li>Keep copies of the statement of fact or proposal.</li><li>Tell your insurer about changes during the policy, such as building work, new drivers or new business activities.</li><li>If unsure, ask, and note the answer.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What if I made an honest mistake?",
+      "a": "Under UK consumer law, if you took reasonable care, the insurer shouldn’t apply a remedy. Tell the insurer as soon as you notice an error."
+    },
+    {
+      "q": "Can I complain about a refused claim?",
+      "a": "Yes. Use the insurer’s complaints process and then, in the UK, the Financial Ombudsman Service. See <a href=\"/claims/\">claims and complaints</a>."
+    }
+  ],
+  "sources": [
+    {
+      "title": "legislation.gov.uk: Consumer Insurance (Disclosure and Representations) Act 2012",
+      "url": "https://www.legislation.gov.uk/ukpga/2012/6/contents"
+    },
+    {
+      "title": "legislation.gov.uk: Insurance Act 2015",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/4/contents"
+    }
+  ],
+  "keywords": [
+    "non disclosure insurance",
+    "misrepresentation insurance",
+    "cidra 2012",
+    "insurance act 2015 fair presentation",
+    "claim refused non disclosure"
+  ],
+  "related": [
+    "claims",
+    "how-to-compare-insurance",
+    "business-insurance"
+  ]
+}

@@ -43,3 +43,60 @@
     });
   });
 })();
+
+/* DomCom Insure: cover checker ("checker" block). Shows follow-up questions,
+   then filters the cover cards by their data-when rules and sorts them by need.
+   Answers are kept in the URL (?region=uk&side=home...) so results can be shared. */
+(function () {
+  'use strict';
+  var root = document.querySelector('[data-checker]');
+  if (!root) return;
+  var form = root.querySelector('form'), count = root.querySelector('[data-ck-count]');
+  var list = root.querySelector('.ck-list');
+  var covers = [].slice.call(root.querySelectorAll('.ck-cover'));
+  var qs = [].slice.call(root.querySelectorAll('.ck-q'));
+  var ORDER = { must: 0, should: 1, consider: 2 };
+  var parse = function (s) { try { return JSON.parse(s || '{}'); } catch (e) { return {}; } };
+
+  function answers() {
+    var a = {};
+    qs.forEach(function (q) {
+      if (q.hidden) return;
+      var c = q.querySelector('input:checked');
+      if (c) a[q.getAttribute('data-q')] = c.value;
+    });
+    return a;
+  }
+  function matches(rule, a) {
+    return Object.keys(rule).every(function (k) { return a[k] !== undefined && rule[k].indexOf(a[k]) > -1; });
+  }
+  function update(push) {
+    // Show questions whose showIf rule matches (repeat so chains settle)
+    for (var i = 0; i < 3; i++) {
+      var a0 = answers();
+      qs.forEach(function (q) {
+        var rule = q.getAttribute('data-show-if');
+        if (rule) q.hidden = !matches(parse(rule), a0);
+      });
+    }
+    var n = 0;
+    qs.forEach(function (q) { if (!q.hidden) q.querySelector('.ck-n').textContent = String(++n).padStart(2, '0'); });
+    var a = answers(), keys = Object.keys(a);
+    var shown = covers.filter(function (c) { var ok = keys.length > 1 && matches(parse(c.getAttribute('data-when')), a); c.hidden = !ok; return ok; });
+    shown.sort(function (x, y) { return ORDER[x.getAttribute('data-need')] - ORDER[y.getAttribute('data-need')]; }).forEach(function (c) { list.appendChild(c); });
+    var open = qs.filter(function (q) { return !q.hidden && !q.querySelector('input:checked'); }).length;
+    count.textContent = keys.length < 2 ? 'Answer the questions to build your cover list.'
+      : shown.length ? shown.length + ' cover' + (shown.length > 1 ? 's' : '') + ' to look at' + (open ? ' so far (' + open + ' question' + (open > 1 ? 's' : '') + ' left)' : '') + '.'
+      : 'Nothing flagged yet. Keep going' + (open ? ' (' + open + ' question' + (open > 1 ? 's' : '') + ' left)' : '') + '.';
+    if (push && history.replaceState) {
+      var p = new URLSearchParams(); keys.forEach(function (k) { p.set(k, a[k]); });
+      history.replaceState(null, '', location.pathname + (keys.length ? '?' + p.toString() : ''));
+    }
+  }
+  // Restore answers from the URL
+  var url = new URLSearchParams(location.search);
+  url.forEach(function (v, k) { var el = form.querySelector('input[name="' + k + '"][value="' + v.replace(/"/g, '') + '"]'); if (el) el.checked = true; });
+  form.addEventListener('change', function () { update(true); });
+  form.addEventListener('reset', function () { setTimeout(function () { update(true); }, 0); });
+  update(false);
+})();

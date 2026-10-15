@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-12",
+  "type": "post",
+  "slug": "blog/driving-in-europe-insurance",
+  "date": "2026-10-12",
+  "short": "Driving in Europe",
+  "title": "Driving in Europe: Car Insurance Checks Before You Go",
+  "description": "UK drivers don’t need a green card in the EU, but should still check foreign-use cover, breakdown, hire cars and documents. A pre-trip checklist.",
+  "h1": "Driving in Europe: insurance checks before you go",
+  "intro": "Planning a road trip to France, Spain or beyond? Your UK car insurance gives at least the legal minimum across the EU, but that may be less cover than you have at home.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1589344237975-98e7f46ae8db",
+    "alt": "Ferry sailing on calm water with mountains behind",
+    "credit": "Mark König",
+    "creditUrl": "https://unsplash.com/@markkoenig"
+  },
+  "sections": [
+    {
+      "h2": "Green cards",
+      "html": "<p>Since 2 August 2021, UK drivers don’t need a motor insurance green card to drive their own insured vehicle in the EU, EEA, Switzerland, Andorra, Serbia and Bosnia and Herzegovina. You may still need one for some other countries; GOV.UK has the current list.</p>"
+    },
+    {
+      "h2": "Check what your policy covers abroad",
+      "html": "<ul><li>Is comprehensive cover extended abroad, or only third party?</li><li>For how many days per trip and per year?</li><li>Does breakdown cover include Europe?</li><li>Are you covered on the ferry or in the Channel Tunnel?</li></ul><p>Ask your insurer to extend cover if needed before you travel.</p>"
+    },
+    {
+      "h2": "Documents and local rules",
+      "html": "<p>Carry your driving licence, V5C logbook (or VE103 if the car is leased or hired), and insurance certificate. Display a UK sticker if your number plate doesn’t show the UK identifier. Some countries require equipment such as warning triangles or reflective jackets, and some cities have low-emission zones. Check before you go.</p>"
+    },
+    {
+      "h2": "Hire cars",
+      "html": "<p>Hire cars come with basic insurance but often a high excess. Standalone excess reimbursement insurance can be cheaper than the rental desk’s option; read what it covers (tyres, windscreen, underside). For trip ideas, see our sister site <a href=\"https://traveldeals.shmor.ai/\">TravelDeals</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a green card to drive in France?",
+      "a": "Not for a UK-insured vehicle since August 2021. Carry your insurance certificate and check foreign-use cover."
+    },
+    {
+      "q": "Is my breakdown cover valid in Europe?",
+      "a": "Only if it includes European cover. Many UK policies are UK-only by default."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Driving abroad (vehicle insurance)",
+      "url": "https://www.gov.uk/vehicle-insurance/driving-abroad"
+    }
+  ],
+  "keywords": [
+    "driving in europe insurance",
+    "green card insurance",
+    "car insurance abroad",
+    "european road trip insurance"
+  ],
+  "related": [
+    "car-insurance",
+    "europe",
+    "travel-insurance"
+  ]
+}

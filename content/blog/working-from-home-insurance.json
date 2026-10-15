@@ -1,0 +1,52 @@
+{
+  "updated": "2026-09-30",
+  "type": "post",
+  "slug": "blog/working-from-home-insurance",
+  "date": "2026-09-30",
+  "short": "Working from home",
+  "title": "Working From Home: Does Your Home Insurance Cover It?",
+  "description": "Working from home as an employee or self-employed: what home insurance covers, when to tell your insurer and when you need business cover.",
+  "h1": "Working from home and your insurance",
+  "intro": "Hybrid working is normal now, but home insurance policies still draw a line between “clerical work” and running a business. Here’s how to tell which side you’re on.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1591382696684-38c427c7547a",
+    "alt": "Laptop on a wooden desk in a home workspace",
+    "credit": "Mikey Harris",
+    "creditUrl": "https://unsplash.com/@mikeyharris"
+  },
+  "sections": [
+    {
+      "h2": "Employees working from home",
+      "html": "<p>Many home insurers accept occasional or regular clerical work by employees without any change, but it’s worth checking. Equipment provided by your employer is usually their responsibility, not your home policy’s. If colleagues or clients visit, or you keep company stock at home, tell your insurer.</p>"
+    },
+    {
+      "h2": "Running your own business from home",
+      "html": "<p>If you’re self-employed or run a company from home, tell your insurer. Depending on what you do, you might need extra cover for business equipment, stock, money, visitors and liability. See <a href=\"/home-business-insurance/\">home business insurance</a> for a cover-by-cover breakdown.</p>"
+    },
+    {
+      "h2": "Quick self-check",
+      "html": "<ul><li>Do clients or customers visit? → public liability.</li><li>Do you keep stock or tools? → stock or business contents cover.</li><li>Do you employ anyone at home? → employers’ liability / workers’ comp.</li><li>Do you hold customer data? → cyber.</li><li>Do you give advice? → professional indemnity.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will working from home increase my home insurance?",
+      "a": "Occasional clerical work often makes no difference. Running a business with visitors or stock may change the price or need a separate policy."
+    },
+    {
+      "q": "Is my personal laptop covered when I use it for work?",
+      "a": "Often yes at home, but limits for business equipment can apply. Check the wording."
+    }
+  ],
+  "keywords": [
+    "working from home insurance",
+    "home insurance business use",
+    "remote working insurance",
+    "home office cover"
+  ],
+  "related": [
+    "home-business-insurance",
+    "contents-insurance",
+    "cyber-insurance"
+  ]
+}

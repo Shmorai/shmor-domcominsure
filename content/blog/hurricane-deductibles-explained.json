@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-07",
+  "type": "post",
+  "slug": "blog/hurricane-deductibles-explained",
+  "date": "2026-10-07",
+  "short": "Hurricane deductibles",
+  "title": "Hurricane Deductibles Explained: Percentages and Triggers",
+  "description": "Many US coastal homeowners face a separate hurricane deductible, often 1% to 5% of the dwelling limit. How percentages and triggers work.",
+  "h1": "Hurricane deductibles explained",
+  "intro": "In hurricane-prone US states, wind damage from a hurricane can carry a separate, percentage-based deductible that’s much larger than your usual one. Know yours before storm season.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1457327289196-f38b88d97147",
+    "alt": "Hurricane seen from space",
+    "credit": "NASA",
+    "creditUrl": "https://unsplash.com/@nasa"
+  },
+  "sections": [
+    {
+      "h2": "What they are",
+      "html": "<p>According to the Insurance Information Institute, 19 states and the District of Columbia have hurricane deductibles. Instead of a fixed dollar amount, they’re usually a <strong>percentage of the home’s insured value</strong> (the dwelling limit), typically from 1% to 5%, and can be higher in some high-risk coastal areas.</p>"
+    },
+    {
+      "h2": "A worked example",
+      "html": "<p>With a dwelling limit of $300,000 and a 2% hurricane deductible, you’d pay the first $6,000 of a hurricane wind claim. A standard $1,000 deductible might still apply to other claims such as fire or theft.</p>"
+    },
+    {
+      "h2": "Triggers",
+      "html": "<p>Triggers vary by state and insurer: they may depend on the National Weather Service naming a storm, issuing a hurricane watch or warning, or a storm reaching a certain intensity, and they often apply for a window before and after landfall. Read the endorsement in your policy.</p>"
+    },
+    {
+      "h2": "Flood is separate",
+      "html": "<p>Storm surge and rising water are flood, which standard homeowners policies exclude. You need NFIP or private flood cover. See <a href=\"/flood-insurance/\">flood insurance</a> and the <a href=\"/blog/nfip-reauthorization-2026/\">NFIP deadline</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I choose a lower hurricane deductible?",
+      "a": "Sometimes, for a higher premium. Options depend on your state and insurer."
+    },
+    {
+      "q": "Does a tropical storm trigger the hurricane deductible?",
+      "a": "It depends on the trigger definition in your policy and state rules."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Insurance Information Institute: Hurricane and windstorm deductibles",
+      "url": "https://www.iii.org/article/background-on-hurricane-and-windstorm-deductibles"
+    }
+  ],
+  "keywords": [
+    "hurricane deductible",
+    "windstorm deductible",
+    "percentage deductible",
+    "homeowners insurance florida hurricane"
+  ],
+  "related": [
+    "home-insurance",
+    "flood-insurance",
+    "usa"
+  ]
+}

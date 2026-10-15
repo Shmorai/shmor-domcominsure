@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-04",
+  "type": "post",
+  "slug": "blog/excess-and-deductibles-explained",
+  "date": "2026-10-04",
+  "short": "Excess & deductibles",
+  "title": "Insurance Excess and Deductibles Explained, With Examples",
+  "description": "How compulsory and voluntary excesses (and US deductibles) work, percentage deductibles, and how to choose an excess you can actually afford.",
+  "h1": "Excesses and deductibles explained",
+  "intro": "The excess (deductible in the US) is the part of a claim you pay yourself. Choosing it well can lower your premium; choosing it badly can make a policy almost useless.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1711606815631-38d32cdaec3e",
+    "alt": "Calculator on a desk beside a laptop",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "sections": [
+    {
+      "h2": "Compulsory and voluntary",
+      "html": "<p>UK policies usually have a <strong>compulsory excess</strong> set by the insurer and an optional <strong>voluntary excess</strong> you choose. They add together. Certain perils often carry their own higher excess: subsidence on buildings cover, escape of water on some home policies, or young drivers on car insurance.</p>"
+    },
+    {
+      "h2": "How deductibles work in the US",
+      "html": "<p>US policies use a deductible per claim (home and auto). Some perils use <strong>percentage deductibles</strong> based on the dwelling limit, such as hurricane or windstorm deductibles in coastal states. See <a href=\"/blog/hurricane-deductibles-explained/\">hurricane deductibles</a>.</p>"
+    },
+    {
+      "h2": "Choosing an excess",
+      "html": "<ul><li>Pick a total you could pay tomorrow without hardship.</li><li>Compare quotes at the same total excess.</li><li>Remember that small claims below or near the excess aren’t worth making and can affect future premiums.</li></ul>"
+    },
+    {
+      "h2": "Business policies",
+      "html": "<p>Business policies may have excesses per claim, per section, or aggregate deductibles for the year. Liability policies sometimes apply an excess only to property damage claims. Check the schedule for each section.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a higher excess always reduce the premium?",
+      "a": "Usually, but not always by much. Check the saving is worth the extra risk."
+    },
+    {
+      "q": "Do I pay the excess if the accident wasn’t my fault?",
+      "a": "Often you pay it first and may recover it if your insurer recovers costs from the other side."
+    }
+  ],
+  "keywords": [
+    "insurance excess",
+    "deductible",
+    "voluntary excess",
+    "compulsory excess",
+    "percentage deductible"
+  ],
+  "related": [
+    "insurance-glossary",
+    "how-to-compare-insurance",
+    "car-insurance"
+  ]
+}

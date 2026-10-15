@@ -1,0 +1,103 @@
+{
+  "updated": "2026-10-15",
+  "slug": "flood-insurance",
+  "short": "Flood insurance",
+  "title": "Flood Insurance: Flood Re (UK) and NFIP (US) Explained",
+  "description": "How flood cover works: Flood Re for UK homes built before 2009, the US National Flood Insurance Program, private flood cover and waiting periods.",
+  "eyebrow": "Domestic · Flood",
+  "h1": "Flood insurance",
+  "intro": "Whether flood is included in your home insurance depends on where you live. In the UK it’s normally part of standard cover; in the US it almost never is. Here’s how to make sure you’re protected.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1547683905-f686c993aae5",
+    "alt": "Cars partly submerged in a flooded river next to a stone bridge",
+    "credit": "Chris Gallagher",
+    "creditUrl": "https://unsplash.com/@chriswebdog"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-FLOD",
+      "rows": [
+        [
+          "UK",
+          "Usually included in standard buildings and contents. Flood Re helps eligible homes in high-risk areas get affordable cover."
+        ],
+        [
+          "US",
+          "Excluded from standard homeowners policies. Buy NFIP or private flood insurance separately."
+        ],
+        [
+          "EU",
+          "Varies by country: some include natural catastrophes in home policies or via national schemes (e.g. France’s CatNat)."
+        ],
+        [
+          "Waiting period",
+          "NFIP policies generally start 30 days after purchase, with limited exceptions."
+        ],
+        [
+          "Check first",
+          "Your flood risk (Environment Agency, SEPA, NRW or FEMA flood maps)."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Flood Re in the UK",
+      "html": "<p>Flood Re is a joint government and insurance industry reinsurance scheme that lets insurers offer more affordable flood cover to eligible households in high-risk areas. You don’t buy from Flood Re directly: you buy home insurance from an insurer that uses the scheme. Broadly, eligible homes are residential, insured by individuals, and <strong>built before 1 January 2009</strong>; some landlord, leasehold and commercial arrangements are excluded. The scheme is designed to end in 2039, with the aim of moving to risk-reflective pricing. Use Flood Re’s own eligibility checker for your home. More in <a href=\"/blog/flood-re-explained/\">Flood Re explained</a>.</p>"
+    },
+    {
+      "h2": "The US National Flood Insurance Program",
+      "html": "<p>The NFIP, managed by FEMA, offers flood insurance for buildings and contents in participating communities, sold through insurance agents and companies. Residential limits are up to $250,000 for the building and $100,000 for contents. Policies usually take effect after a 30-day waiting period. If your home is in a high-risk Special Flood Hazard Area and has a federally backed mortgage, flood insurance is required.</p><p>The NFIP depends on Congress for reauthorization, which has been extended many times in short bursts. As of mid-October 2026 it’s authorized until 11 December 2026. See <a href=\"/blog/nfip-reauthorization-2026/\">what an NFIP lapse would mean</a>. Private flood insurers are an alternative in many states and may offer higher limits.</p>"
+    },
+    {
+      "h2": "Flood resilience",
+      "html": "<ul><li>Sign up for official flood warnings (Environment Agency in England, SEPA, Natural Resources Wales; NOAA and local alerts in the US).</li><li>Consider property flood resilience measures such as flood doors, non-return valves and raised sockets.</li><li>Keep a flood plan and important documents in a waterproof bag.</li><li>Some UK insurers offer “Build Back Better” funding to add resilience measures after a flood claim.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is flood covered by UK home insurance?",
+      "a": "Normally yes, as part of standard buildings and contents cover. In high-risk areas it may be harder to find, which is where Flood Re helps eligible homes."
+    },
+    {
+      "q": "Does US homeowners insurance cover floods?",
+      "a": "No. Standard homeowners, renters and condo policies exclude flood. Buy NFIP or private flood insurance separately, ideally well before storm season because of waiting periods."
+    },
+    {
+      "q": "Is my new-build home eligible for Flood Re?",
+      "a": "Homes built on or after 1 January 2009 are not eligible, which is meant to discourage building in flood-prone areas."
+    }
+  ],
+  "keywords": [
+    "flood insurance",
+    "flood re",
+    "nfip",
+    "national flood insurance program",
+    "flood cover",
+    "flood risk home insurance"
+  ],
+  "cardText": "Flood Re in the UK, the NFIP and private flood cover in the US.",
+  "related": [
+    "home-insurance",
+    "blog/flood-re-explained",
+    "blog/nfip-reauthorization-2026",
+    "usa"
+  ],
+  "sources": [
+    {
+      "title": "Flood Re: check eligibility",
+      "url": "https://www.floodre.co.uk/"
+    },
+    {
+      "title": "FEMA: National Flood Insurance Program",
+      "url": "https://www.fema.gov/flood-insurance"
+    },
+    {
+      "title": "GOV.UK: Check your long term flood risk",
+      "url": "https://www.gov.uk/check-long-term-flood-risk"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "updated": "2026-10-15",
+  "slug": "car-insurance",
+  "short": "Car insurance",
+  "navOrder": 3,
+  "nav": "Car",
+  "title": "Car Insurance Explained: Levels of Cover & Legal Rules",
+  "description": "Third party, third party fire and theft, or comprehensive? Car (auto) insurance rules in the UK, US and EU, what affects the price and how to compare fairly.",
+  "eyebrow": "Domestic · Motor",
+  "h1": "Car insurance",
+  "intro": "Car insurance is the one domestic policy that’s a legal requirement almost everywhere. Here’s how the levels of cover work, the legal minimums by region, and what to check besides the price.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1572401611152-cf63d874b019",
+    "alt": "Red hatchback driving on an open asphalt road",
+    "credit": "Maksim Tarasov",
+    "creditUrl": "https://unsplash.com/@awsmsky"
+  },
+  "searchPlaceholder": "Try “named driver” or “no claims discount”",
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-MOTR",
+      "rows": [
+        [
+          "What it is",
+          "Cover for liability to others and, depending on level, damage to or theft of your own car."
+        ],
+        [
+          "Legal requirement",
+          "Yes. UK: at least third party (Road Traffic Act 1988). US: required in almost every state. EU: motor third-party liability is compulsory in every member state."
+        ],
+        [
+          "Levels (UK)",
+          "Third party only · Third party, fire and theft · Comprehensive."
+        ],
+        [
+          "Levels (US)",
+          "Liability (bodily injury + property damage), plus optional collision and comprehensive; some states require PIP or uninsured motorist cover."
+        ],
+        [
+          "Watch out for",
+          "Fronting, wrong vehicle use (commuting or business), modifications you haven’t declared."
+        ]
+      ]
+    },
+    {
+      "type": "matrix",
+      "title": "Motor insurance: the legal minimum",
+      "cols": [
+        "UK",
+        "USA",
+        "EU"
+      ],
+      "rows": [
+        {
+          "label": "Third-party liability",
+          "cells": [
+            [
+              "yes",
+              "At least third party to drive or keep a car on the road (unless SORN)."
+            ],
+            [
+              "yes",
+              "Minimum liability limits are set by each state; New Hampshire is the main exception, with financial responsibility rules instead."
+            ],
+            [
+              "yes",
+              "Compulsory in all member states under EU motor insurance rules."
+            ]
+          ]
+        },
+        {
+          "label": "Damage to your own car",
+          "cells": [
+            [
+              "no",
+              "Optional (comprehensive). Finance or lease deals often require it."
+            ],
+            [
+              "lender",
+              "Collision and comprehensive are optional unless your lender or lease requires them."
+            ],
+            [
+              "no",
+              "Optional own-damage cover (e.g. Kasko in Germany)."
+            ]
+          ]
+        },
+        {
+          "label": "Personal injury protection",
+          "cells": [
+            [
+              "no",
+              "Not part of UK motor law."
+            ],
+            [
+              "varies",
+              "Required in no-fault states, such as Florida, Michigan and New York."
+            ],
+            [
+              "varies",
+              "Driver injury cover rules differ by country."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Levels of cover in the UK",
+      "html": "<ul><li><strong>Third party only</strong>: covers injury to others and damage to their property. Not your own car.</li><li><strong>Third party, fire and theft</strong>: adds cover if your car is stolen or catches fire.</li><li><strong>Comprehensive</strong>: adds damage to your own car, even if the accident was your fault. Despite what you might expect, comprehensive is sometimes cheaper than third party, so always compare all three.</li></ul><p>Driving without insurance in the UK can lead to a fixed penalty of £300 and 6 penalty points, and if it goes to court, an unlimited fine and disqualification. The police can also seize the vehicle.</p>"
+    },
+    {
+      "h2": "How US auto insurance works",
+      "html": "<p>US policies are built from coverages: <strong>bodily injury and property damage liability</strong> (shown as limits like 25/50/25), <strong>collision</strong> (your car in a crash), <strong>comprehensive</strong> (theft, weather, animals), <strong>uninsured/underinsured motorist</strong> and, in no-fault states, <strong>personal injury protection (PIP)</strong>. State minimums are low compared with the cost of a serious accident, so many drivers choose higher liability limits.</p>"
+    },
+    {
+      "h2": "Driving in Europe",
+      "html": "<p>Every EU country requires third-party motor insurance, and a policy issued in one member state covers the legal minimum across the EU. UK drivers no longer need a green card to drive their own insured car in the EU, EEA, Switzerland and several other countries, but should check what their policy covers abroad (often third party only unless extended). Read <a href=\"/blog/driving-in-europe-insurance/\">driving in Europe: insurance checks</a>.</p>"
+    },
+    {
+      "h2": "What affects the price",
+      "html": "<p>Insurers price risk from factors such as the driver’s age and experience, claims and convictions history, the car’s value and insurance group, where it’s kept overnight, annual mileage and how it’s used (social, commuting or business). Since December 2012, following a European Court of Justice ruling, insurers in the EU and UK can’t use gender as a pricing factor.</p><p class=\"warn\"><strong>Don’t “front”.</strong> Naming a parent as the main driver of a car really driven by a young driver is fraud and can invalidate the policy.</p>"
+    },
+    {
+      "h2": "No claims discount (bonus)",
+      "html": "<p>Each claim-free year usually earns a discount. Protected no claims discount lets you make a limited number of claims without losing the discount, but your premium can still rise after a claim. The name varies: no claims bonus (UK), claims-free discount (US), bonus-malus (much of Europe).</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is comprehensive car insurance always more expensive?",
+      "a": "No. Insurers sometimes price comprehensive below third party because of the type of drivers who choose each level. Compare all levels before deciding."
+    },
+    {
+      "q": "Do I need to tell my insurer about commuting?",
+      "a": "Yes. Social and domestic use usually excludes commuting, and business use is different again. Driving for a delivery app needs specialist cover."
+    },
+    {
+      "q": "Can I drive other cars on my policy?",
+      "a": "Not automatically. “Driving other cars” cover is increasingly rare and, where included, is usually third party only. Check your certificate of insurance."
+    }
+  ],
+  "keywords": [
+    "car insurance",
+    "auto insurance",
+    "motor insurance",
+    "comprehensive car insurance",
+    "third party insurance",
+    "no claims bonus",
+    "car insurance europe"
+  ],
+  "cardText": "Third party, TPFT or comprehensive, and the legal minimums in the UK, US and EU.",
+  "related": [
+    "van-insurance",
+    "blog/driving-in-europe-insurance",
+    "fleet-insurance",
+    "claims"
+  ]
+}

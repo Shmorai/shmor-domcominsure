@@ -1,15 +1,398 @@
 {
+  "updated": "2026-10-15",
   "slug": "",
-  "title": "DomCom Insure: Home and business insurance explained and com",
-  "description": "Home and business insurance explained and compared: buildings, contents, landlord, car, liability, professional indemnity and more for the UK, US and Europe. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "DomCom Insure",
-  "intro": "Home and business insurance explained and compared: buildings, contents, landlord, car, liability, professional indemnity and more for the UK, US and Europe.",
-  "related": [],
+  "title": "DomCom Insure: Home & Business Insurance Compared",
+  "description": "Domestic and commercial insurance explained and compared: home, contents, landlord, car, liability, professional indemnity and more for the UK, US and Europe.",
+  "eyebrow": "Domestic + commercial insurance",
+  "h1": "Insurance for your home and your business, explained and compared",
+  "h1Html": "Insurance for your <span class=\"hl-dom\">home</span> and your <span class=\"hl-com\">business</span>, explained and compared",
+  "intro": "Plain-English guides to the cover you actually need, what’s legally required where you live, and how to compare policies on more than price. For the UK, US and Europe.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+    "alt": "Grey timber-clad detached house with a neat front lawn",
+    "credit": "todd kent",
+    "creditUrl": "https://unsplash.com/@churchoftodd"
+  },
+  "searchPlaceholder": "Try “landlord insurance” or “public liability”",
+  "chips": [
+    {
+      "label": "Cover checker",
+      "slug": "cover-checker"
+    },
+    {
+      "label": "Is it compulsory?",
+      "slug": "business-insurance"
+    },
+    {
+      "label": "How to compare",
+      "slug": "how-to-compare-insurance"
+    },
+    {
+      "label": "Making a claim",
+      "slug": "claims"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "split",
+      "position": "top",
+      "panels": [
+        {
+          "side": "dom",
+          "eyebrow": "Domestic",
+          "title": "For your home & family",
+          "text": "Protect where you live, what you own and the people who rely on you.",
+          "items": [
+            {
+              "title": "Home insurance",
+              "slug": "home-insurance",
+              "icon": "house"
+            },
+            {
+              "title": "Contents",
+              "slug": "contents-insurance",
+              "icon": "tv"
+            },
+            {
+              "title": "Renters & tenants",
+              "slug": "renters-insurance",
+              "icon": "key"
+            },
+            {
+              "title": "Landlords",
+              "slug": "landlord-insurance",
+              "icon": "building"
+            },
+            {
+              "title": "Car",
+              "slug": "car-insurance",
+              "icon": "car"
+            },
+            {
+              "title": "Travel",
+              "slug": "travel-insurance",
+              "icon": "plane"
+            },
+            {
+              "title": "Life",
+              "slug": "life-insurance",
+              "icon": "heart"
+            },
+            {
+              "title": "Flood",
+              "slug": "flood-insurance",
+              "icon": "waves"
+            }
+          ],
+          "cta": {
+            "label": "Explore domestic cover",
+            "slug": "home-insurance"
+          }
+        },
+        {
+          "side": "com",
+          "eyebrow": "Commercial",
+          "title": "For your business",
+          "text": "Meet the legal requirements, satisfy clients and survive a bad day.",
+          "items": [
+            {
+              "title": "Public liability",
+              "slug": "public-liability-insurance",
+              "icon": "users"
+            },
+            {
+              "title": "Employers’ liability",
+              "slug": "employers-liability-insurance",
+              "icon": "hardhat"
+            },
+            {
+              "title": "Professional indemnity",
+              "slug": "professional-indemnity-insurance",
+              "icon": "briefcase"
+            },
+            {
+              "title": "Commercial property",
+              "slug": "commercial-property-insurance",
+              "icon": "building"
+            },
+            {
+              "title": "Tradespeople",
+              "slug": "tradesperson-insurance",
+              "icon": "zap"
+            },
+            {
+              "title": "Cyber",
+              "slug": "cyber-insurance",
+              "icon": "lock"
+            },
+            {
+              "title": "Van & fleet",
+              "slug": "van-insurance",
+              "icon": "truck"
+            },
+            {
+              "title": "Directors (D&O)",
+              "slug": "directors-and-officers-insurance",
+              "icon": "scale"
+            }
+          ],
+          "cta": {
+            "label": "Explore business cover",
+            "slug": "business-insurance"
+          }
+        }
+      ]
+    },
+    {
+      "type": "strip",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Independent",
+          "text": "We’re not an insurer or broker."
+        },
+        {
+          "icon": "globe",
+          "title": "UK, US & EU",
+          "text": "Rules explained by region."
+        },
+        {
+          "icon": "check",
+          "title": "No invented prices",
+          "text": "We never make up quotes or ratings."
+        },
+        {
+          "icon": "file",
+          "title": "Official sources",
+          "text": "Laws and rules linked at source."
+        }
+      ],
+      "position": "top"
+    },
+    {
+      "type": "html",
+      "class": "home-checker",
+      "title": "Not sure what you need?",
+      "html": "<div class=\"hc\"><div class=\"hc-text\"><p class=\"hc-eyebrow\">Cover checker · 2 minutes</p><h3>Answer a few questions. Get a cover list.</h3><p>Tell us whether it’s for your home, your business or both, and where you are. We’ll flag what’s legally required, what lenders and clients usually ask for, and what’s worth a look, with a guide for each.</p><a class=\"hc-btn\" href=\"/cover-checker/\">Start the cover checker →</a></div><ul class=\"hc-list\" aria-hidden=\"true\"><li class=\"need-must\"><span>Legal or lender requirement</span>Employers’ liability</li><li class=\"need-should\"><span>Strongly consider</span>Public liability</li><li class=\"need-should\"><span>Strongly consider</span>Contents insurance</li><li class=\"need-consider\"><span>Worth a look</span>Cyber insurance</li></ul></div>"
+    },
+    {
+      "type": "matrix",
+      "title": "Which insurance is a legal requirement?",
+      "intro": "The quick version. Lenders, landlords and clients add their own requirements on top.",
+      "cols": [
+        "UK",
+        "USA",
+        "EU"
+      ],
+      "rows": [
+        {
+          "label": "Car / motor (third party)",
+          "slug": "car-insurance",
+          "cells": [
+            [
+              "yes",
+              "At least third party (Road Traffic Act 1988)."
+            ],
+            [
+              "yes",
+              "Required in almost every state."
+            ],
+            [
+              "yes",
+              "Compulsory in every member state."
+            ]
+          ]
+        },
+        {
+          "label": "Employers’ liability / workers’ comp",
+          "slug": "employers-liability-insurance",
+          "cells": [
+            [
+              "yes",
+              "At least £5m if you employ staff."
+            ],
+            [
+              "yes",
+              "Workers’ comp required in almost every state."
+            ],
+            [
+              "varies",
+              "Often via statutory accident insurance."
+            ]
+          ]
+        },
+        {
+          "label": "Buildings / dwelling",
+          "slug": "buildings-insurance",
+          "cells": [
+            [
+              "lender",
+              "Required by mortgage lenders."
+            ],
+            [
+              "lender",
+              "Required by mortgage lenders."
+            ],
+            [
+              "lender",
+              "Usually a lender condition."
+            ]
+          ]
+        },
+        {
+          "label": "Flood",
+          "slug": "flood-insurance",
+          "cells": [
+            [
+              "no",
+              "Usually included in home policies."
+            ],
+            [
+              "lender",
+              "Required for federally backed mortgages in high-risk flood zones."
+            ],
+            [
+              "varies",
+              "National schemes in some countries."
+            ]
+          ]
+        },
+        {
+          "label": "Renters / tenants",
+          "slug": "renters-insurance",
+          "cells": [
+            [
+              "no",
+              "Optional."
+            ],
+            [
+              "varies",
+              "Often a lease condition."
+            ],
+            [
+              "varies",
+              "Required for tenants in France."
+            ]
+          ]
+        },
+        {
+          "label": "Professional indemnity",
+          "slug": "professional-indemnity-insurance",
+          "cells": [
+            [
+              "varies",
+              "Required for many regulated professions."
+            ],
+            [
+              "varies",
+              "Some licensed professions."
+            ],
+            [
+              "varies",
+              "Many regulated professions."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "title": "Popular guides",
+      "items": [
+        {
+          "slug": "landlord-insurance",
+          "badge": "Domestic"
+        },
+        {
+          "slug": "public-liability-insurance",
+          "badge": "Commercial"
+        },
+        {
+          "slug": "car-insurance",
+          "badge": "Domestic"
+        },
+        {
+          "slug": "cyber-insurance",
+          "badge": "Commercial"
+        },
+        {
+          "slug": "flood-insurance",
+          "badge": "Domestic"
+        },
+        {
+          "slug": "tradesperson-insurance",
+          "badge": "Commercial"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How to compare insurance properly",
+      "items": [
+        {
+          "icon": "clipboard",
+          "title": "Know what you need",
+          "text": "Start with legal and contract requirements, then the risks that would really hurt."
+        },
+        {
+          "icon": "calendar",
+          "title": "Get the sums right",
+          "text": "Rebuild costs, replacement values, liability limits and indemnity periods drive everything else."
+        },
+        {
+          "icon": "search",
+          "title": "Compare like for like",
+          "text": "Same cover, excess and extras on every quote, from comparison sites, direct insurers and brokers."
+        },
+        {
+          "icon": "file",
+          "title": "Read the key facts",
+          "text": "Check exclusions, limits and conditions in the key facts or IPID before you buy."
+        },
+        {
+          "icon": "shield",
+          "title": "Check who you’re buying from",
+          "text": "Use the FCA register (UK), your state insurance department (US) or national regulator (EU)."
+        }
+      ]
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use DomCom Insure?",
-      "html": "<p>Home and business insurance explained and compared: buildings, contents, landlord, car, liability, professional indemnity and more for the UK, US and Europe.</p>"
+      "h2": "Domestic and commercial, side by side",
+      "html": "<p>Most insurance sites focus on either households or businesses. Real life mixes them: you might own a home, let out a flat, run a business from the spare room and drive a van for work. DomCom Insure covers both sides, so you can see where a home policy stops and business cover needs to start, and avoid gaps (or paying twice).</p>"
+    },
+    {
+      "h2": "How we work",
+      "html": "<ul><li><strong>Plain English first.</strong> We explain what policies do, what they usually exclude and what to check, without jargon. Our <a href=\"/insurance-glossary/\">glossary</a> decodes the rest.</li><li><strong>Region by region.</strong> Rules differ across the UK, US and EU; we say which applies. See <a href=\"/usa/\">insurance in the USA</a> and <a href=\"/europe/\">insurance in Europe</a>.</li><li><strong>Facts, not hype.</strong> We don’t invent prices, savings or star ratings. Where something changes, we date it.</li><li><strong>Not advice.</strong> Our guides are general information. For complex or high-value cover, talk to a regulated broker or adviser.</li></ul>"
+    },
+    {
+      "h2": "How we make money",
+      "html": "<p>DomCom Insure is free to use. Some links to insurers, brokers and comparison services may be affiliate links, which means we may earn a commission if you buy, at no extra cost to you. It never changes what we say about cover. Read <a href=\"https://shmor.ai/affiliate-disclosure/\">how the Shmor.ai network makes money</a>.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is DomCom Insure an insurer or a broker?",
+      "a": "Neither. We publish independent guides and point you to regulated insurers, brokers and comparison services. Always check a provider’s authorisation before buying."
+    },
+    {
+      "q": "What’s the difference between domestic and commercial insurance?",
+      "a": "Domestic (personal lines) insurance protects individuals and households: home, contents, car, travel and life. Commercial insurance protects businesses: liability, employees, premises, professional work, vehicles and data."
+    },
+    {
+      "q": "Which insurance is compulsory?",
+      "a": "In most places, motor insurance for vehicles on the road, and employers’ liability or workers’ comp once you employ staff. Lenders, landlords and clients add requirements such as buildings cover or public liability. See the table above or try the <a href=\"/cover-checker/\">cover checker</a>."
+    }
+  ],
+  "keywords": [
+    "insurance comparison",
+    "compare insurance",
+    "domestic insurance",
+    "commercial insurance",
+    "home and business insurance"
+  ],
+  "latestPosts": 3,
+  "latestTitle": "Latest from the blog",
+  "ctaTitle": "What do you want to insure?"
 }

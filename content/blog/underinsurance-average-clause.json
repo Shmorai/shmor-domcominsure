@@ -1,0 +1,59 @@
+{
+  "updated": "2026-09-20",
+  "type": "post",
+  "slug": "blog/underinsurance-average-clause",
+  "date": "2026-09-20",
+  "short": "Under-insurance",
+  "title": "Under-Insurance and the Average Clause, Explained",
+  "description": "Insuring for too little can cut every claim, not just total losses. How the average clause works for home and business insurance, with a worked example.",
+  "h1": "Under-insurance and the average clause",
+  "intro": "Saving money by lowering your sum insured can backfire badly. Many home and business policies include an “average” condition that reduces claims in proportion when you’re under-insured.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec",
+    "alt": "Calculator on a table next to a laptop",
+    "credit": "Jakub Żerdzicki",
+    "creditUrl": "https://unsplash.com/@jakubzerdzicki"
+  },
+  "sections": [
+    {
+      "h2": "How average works",
+      "html": "<p>If the sum insured is lower than the true value at the time of the loss, the insurer pays only the same proportion of the claim. A simple example with round numbers:</p><table><thead><tr><th></th><th>Amount</th></tr></thead><tbody><tr><td>True replacement value of contents</td><td>60,000</td></tr><tr><td>Sum insured</td><td>40,000 (two-thirds)</td></tr><tr><td>Claim after a kitchen fire</td><td>9,000</td></tr><tr><td>Payout under average</td><td>6,000 (two-thirds), before the excess</td></tr></tbody></table><p>This is an illustration, not a prediction: wordings differ, and some policies don’t apply average at all or only when under-insurance exceeds a margin.</p>"
+    },
+    {
+      "h2": "Why under-insurance happens",
+      "html": "<ul><li>Buildings insured for market value instead of rebuild cost, or not updated as costs rise.</li><li>Contents totals guessed rather than counted.</li><li>Business stock that grows seasonally.</li><li>Business interruption based on turnover or last year’s profit, with too short an indemnity period.</li></ul>"
+    },
+    {
+      "h2": "How to avoid it",
+      "html": "<ol><li>Recalculate sums at each renewal, and after renovations or big purchases.</li><li>Use the BCIS calculator or a surveyor for UK rebuild costs.</li><li>Do a room-by-room contents inventory.</li><li>Ask whether index-linking or “day one” reinstatement is available on business property.</li></ol>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do all policies have an average clause?",
+      "a": "No. Some “unlimited” or high-limit contents policies don’t, and wordings vary. Check the conditions section."
+    },
+    {
+      "q": "Does average apply to liability cover?",
+      "a": "Average typically applies to property sums insured. Liability limits work differently: claims above the limit aren’t covered."
+    }
+  ],
+  "sources": [
+    {
+      "title": "BCIS: Rebuild cost calculator (via ABI)",
+      "url": "https://calculator.bcis.co.uk/"
+    }
+  ],
+  "keywords": [
+    "average clause",
+    "underinsurance",
+    "under insured claim",
+    "sum insured too low",
+    "condition of average"
+  ],
+  "related": [
+    "buildings-insurance",
+    "contents-insurance",
+    "commercial-property-insurance"
+  ]
+}

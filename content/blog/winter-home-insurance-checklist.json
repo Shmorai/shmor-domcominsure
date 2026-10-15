@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-13",
+  "type": "post",
+  "slug": "blog/winter-home-insurance-checklist",
+  "date": "2026-10-13",
+  "short": "Winter checklist",
+  "title": "Winter Home Insurance Checklist: Pipes, Storms & Empty Homes",
+  "description": "Get your home and policy ready for winter: preventing burst pipes, storm prep, heating while you’re away, unoccupancy rules and what to do if water escapes.",
+  "h1": "Your winter home insurance checklist",
+  "intro": "Cold snaps and storms bring some of the most disruptive home claims of the year, from burst pipes to roof damage. A few checks now can prevent damage and make sure your cover works if it happens.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1486944670663-e0a2ea5018eb",
+    "alt": "Snow-covered wooden house in a wintry landscape",
+    "credit": "Greg Rakozy",
+    "creditUrl": "https://unsplash.com/@grakozy"
+  },
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "droplet",
+          "title": "Know your stopcock",
+          "text": "and test it turns."
+        },
+        {
+          "icon": "flame",
+          "title": "Keep heating on low",
+          "text": "when you’re away in cold weather."
+        },
+        {
+          "icon": "house",
+          "title": "Clear gutters",
+          "text": "and secure loose items."
+        },
+        {
+          "icon": "file",
+          "title": "Check unoccupancy rules",
+          "text": "before long trips."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Prevent frozen and burst pipes",
+      "html": "<ul><li>Find your stopcock (main water shut-off) and make sure it turns.</li><li>Lag pipes and tanks in lofts, garages and outside walls.</li><li>Keep heating on at a low setting during cold spells, even when you’re away; some policies require this.</li><li>Fix dripping taps and fit covers to outside taps.</li></ul><p>Escape of water claims often involve damage far beyond the burst itself: ceilings, floors and electrics. Check whether your policy includes “trace and access” to find hidden leaks.</p>"
+    },
+    {
+      "h2": "Storm-ready",
+      "html": "<p>In the UK and Ireland, the Met Office, Met Éireann and the Netherlands’ KNMI name storms likely to have medium or high impacts; the 2026/27 list runs from Austen, Boelo and Chloe. Before stormy spells, clear gutters and drains, secure garden furniture and trampolines, and check for loose roof tiles. Note that many policies exclude storm damage to fences and gates, and damage caused by poor maintenance. Read <a href=\"/blog/storm-season-claims/\">storm damage claims</a>.</p>"
+    },
+    {
+      "h2": "Going away for the holidays",
+      "html": "<p>Most home policies limit cover once a home is unoccupied for a set number of consecutive days, commonly 30 to 60. Over that limit, cover for things like escape of water, theft and malicious damage may stop or reduce. Tell your insurer about long absences, ask someone to check the property, and consider draining the system for very long trips. See <a href=\"/blog/unoccupied-property-insurance/\">unoccupied property insurance</a>.</p>"
+    },
+    {
+      "h2": "If water escapes",
+      "html": "<ol><li>Turn off the water at the stopcock and switch off electrics if water is near them (only if safe).</li><li>Call your insurer’s claims line; many have 24-hour emergency services.</li><li>Photograph damage and move valuables if you can do so safely.</li><li>Keep receipts for emergency repairs.</li></ol>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a burst pipe covered by home insurance?",
+      "a": "The damage the water causes usually is (escape of water). The cost of repairing the pipe itself often isn’t, unless you have home emergency or trace and access cover."
+    },
+    {
+      "q": "Do I need to tell my insurer I’m away for Christmas?",
+      "a": "If you’ll be away longer than the unoccupancy limit in your policy, yes. Check the wording for the exact number of days."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Met Office: UK Storm Centre",
+      "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-storm-centre/index"
+    }
+  ],
+  "keywords": [
+    "winter home insurance",
+    "burst pipes insurance",
+    "frozen pipes",
+    "escape of water claim",
+    "storm preparation home"
+  ],
+  "related": [
+    "home-insurance",
+    "blog/unoccupied-property-insurance",
+    "blog/storm-season-claims"
+  ]
+}

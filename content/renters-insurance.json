@@ -1,0 +1,139 @@
+{
+  "updated": "2026-10-15",
+  "slug": "renters-insurance",
+  "short": "Renters insurance",
+  "title": "Renters & Tenants Insurance: What Tenants Should Know",
+  "description": "Renters insurance (US HO-4) and UK tenants contents cover explained: belongings, liability, damage to the landlord’s fixtures and France’s tenant rule.",
+  "eyebrow": "Domestic · Renting",
+  "h1": "Renters and tenants insurance",
+  "intro": "Your landlord insures the building, not your things or your liability. Renters insurance fills that gap, and it’s usually one of the cheaper policies you’ll ever buy.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1624204386084-dd8c05e32226",
+    "alt": "Modern apartment block with glass balconies under a soft pink sky",
+    "credit": "Tobias Wilden",
+    "creditUrl": "https://unsplash.com/@tobiasw"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "ref": "DOM-RENT",
+      "rows": [
+        [
+          "What it is",
+          "UK: tenants contents insurance. US: an HO-4 renters policy (belongings, liability, loss of use)."
+        ],
+        [
+          "Who needs it",
+          "Anyone renting who would struggle to replace their belongings or pay for damage they cause."
+        ],
+        [
+          "Legal requirement",
+          "Not by law in the UK or US. In France, tenants must insure against “risques locatifs”. Leases may require it."
+        ],
+        [
+          "Useful extra",
+          "Tenant’s liability: accidental damage you cause to the landlord’s fixtures and fittings."
+        ],
+        [
+          "Watch out for",
+          "Theft without forced entry in shared homes, and cover for roommates’ belongings."
+        ]
+      ]
+    },
+    {
+      "type": "matrix",
+      "title": "Is renters insurance required?",
+      "cols": [
+        "UK",
+        "USA",
+        "EU"
+      ],
+      "rows": [
+        {
+          "label": "Contents / personal property",
+          "cells": [
+            [
+              "no",
+              "Optional, unless your tenancy agreement says otherwise."
+            ],
+            [
+              "varies",
+              "Not state law, but many landlords make it a lease condition."
+            ],
+            [
+              "varies",
+              "Depends on country. France requires tenants to insure rental risks."
+            ]
+          ]
+        },
+        {
+          "label": "Liability to others",
+          "cells": [
+            [
+              "no",
+              "Included in most tenants’ contents policies."
+            ],
+            [
+              "varies",
+              "Often a lease condition; included in HO-4."
+            ],
+            [
+              "varies",
+              "Private liability cover is widely held, e.g. Germany’s Haftpflicht, but not compulsory there."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What renters insurance covers",
+      "html": "<ul><li><strong>Your belongings</strong> against theft, fire, water damage and other listed events.</li><li><strong>Liability</strong> if someone is injured in your home or you damage someone else’s property.</li><li><strong>Loss of use</strong> (US) or alternative accommodation: extra living costs if your home becomes uninhabitable after an insured event.</li><li><strong>Tenant’s liability</strong> (UK): accidental damage to the landlord’s fixtures, such as a cracked bathroom basin. Check whether it’s included or optional.</li></ul>"
+    },
+    {
+      "h2": "Deposits vs insurance",
+      "html": "<p>In England and Wales, deposits for assured shorthold tenancies must be protected in a government-approved scheme, and disputes about damage at the end of a tenancy go through that scheme. Insurance is different: it covers sudden accidental damage and insured events during the tenancy, not general wear and tear or cleaning.</p>"
+    },
+    {
+      "h2": "Sharing a home",
+      "html": "<p>Shared-house policies often need forced entry for theft claims, because housemates and their guests can come and go. Look for policies built for sharers that cover your own room’s contents. In the US, roommates are usually not covered by your policy unless named, so each person should normally buy their own.</p>"
+    },
+    {
+      "h2": "Renting in France and the rest of Europe",
+      "html": "<p>French law requires tenants of unfurnished homes to insure against rental risks (fire, water damage, explosion) and to show the landlord proof each year. Elsewhere in the EU, rules vary: some leases require liability cover, and in Germany many households hold private liability (Privathaftpflicht) insurance even though it isn’t compulsory. See <a href=\"/europe/\">insurance in Europe</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does my landlord’s insurance cover my things?",
+      "a": "No. Landlord insurance covers the building and the landlord’s own contents (in furnished lets). Your belongings need your own policy."
+    },
+    {
+      "q": "Can my landlord make me buy renters insurance?",
+      "a": "In the US, many landlords can make it a lease condition. In England, landlords generally can’t require you to buy insurance from a particular provider; check your tenancy agreement and current guidance."
+    },
+    {
+      "q": "Does renters insurance cover my laptop outside the home?",
+      "a": "Many US HO-4 policies cover belongings anywhere in the world, subject to limits. UK tenants’ policies usually need personal possessions cover added."
+    }
+  ],
+  "keywords": [
+    "renters insurance",
+    "tenants insurance",
+    "tenant contents insurance",
+    "ho-4",
+    "apartment insurance",
+    "renter liability insurance",
+    "assurance habitation"
+  ],
+  "cardText": "Your landlord insures the building, not your stuff or your liability.",
+  "related": [
+    "contents-insurance",
+    "landlord-insurance",
+    "home-insurance",
+    "europe"
+  ]
+}

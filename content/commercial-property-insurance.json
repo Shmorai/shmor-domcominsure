@@ -1,0 +1,114 @@
+{
+  "updated": "2026-10-15",
+  "slug": "commercial-property-insurance",
+  "short": "Commercial property",
+  "title": "Commercial Property Insurance & Business Interruption",
+  "description": "Commercial property insurance for offices, shops, units and let commercial buildings: buildings, contents, stock, business interruption and indemnity periods.",
+  "eyebrow": "Commercial · Property",
+  "h1": "Commercial property insurance",
+  "intro": "Commercial property insurance protects business buildings, fit-out, equipment and stock. Pair it with business interruption cover and you protect the income those assets produce too.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab",
+    "alt": "Low-angle view of modern glass office towers",
+    "credit": "Sean Pollock",
+    "creditUrl": "https://unsplash.com/@seanpollock"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-PROP",
+      "rows": [
+        [
+          "Covers",
+          "Buildings (if you own or must insure them), contents, fit-out, machinery, stock, and often glass and signs."
+        ],
+        [
+          "Who needs it",
+          "Owners and tenants of offices, shops, warehouses and units; landlords of commercial property."
+        ],
+        [
+          "Legal requirement",
+          "No, but leases and lenders usually require it."
+        ],
+        [
+          "Key add-on",
+          "Business interruption: lost gross profit and extra costs after insured damage."
+        ],
+        [
+          "Watch out for",
+          "Under-insurance, security conditions, unoccupancy and the indemnity period."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Commercial property at a glance",
+      "covered": [
+        "Fire, lightning, explosion, storm, flood, escape of water",
+        "Theft (often only with forced entry)",
+        "Malicious damage and riot",
+        "Stock, including seasonal increases if declared",
+        "Machinery and equipment at the premises"
+      ],
+      "excluded": [
+        "Wear and tear and gradual deterioration",
+        "Breakdown of machinery (separate engineering cover)",
+        "Cyber damage to data",
+        "Theft without forced entry (common)",
+        "Cover lapsing after the premises are unoccupied too long"
+      ],
+      "addons": [
+        "Business interruption",
+        "Goods in transit",
+        "Engineering / machinery breakdown",
+        "Money and assault",
+        "Terrorism cover"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who insures the building?",
+      "html": "<p>If you rent premises, the lease decides who insures the structure. Often the landlord insures it and recharges the premium, and you insure your contents, fit-out and stock. If the lease makes you responsible, you’ll need buildings cover too. Read the insurance and repair clauses, and check whether you’re responsible for glass and shopfronts.</p>"
+    },
+    {
+      "h2": "Business interruption explained",
+      "html": "<p>Business interruption (BI) pays lost gross profit and increased costs of working after insured physical damage stops or slows your business. Two numbers matter: the <strong>sum insured</strong> (based on gross profit, not turnover) and the <strong>indemnity period</strong>, the maximum time the policy will pay while you recover. Choose a period long enough to rebuild, refit and win customers back, which can be well over 12 months. More in <a href=\"/blog/business-interruption-insurance-explained/\">business interruption explained</a>.</p>"
+    },
+    {
+      "h2": "Avoid under-insurance",
+      "html": "<p>Commercial policies commonly include an average condition, so being under-insured can reduce every claim, not just total losses. Have buildings valued for reinstatement periodically, and review stock and equipment values when prices rise. Some insurers offer “day one” reinstatement or index-linking to help.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does commercial property insurance cover lost income?",
+      "a": "Only if you add business interruption cover. Property cover alone pays for physical damage."
+    },
+    {
+      "q": "I work from a shared office. Do I need it?",
+      "a": "Probably for your own equipment and contents. The building is usually insured by the landlord or operator; check your agreement."
+    },
+    {
+      "q": "Does it cover stock in my van?",
+      "a": "Not usually. Goods in transit cover protects stock while it’s being moved."
+    }
+  ],
+  "keywords": [
+    "commercial property insurance",
+    "business interruption insurance",
+    "office insurance",
+    "shop insurance",
+    "commercial building insurance",
+    "stock insurance"
+  ],
+  "cardText": "Buildings, contents and stock, plus business interruption for lost income.",
+  "related": [
+    "business-owners-policy",
+    "blog/business-interruption-insurance-explained",
+    "landlord-insurance",
+    "cyber-insurance"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "updated": "2026-10-15",
+  "slug": "fleet-insurance",
+  "short": "Fleet insurance",
+  "title": "Fleet Insurance: Cover for Several Business Vehicles",
+  "description": "Fleet insurance covers several cars, vans or lorries on one policy: any-driver vs named-driver, claims experience, telematics, grey fleet and driver checks.",
+  "eyebrow": "Commercial · Vehicles",
+  "h1": "Fleet insurance",
+  "intro": "Fleet insurance puts multiple business vehicles on one policy with one renewal date. It can simplify admin and cost less than separate policies, especially as your fleet and claims record grow.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1587813369290-091c9d432daf",
+    "alt": "Row of white vans parked in a company lot",
+    "credit": "Markus Winkler",
+    "creditUrl": "https://unsplash.com/@markuswinkler"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-FLT",
+      "rows": [
+        [
+          "Typical minimum",
+          "Often from around two or three vehicles, depending on the insurer."
+        ],
+        [
+          "Vehicle mix",
+          "Cars, vans, HGVs and specialist vehicles can usually share one policy."
+        ],
+        [
+          "Drivers",
+          "Any driver (with age/experience limits) or named drivers."
+        ],
+        [
+          "Pricing",
+          "Based on fleet claims experience, vehicle types, use and driver profile; telematics can help."
+        ],
+        [
+          "Don’t forget",
+          "Grey fleet: staff using their own cars for work need business use on their own policies."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How fleet insurance is priced",
+      "html": "<p>Small fleets are often priced like a group of individual vehicles. Larger fleets are priced more on their own claims experience, so a good record and strong driver management can make a big difference. Insurers may ask about driver licence checks, training, maintenance schedules and telematics.</p>"
+    },
+    {
+      "h2": "Managing fleet risk",
+      "html": "<ul><li>Check driving licences regularly (in Great Britain, with the driver’s consent, via DVLA’s licence checking service).</li><li>Set clear policies on phones, fatigue and journey planning.</li><li>Keep maintenance and defect records.</li><li>Report incidents quickly; delays can increase costs.</li></ul><p>In the UK, HSE guidance treats work-related driving as part of an employer’s health and safety duties.</p>"
+    },
+    {
+      "h2": "Grey fleet and occasional business use",
+      "html": "<p>When employees use their own cars for work (beyond commuting), their personal policies need business use. Employers should check this, and some buy contingent liability cover to protect the business if an employee’s cover fails.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many vehicles do I need for fleet insurance?",
+      "a": "It varies by insurer, commonly two or three upwards. Some “mini fleet” policies start from two vehicles."
+    },
+    {
+      "q": "Can I mix cars and vans on one fleet policy?",
+      "a": "Usually yes, along with other commercial vehicles, subject to the insurer."
+    },
+    {
+      "q": "Does fleet insurance cover employees’ own cars?",
+      "a": "No. Their own policies must include business use. Contingent liability cover can protect the employer."
+    }
+  ],
+  "keywords": [
+    "fleet insurance",
+    "motor fleet insurance",
+    "van fleet insurance",
+    "any driver fleet",
+    "grey fleet",
+    "business car insurance"
+  ],
+  "cardText": "One policy for several cars, vans or lorries, priced on your fleet’s record.",
+  "related": [
+    "van-insurance",
+    "car-insurance",
+    "business-insurance",
+    "employers-liability-insurance"
+  ]
+}

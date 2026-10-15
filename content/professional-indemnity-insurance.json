@@ -1,0 +1,112 @@
+{
+  "updated": "2026-10-15",
+  "slug": "professional-indemnity-insurance",
+  "short": "Professional indemnity",
+  "title": "Professional Indemnity & E&O Insurance Explained",
+  "description": "Professional indemnity (errors and omissions) insurance for consultants, freelancers and regulated professions: claims-made cover, run-off and limits.",
+  "eyebrow": "Commercial · Professional",
+  "h1": "Professional indemnity (E&O) insurance",
+  "intro": "If you give advice, design, write, code or provide a professional service, a client could claim your mistake cost them money. Professional indemnity (called errors and omissions in the US) covers those claims and the cost of defending them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+    "alt": "Consultant presenting to a client across a table with a laptop",
+    "credit": "Headway",
+    "creditUrl": "https://unsplash.com/@headwayio"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-PI",
+      "rows": [
+        [
+          "Covers",
+          "Claims for financial loss caused by negligent advice, errors, omissions, breach of professional duty, and often defamation and IP infringement."
+        ],
+        [
+          "Who needs it",
+          "Consultants, accountants, architects, engineers, designers, IT and marketing freelancers, agencies, advisers."
+        ],
+        [
+          "Compulsory for",
+          "UK: solicitors, accountants in practice, architects (ARB), financial advisers and more. US: some licensed professions."
+        ],
+        [
+          "How it works",
+          "Usually “claims-made”: the policy in force when the claim is made responds, not the one when the work was done."
+        ],
+        [
+          "Don’t forget",
+          "Run-off cover after you retire or close the business."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Professional indemnity at a glance",
+      "covered": [
+        "Negligent advice or service causing a client financial loss",
+        "Mistakes, errors and omissions in your work",
+        "Unintentional breach of confidentiality, defamation or IP infringement (many policies)",
+        "Legal defence costs, even if the claim fails",
+        "Loss of documents or data (some policies)"
+      ],
+      "excluded": [
+        "Injury or property damage (that’s public liability)",
+        "Claims you knew about before the policy started",
+        "Deliberate or fraudulent acts",
+        "Contractual guarantees beyond normal professional duty",
+        "Fines and penalties in many cases"
+      ],
+      "addons": [
+        "Run-off cover",
+        "Cyber liability",
+        "Contract-specific higher limits"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Claims-made cover and why it matters",
+      "html": "<p>Most PI policies are written on a <strong>claims-made</strong> basis. That means you need cover in force when a claim is made against you, even if the work was done years earlier. If you stop buying cover, past work is unprotected unless you arrange <strong>run-off cover</strong>. Check the policy’s retroactive date: work done before it isn’t covered.</p>"
+    },
+    {
+      "h2": "Choosing a limit",
+      "html": "<p>Clients and contracts often set a minimum, and regulated professions have their own rules. Consider the size of your projects and the worst financial loss a mistake could cause. Check whether the limit applies “each and every claim” or “in the aggregate” for the year, and whether defence costs are inside or on top of the limit.</p>"
+    },
+    {
+      "h2": "Freelancers and contractors",
+      "html": "<p>Many freelancers buy PI because client contracts demand it. Read indemnity clauses in contracts carefully: agreeing to cover unlimited losses can go beyond what your insurance will pay. If you’re unsure about a contract, our sister site <a href=\"https://profinders.shmor.ai/\">ProFinders</a> helps you compare lawyers and other professionals.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What’s the difference between PI and public liability?",
+      "a": "Public liability covers injury and property damage to third parties. Professional indemnity covers financial loss caused by your advice or service. Many businesses need both; see <a href=\"/blog/public-liability-vs-professional-indemnity/\">PI vs public liability</a>."
+    },
+    {
+      "q": "Do I need PI as a sole trader?",
+      "a": "If you give advice or provide a professional service, it’s strongly worth considering, and some clients won’t hire you without it."
+    },
+    {
+      "q": "What is run-off cover?",
+      "a": "Cover that continues to protect you against claims about past work after you stop trading, retire or close the business."
+    }
+  ],
+  "keywords": [
+    "professional indemnity insurance",
+    "pi insurance",
+    "errors and omissions insurance",
+    "e&o insurance",
+    "professional liability insurance",
+    "run off cover"
+  ],
+  "cardText": "Cover for claims that your advice or work cost a client money.",
+  "related": [
+    "public-liability-insurance",
+    "cyber-insurance",
+    "directors-and-officers-insurance",
+    "blog/public-liability-vs-professional-indemnity"
+  ]
+}

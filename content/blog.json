@@ -1,0 +1,26 @@
+{
+  "updated": "2026-10-15",
+  "slug": "blog",
+  "type": "blog",
+  "nav": "Blog",
+  "navOrder": 6,
+  "title": "DomCom Insure Blog: Home & Business Insurance News",
+  "description": "Timely guides on home and business insurance: rule changes, seasonal risks, claims tips and plain-English explainers for the UK, US and Europe.",
+  "eyebrow": "Blog",
+  "h1": "The DomCom Insure blog",
+  "intro": "Rule changes, seasonal risks and practical explainers for households and small businesses. Every post links to official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648201637025-1c77b9be3013",
+    "alt": "Calculator and pen resting on a sheet of paper",
+    "credit": "Aaron Lefler",
+    "creditUrl": "https://unsplash.com/@alefler"
+  },
+  "search": false,
+  "keywords": [
+    "insurance news",
+    "insurance blog",
+    "home insurance tips",
+    "business insurance news"
+  ],
+  "cardText": "Insurance rule changes, seasonal risks and explainers."
+}

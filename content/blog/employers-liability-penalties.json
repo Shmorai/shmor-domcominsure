@@ -1,0 +1,92 @@
+{
+  "updated": "2026-09-16",
+  "type": "post",
+  "slug": "blog/employers-liability-penalties",
+  "date": "2026-09-16",
+  "short": "Employers’ liability fines",
+  "title": "Employers’ Liability: Fines, Certificates and Exemptions",
+  "description": "UK employers can be fined up to £2,500 a day for not holding employers’ liability insurance. Who must have it, the £5m minimum and the certificate rules.",
+  "h1": "Employers’ liability insurance: the fines, and how to stay compliant",
+  "intro": "Hiring your first employee in Great Britain brings a legal duty most new employers hear about late: compulsory employers’ liability insurance. Here’s what the law requires and what happens if you don’t comply.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d",
+    "alt": "Yellow and white storage crates stacked in a warehouse",
+    "credit": "Adrian Sulyok",
+    "creditUrl": "https://unsplash.com/@sulyok_imaging"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "title": "Key points",
+      "rows": [
+        [
+          "Minimum cover",
+          "£5 million from an authorised insurer."
+        ],
+        [
+          "Fine for no cover",
+          "Up to £2,500 for every day you’re not properly insured."
+        ],
+        [
+          "Certificate",
+          "Display it (or make it available electronically). Up to £1,000 fine for not doing so."
+        ],
+        [
+          "Check",
+          "GOV.UK exemptions list; the FCA register for your insurer."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "The legal requirement",
+      "html": "<p>The Employers’ Liability (Compulsory Insurance) Act 1969 requires most employers in England, Scotland and Wales to hold insurance covering their liability for injury or illness suffered by employees in the course of their work. GOV.UK states the policy must provide at least £5 million of cover and come from an authorised insurer. Northern Ireland has its own equivalent rules.</p>"
+    },
+    {
+      "h2": "The penalties",
+      "html": "<p>According to GOV.UK, you can be fined <strong>£2,500 for every day</strong> you’re not properly insured, and <strong>up to £1,000</strong> if you don’t display your certificate or refuse to make it available to inspectors. Directors and managers can also be personally liable in some circumstances. Beyond fines, an uninsured employer would face any compensation claim alone.</p>"
+    },
+    {
+      "h2": "Who counts as an employee",
+      "html": "<p>It isn’t only people on payroll. Casual, seasonal and temporary workers can count, and so can some labour-only subcontractors, depending on how much control you have over their work and who provides the equipment. If in doubt, ask your insurer and check GOV.UK’s guidance.</p>"
+    },
+    {
+      "h2": "Staying compliant",
+      "html": "<ul><li>Arrange cover before the first person starts work.</li><li>Display the certificate or share it electronically where staff can access it.</li><li>Keep old certificates: disease claims can arise years later.</li><li>Tell your insurer about changes in activities, staff numbers or locations.</li></ul><p>More in our <a href=\"/employers-liability-insurance/\">employers’ liability guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "I only employ my spouse. Do I need it?",
+      "a": "Businesses employing only close family members are usually exempt, unless the business is a limited company. Check the GOV.UK exemptions."
+    },
+    {
+      "q": "Is £5 million enough?",
+      "a": "It’s the legal minimum. Many policies provide £10 million as standard."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Employers’ liability insurance",
+      "url": "https://www.gov.uk/employers-liability-insurance"
+    },
+    {
+      "title": "legislation.gov.uk: Employers’ Liability (Compulsory Insurance) Act 1969",
+      "url": "https://www.legislation.gov.uk/ukpga/1969/57"
+    }
+  ],
+  "keywords": [
+    "employers liability fine",
+    "employers liability insurance law",
+    "do i need employers liability",
+    "first employee insurance uk"
+  ],
+  "related": [
+    "employers-liability-insurance",
+    "business-insurance",
+    "blog/new-business-insurance-checklist"
+  ]
+}

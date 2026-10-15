@@ -1,0 +1,103 @@
+{
+  "updated": "2026-10-15",
+  "slug": "employers-liability-insurance",
+  "short": "Employers’ liability",
+  "title": "Employers’ Liability Insurance: UK Rules & Penalties",
+  "description": "Employers’ liability insurance is a UK legal requirement for most employers: the £5m minimum, who counts as an employee, exemptions, fines and certificates.",
+  "eyebrow": "Commercial · UK law",
+  "h1": "Employers’ liability insurance",
+  "intro": "If you employ people in Great Britain, employers’ liability insurance is almost certainly a legal requirement. It covers compensation if an employee is injured or made ill because of their work.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1586528116022-aeda1613c63d",
+    "alt": "Workers walking through a large warehouse aisle with high shelving",
+    "credit": "Adrian Sulyok",
+    "creditUrl": "https://unsplash.com/@sulyok_imaging"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-EL",
+      "rows": [
+        [
+          "Legal basis",
+          "Employers’ Liability (Compulsory Insurance) Act 1969 (Great Britain); separate rules in Northern Ireland."
+        ],
+        [
+          "Minimum cover",
+          "£5 million, from an authorised insurer. Many policies offer £10 million."
+        ],
+        [
+          "Penalties",
+          "Up to £2,500 for every day you’re not properly insured; up to £1,000 for not displaying or providing the certificate."
+        ],
+        [
+          "Exemptions",
+          "Including some family businesses and companies with only one employee who owns 50%+ of the shares. Check GOV.UK."
+        ],
+        [
+          "Keep in mind",
+          "Volunteers, casual and temporary staff and some contractors can count as employees."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who needs it",
+      "html": "<p>You normally need employers’ liability insurance as soon as you employ anyone, including part-time, temporary and casual staff. Whether someone counts as an employee for this purpose depends on the working relationship, not just their contract: for example, whether you deduct tax at source, supply their tools, or control how and when they work. Subcontractors in construction can sometimes count. GOV.UK has a guide to who counts.</p>"
+    },
+    {
+      "h2": "Exemptions",
+      "html": "<p>Exemptions include businesses that only employ close family members (unless incorporated as a limited company), companies with only one employee who also owns 50% or more of the shares, and most public bodies. The exact list is on GOV.UK, and it’s worth checking because getting it wrong carries daily fines.</p>"
+    },
+    {
+      "h2": "Certificates and record-keeping",
+      "html": "<p>Your insurer issues a certificate of employers’ liability insurance. You must display it where employees can easily read it (or make it available electronically) and show it to inspectors on request. Keeping old certificates is good practice: illness claims, such as industrial disease, can surface decades later, and the Employers’ Liability Tracing Office (ELTO) helps people trace historic policies.</p>"
+    },
+    {
+      "h2": "Outside Great Britain",
+      "html": "<p>In the US, the equivalent protection is <a href=\"/workers-compensation/\">workers’ compensation</a>, which is set by each state. Many EU countries cover workplace accidents through statutory social insurance funded by employer contributions, sometimes alongside private employer liability cover. If you employ staff abroad, check the rules in each country. See <a href=\"/europe/\">insurance in Europe</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What happens if I don’t have employers’ liability insurance?",
+      "a": "You can be fined up to £2,500 for every day you’re not properly insured, and you’d have to pay any employee compensation claims yourself."
+    },
+    {
+      "q": "Do I need it if I only employ my family?",
+      "a": "Family businesses employing only close relatives are usually exempt, unless the business is a limited company. Check the exemptions on GOV.UK."
+    },
+    {
+      "q": "Does it cover injured customers?",
+      "a": "No. Injuries to the public are covered by <a href=\"/public-liability-insurance/\">public liability insurance</a>."
+    }
+  ],
+  "keywords": [
+    "employers liability insurance",
+    "employers liability",
+    "el insurance",
+    "compulsory insurance employees",
+    "employers liability certificate",
+    "employers liability fine"
+  ],
+  "cardText": "The UK’s compulsory cover for staff: £5m minimum, daily fines if you don’t have it.",
+  "related": [
+    "workers-compensation",
+    "public-liability-insurance",
+    "blog/employers-liability-penalties",
+    "business-insurance"
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Employers’ liability insurance",
+      "url": "https://www.gov.uk/employers-liability-insurance"
+    },
+    {
+      "title": "HSE: Employers’ liability insurance, a brief guide for employers",
+      "url": "https://www.hse.gov.uk/pubns/hse40.htm"
+    }
+  ]
+}

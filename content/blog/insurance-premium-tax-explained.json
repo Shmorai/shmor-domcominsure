@@ -1,0 +1,89 @@
+{
+  "updated": "2026-09-22",
+  "type": "post",
+  "slug": "blog/insurance-premium-tax-explained",
+  "date": "2026-09-22",
+  "short": "Insurance Premium Tax",
+  "title": "Insurance Premium Tax (IPT) Explained: 12% and 20% Rates",
+  "description": "UK Insurance Premium Tax explained: which policies pay the 12% standard rate, which pay 20%, what’s exempt (including life cover) and how it shows.",
+  "h1": "Insurance Premium Tax (IPT) explained",
+  "intro": "Most UK insurance premiums include a tax you may not notice: Insurance Premium Tax. Here’s how it works, the two rates, and which policies are exempt.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1554224154-26032ffc0d07",
+    "alt": "Tax paperwork on a folder beside a smartphone and pen",
+    "credit": "Kelly Sikkema",
+    "creditUrl": "https://unsplash.com/@kellysikkema"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "both",
+      "title": "Key points",
+      "rows": [
+        [
+          "Standard rate",
+          "12%, on most general insurance such as home, car and business cover."
+        ],
+        [
+          "Higher rate",
+          "20%, on travel insurance and some insurance sold with goods or vehicles (e.g. some appliance cover)."
+        ],
+        [
+          "Exempt",
+          "Long-term insurance such as life insurance, plus some other categories."
+        ],
+        [
+          "Included in",
+          "The quoted premium; insurers pay it to HMRC."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Who pays it",
+      "html": "<p>IPT is charged on the premium. Insurers collect it and pay it to HM Revenue & Customs, so the price you see normally already includes it. Quotes and schedules often show it as a separate line or note.</p>"
+    },
+    {
+      "h2": "The two rates",
+      "html": "<p>The <strong>standard rate is 12%</strong> (it has been since June 2017) and applies to most general insurance, including home, motor, pet and most business policies. The <strong>higher rate is 20%</strong> and applies to travel insurance and certain policies sold alongside goods or services, such as some mechanical breakdown and appliance insurance. Rates can change at Budgets, so check HMRC guidance for current rates.</p>"
+    },
+    {
+      "h2": "What’s exempt",
+      "html": "<p>Long-term insurance, such as life insurance and income protection, is exempt, as are some other categories including certain commercial ships and aircraft, and reinsurance. That’s one reason life insurance quotes don’t show IPT.</p>"
+    },
+    {
+      "h2": "In the US and EU",
+      "html": "<p>US states levy premium taxes on insurers, usually built into the price rather than shown to consumers. EU countries set their own insurance taxes, which vary widely and may be shown separately on quotes.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a business reclaim IPT like VAT?",
+      "a": "No. IPT isn’t VAT and can’t be reclaimed as input tax. Insurance itself is exempt from VAT."
+    },
+    {
+      "q": "Why is travel insurance taxed more?",
+      "a": "It falls in the higher-rate category set by legislation, alongside some insurance sold with goods."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Insurance Premium Tax",
+      "url": "https://www.gov.uk/guidance/insurance-premium-tax"
+    }
+  ],
+  "keywords": [
+    "insurance premium tax",
+    "ipt rate",
+    "ipt 12%",
+    "tax on insurance uk",
+    "is life insurance taxed"
+  ],
+  "related": [
+    "travel-insurance",
+    "life-insurance",
+    "insurance-glossary"
+  ]
+}

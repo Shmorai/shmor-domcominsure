@@ -1,0 +1,90 @@
+{
+  "updated": "2026-09-15",
+  "type": "post",
+  "slug": "blog/fca-renewal-pricing-rules",
+  "date": "2026-09-15",
+  "short": "Renewal pricing rules",
+  "title": "Home & Car Insurance Renewal Pricing Rules (UK)",
+  "description": "Since 2022, UK home and car insurers can’t charge loyal customers more than new ones through the same channel. What the FCA rules mean for your renewal.",
+  "h1": "The UK renewal pricing rules: what “no more price walking” means for you",
+  "intro": "For years, loyal home and car insurance customers in the UK often paid more than new customers for the same cover. FCA rules changed that in 2022. Here’s what the rules do, and what they don’t.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6",
+    "alt": "Person working out figures on a calculator at a desk with a coffee mug",
+    "credit": "Towfiqu barbhuiya",
+    "creditUrl": "https://unsplash.com/@towfiqu999999"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "title": "Key points",
+      "rows": [
+        [
+          "Applies to",
+          "UK home and motor insurance renewals."
+        ],
+        [
+          "In force since",
+          "1 January 2022."
+        ],
+        [
+          "The rule",
+          "Renewal price can’t exceed the equivalent new-business price through the same sales channel."
+        ],
+        [
+          "Still worth",
+          "Shopping around: other insurers may price your risk differently."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What changed",
+      "html": "<p>The Financial Conduct Authority’s general insurance pricing rules took effect on <strong>1 January 2022</strong>. For home and motor insurance, the price offered to a renewing customer must be no higher than the price that customer would be offered as a new customer through the same channel (for example, the insurer’s own website or a particular comparison site). The practice the rules targeted, gradually raising prices for loyal customers, was known as “price walking”.</p>"
+    },
+    {
+      "h2": "What the rules don’t do",
+      "html": "<ul><li>They don’t freeze prices: your premium can still rise if your risk changes or if prices rise generally.</li><li>They don’t guarantee the cheapest price in the market; a different insurer may offer less.</li><li>They compare channels separately, so a price on a comparison site can still differ from the insurer’s own website.</li></ul>"
+    },
+    {
+      "h2": "Auto-renewal",
+      "html": "<p>The same package of rules made it easier to stop automatic renewal: firms must offer straightforward ways to cancel auto-renewal, including the same method you used to buy. Check your renewal notice for the deadline.</p>"
+    },
+    {
+      "h2": "How to use your renewal well",
+      "html": "<ol><li>Read the renewal notice and compare it with last year’s cover, not just the price.</li><li>Update details: a new car, extension, security improvements, change of job.</li><li>Get comparable quotes, including direct insurers.</li><li>Ask your insurer about the options; sometimes changing the excess or extras makes a difference.</li></ol><p>See <a href=\"/how-to-compare-insurance/\">how to compare insurance properly</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do the rules apply to business insurance?",
+      "a": "The renewal price rule applies to home and motor insurance sold to consumers. Business customers should still compare at renewal."
+    },
+    {
+      "q": "Can my premium still go up at renewal?",
+      "a": "Yes, if the insurer’s new-business price for your risk has gone up. The rule is about loyalty penalties, not price freezes."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FCA PS21/5: General insurance pricing practices, final rules (PDF)",
+      "url": "https://www.fca.org.uk/publication/policy/ps21-5.pdf"
+    }
+  ],
+  "keywords": [
+    "price walking",
+    "insurance renewal rules",
+    "fca pricing rules",
+    "loyalty penalty insurance",
+    "car insurance renewal",
+    "home insurance renewal"
+  ],
+  "related": [
+    "home-insurance",
+    "car-insurance",
+    "how-to-compare-insurance"
+  ]
+}

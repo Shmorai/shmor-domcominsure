@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "business-owners-policy",
+  "short": "Business owner’s policy",
+  "title": "Business Owner’s Policy (BOP): A US Small Business Guide",
+  "description": "A business owner’s policy bundles property, general liability and business income cover for small US firms. Who qualifies and what it leaves out.",
+  "eyebrow": "Commercial · US",
+  "h1": "Business owner’s policy (BOP)",
+  "intro": "A BOP packages the core covers most small US businesses need, usually commercial property, general liability and business income, into one policy that’s often cheaper than buying each separately.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d",
+    "alt": "Small lamp shop storefront with a bicycle parked on the cobbled pavement",
+    "credit": "Tem Rysh",
+    "creditUrl": "https://unsplash.com/@tem_rysh"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-BOP",
+      "rows": [
+        [
+          "Bundles",
+          "Commercial property · General liability · Business income (interruption)."
+        ],
+        [
+          "Who qualifies",
+          "Small, lower-risk businesses such as shops, offices, cafés and service firms; eligibility depends on size and industry."
+        ],
+        [
+          "Not included",
+          "Workers’ comp, commercial auto, professional liability, health insurance."
+        ],
+        [
+          "Common add-ons",
+          "Equipment breakdown, data breach, hired and non-owned auto, employee dishonesty."
+        ],
+        [
+          "UK equivalent",
+          "Trade “packages” for shops, offices and salons."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a BOP includes",
+      "html": "<ul><li><strong>Property</strong>: your building (if owned), equipment, inventory and furniture.</li><li><strong>General liability</strong>: bodily injury and property damage to others, products and completed operations, personal and advertising injury.</li><li><strong>Business income</strong>: lost income and extra expenses after covered property damage.</li></ul>"
+    },
+    {
+      "h2": "What you still need separately",
+      "html": "<p>A BOP doesn’t include <a href=\"/workers-compensation/\">workers’ compensation</a>, commercial auto, <a href=\"/professional-indemnity-insurance/\">professional liability (E&O)</a> or meaningful <a href=\"/cyber-insurance/\">cyber cover</a>. Flood and earthquake are typically excluded, as with homeowners policies.</p>"
+    },
+    {
+      "h2": "Is a BOP right for you?",
+      "html": "<p>BOPs suit businesses with modest premises and revenues and lower-risk operations. Higher-risk trades, large premises or specialist activities may need separate commercial package policies. Insurers set their own eligibility rules, so compare a few.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a BOP include workers’ comp?",
+      "a": "No. Workers’ comp is a separate policy and is required in almost every state once you have employees."
+    },
+    {
+      "q": "Can home-based businesses get a BOP?",
+      "a": "Some can, though home-based businesses with small exposures may be better served by a home business endorsement or in-home business policy. See <a href=\"/home-business-insurance/\">home business insurance</a>."
+    },
+    {
+      "q": "Is a BOP available in the UK?",
+      "a": "Not by that name. UK insurers sell similar packages for shops, offices and trades."
+    }
+  ],
+  "keywords": [
+    "business owners policy",
+    "bop insurance",
+    "small business insurance usa",
+    "bop vs general liability",
+    "commercial package policy"
+  ],
+  "cardText": "The US small-business bundle of property, liability and business income cover.",
+  "related": [
+    "public-liability-insurance",
+    "commercial-property-insurance",
+    "workers-compensation",
+    "usa"
+  ]
+}

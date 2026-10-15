@@ -1,0 +1,128 @@
+{
+  "updated": "2026-10-15",
+  "slug": "cyber-insurance",
+  "short": "Cyber insurance",
+  "title": "Cyber Insurance for Small Businesses: What It Covers",
+  "description": "Cyber insurance explained: incident response, downtime, data breach liability, ransomware, invoice fraud and the security conditions insurers set.",
+  "eyebrow": "Commercial · Cyber",
+  "h1": "Cyber insurance",
+  "intro": "If your business takes payments, stores customer data or depends on its systems, a cyber incident can mean lost income, notification costs and claims from customers. Cyber insurance pays for expert help and the financial fallout.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7",
+    "alt": "Red padlock resting on a black computer keyboard",
+    "credit": "FlyD",
+    "creditUrl": "https://unsplash.com/@flyd2069"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-CYB",
+      "rows": [
+        [
+          "First-party cover",
+          "Incident response, IT forensics, data restoration, business interruption, extortion (where legal)."
+        ],
+        [
+          "Third-party cover",
+          "Claims and regulatory investigations after a data breach, and media liability."
+        ],
+        [
+          "Who needs it",
+          "Any business that holds personal data, takes card payments or relies on IT to trade."
+        ],
+        [
+          "Conditions",
+          "Insurers often ask about multi-factor authentication, backups, patching and staff training."
+        ],
+        [
+          "Watch out for",
+          "War and state-backed attack exclusions, social engineering sub-limits."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Cyber cover at a glance",
+      "covered": [
+        "24/7 incident response hotline and specialist support",
+        "Forensic investigation and system restoration",
+        "Notifying customers and regulators",
+        "Lost income during system downtime",
+        "Liability claims from people whose data was exposed",
+        "Legal costs of regulatory investigations"
+      ],
+      "excluded": [
+        "Failing to meet stated security conditions",
+        "Upgrading systems beyond their previous state",
+        "Known vulnerabilities left unpatched (some policies)",
+        "Physical damage to hardware (often)",
+        "Losses from war or state-backed attacks, as defined"
+      ],
+      "addons": [
+        "Social engineering / invoice fraud",
+        "Hardware replacement (“bricking”)",
+        "Reputational harm",
+        "Contingent business interruption (supplier outages)"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why small businesses are targets",
+      "html": "<p>Attackers often go after businesses with weaker defences, using phishing emails, stolen passwords and fake invoices. Even a small firm can face costs from downtime, specialist recovery work and dealing with affected customers. Cyber insurance doesn’t replace good security; it pays for help when something gets through.</p>"
+    },
+    {
+      "h2": "Basics insurers look for",
+      "html": "<ul><li>Multi-factor authentication on email and remote access.</li><li>Regular, tested backups kept separately from your main systems.</li><li>Prompt software updates and supported operating systems.</li><li>Staff awareness of phishing and payment-change scams.</li><li>Clear processes for verifying changes to supplier bank details.</li></ul><p>In the UK, the NCSC’s Cyber Essentials scheme sets out a baseline, and some insurers recognise it. In the US, CISA publishes free guidance for small businesses. See <a href=\"/blog/cyber-insurance-small-business-basics/\">cyber insurance basics</a>.</p>"
+    },
+    {
+      "h2": "Data protection duties",
+      "html": "<p>Under UK GDPR and the EU GDPR, organisations must report certain personal data breaches to the regulator within 72 hours of becoming aware of them, and tell affected people when there’s a high risk to them. US breach notification rules are set state by state. Cyber policies typically fund the legal advice and notification work.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does cyber insurance pay ransoms?",
+      "a": "Some policies cover extortion payments where legal, but many insurers and authorities discourage paying. Check the wording and the law where you operate, including sanctions rules."
+    },
+    {
+      "q": "Isn’t this covered by my business package?",
+      "a": "Usually not in any meaningful way. Standard property and liability policies often exclude or barely cover cyber events."
+    },
+    {
+      "q": "Does cyber cover invoice fraud?",
+      "a": "Only if the policy includes social engineering or cyber crime cover, often with a lower sub-limit."
+    }
+  ],
+  "keywords": [
+    "cyber insurance",
+    "cyber liability insurance",
+    "data breach insurance",
+    "ransomware insurance",
+    "cyber essentials",
+    "small business cyber cover"
+  ],
+  "cardText": "Incident response, downtime and liability after a cyber attack or data breach.",
+  "related": [
+    "professional-indemnity-insurance",
+    "blog/cyber-insurance-small-business-basics",
+    "directors-and-officers-insurance",
+    "business-insurance"
+  ],
+  "sources": [
+    {
+      "title": "NCSC: Cyber Essentials",
+      "url": "https://www.ncsc.gov.uk/cyberessentials/overview"
+    },
+    {
+      "title": "ICO: Personal data breaches",
+      "url": "https://ico.org.uk/for-organisations/report-a-breach/"
+    },
+    {
+      "title": "CISA: Cyber guidance for small businesses",
+      "url": "https://www.cisa.gov/cyber-guidance-small-businesses"
+    }
+  ]
+}

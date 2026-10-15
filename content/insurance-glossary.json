@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-15",
+  "slug": "insurance-glossary",
+  "short": "Glossary",
+  "title": "Insurance Glossary: Plain-English Definitions A to Z",
+  "description": "Plain-English definitions of insurance terms for home and business cover, from average clause and excess to indemnity period and subrogation.",
+  "eyebrow": "Reference",
+  "h1": "Insurance glossary",
+  "intro": "Insurance has its own language. Here are the terms you’ll meet most often in quotes, policy wordings and claims, in plain English, including the US equivalents.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1521791055366-0d553872125f",
+    "alt": "Hand writing notes on white paper at a desk",
+    "credit": "Cytonn Photography",
+    "creditUrl": "https://unsplash.com/@cytonn_photography"
+  },
+  "sections": [
+    {
+      "h2": "Policy basics",
+      "html": "<dl class=\"gloss\"><dt id=\"policyholder\">Policyholder</dt><dd>The person or business that owns the policy.</dd><dt id=\"premium\">Premium</dt><dd>What you pay for the policy, usually yearly or monthly.</dd><dt id=\"sum-insured\">Sum insured</dt><dd>The maximum the insurer will pay for a section of cover, such as buildings or contents.</dd><dt id=\"limit-of-indemnity\">Limit of indemnity</dt><dd>The maximum a liability policy will pay for a claim or in a period.</dd><dt id=\"policy-wording\">Policy wording</dt><dd>The full contract: definitions, cover, exclusions and conditions.</dd><dt id=\"schedule\">Schedule</dt><dd>The page personal to you: who and what is insured, sums insured, excesses and dates.</dd><dt id=\"ipid\">IPID</dt><dd>Insurance Product Information Document: a short standardised summary of a general insurance product (UK and EU).</dd><dt id=\"endorsement\">Endorsement</dt><dd>A change or addition to the standard policy wording, sometimes called a rider in the US.</dd><dt id=\"peril\">Peril</dt><dd>An event that causes loss, such as fire, storm or theft. “Named perils” policies list them; “open perils” policies cover everything not excluded.</dd></dl>"
+    },
+    {
+      "h2": "Money terms",
+      "html": "<dl class=\"gloss\"><dt id=\"excess-deductible\">Excess (deductible)</dt><dd>The part of a claim you pay. UK policies have compulsory and voluntary excesses; US policies call it a deductible.</dd><dt id=\"average-clause\">Average clause</dt><dd>A condition that reduces a claim in proportion if you were under-insured.</dd><dt id=\"new-for-old\">New for old</dt><dd>Replacing items with new equivalents rather than paying their second-hand value.</dd><dt id=\"indemnity\">Indemnity</dt><dd>Putting you back in the same financial position as before the loss, no better and no worse.</dd><dt id=\"insurance-premium-tax-ipt\">Insurance Premium Tax (IPT)</dt><dd>UK tax on most general insurance premiums: 12% standard rate, 20% higher rate for some products such as travel insurance.</dd><dt id=\"premium-finance\">Premium finance</dt><dd>Credit used to spread premium payments monthly, which can add interest.</dd><dt id=\"no-claims-discount\">No claims discount</dt><dd>A discount for claim-free years, also called no claims bonus or bonus-malus.</dd></dl>"
+    },
+    {
+      "h2": "Claims terms",
+      "html": "<dl class=\"gloss\"><dt id=\"loss-adjuster\">Loss adjuster</dt><dd>An expert appointed by the insurer to investigate and value a larger claim.</dd><dt id=\"loss-assessor\">Loss assessor</dt><dd>An expert you can appoint (and pay) to prepare and negotiate your claim.</dd><dt id=\"subrogation\">Subrogation</dt><dd>The insurer’s right, after paying you, to recover the cost from whoever caused the loss.</dd><dt id=\"contribution\">Contribution</dt><dd>Sharing a claim between two insurers when more than one policy covers the same loss.</dd><dt id=\"settlement\">Settlement</dt><dd>The final agreed payment or repair for a claim.</dd><dt id=\"final-response\">Final response</dt><dd>An insurer’s last word on a complaint, after which UK customers can go to the Financial Ombudsman Service.</dd></dl>"
+    },
+    {
+      "h2": "Business insurance terms",
+      "html": "<dl class=\"gloss\"><dt id=\"claims-made\">Claims-made</dt><dd>A policy that responds to claims made while it’s in force (typical for PI and D&O).</dd><dt id=\"occurrence-basis\">Occurrence basis</dt><dd>A policy that responds to incidents that happened while it was in force, whenever the claim is made (typical for public liability).</dd><dt id=\"retroactive-date\">Retroactive date</dt><dd>Work done before this date isn’t covered by a claims-made policy.</dd><dt id=\"run-off-cover\">Run-off cover</dt><dd>Protection for claims about past work after a business stops trading.</dd><dt id=\"indemnity-period\">Indemnity period</dt><dd>In business interruption cover, the maximum time the policy pays lost income while you recover.</dd><dt id=\"gross-profit-insurance\">Gross profit (insurance)</dt><dd>Turnover minus specified variable costs; the usual basis for business interruption cover.</dd><dt id=\"fair-presentation\">Fair presentation</dt><dd>A business’s legal duty under the UK Insurance Act 2015 to disclose material facts clearly.</dd><dt id=\"additional-insured\">Additional insured</dt><dd>Another party (such as a client) given protection under your liability policy.</dd></dl>"
+    },
+    {
+      "h2": "US terms",
+      "html": "<dl class=\"gloss\"><dt id=\"ho-3-ho-5\">HO-3 / HO-5</dt><dd>Standard US homeowners policy forms; HO-5 is broader for belongings.</dd><dt id=\"ho-4-ho-6\">HO-4 / HO-6</dt><dd>Renters and condo owner policy forms.</dd><dt id=\"bop\">BOP</dt><dd>Business owner’s policy: property, general liability and business income bundled.</dd><dt id=\"cgl\">CGL</dt><dd>Commercial general liability.</dd><dt id=\"pip\">PIP</dt><dd>Personal injury protection, required in no-fault auto insurance states.</dd><dt id=\"experience-mod\">Experience mod</dt><dd>A multiplier in workers’ comp pricing based on your claims history.</dd><dt id=\"nfip\">NFIP</dt><dd>National Flood Insurance Program, run by FEMA.</dd></dl>"
+    }
+  ],
+  "keywords": [
+    "insurance glossary",
+    "insurance terms",
+    "what is an excess",
+    "average clause",
+    "indemnity period",
+    "subrogation meaning"
+  ],
+  "cardText": "Insurance jargon decoded, from average clause to subrogation.",
+  "related": [
+    "how-to-compare-insurance",
+    "claims",
+    "cover-checker",
+    "business-insurance"
+  ]
+}

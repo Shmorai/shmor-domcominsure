@@ -1,0 +1,842 @@
+{
+  "updated": "2026-10-15",
+  "slug": "cover-checker",
+  "nav": "Cover checker",
+  "navOrder": 7,
+  "title": "Insurance Cover Checker: What Cover Do I Need?",
+  "description": "Answer a few quick questions about your home or business and see which insurance is legally required, usually expected by lenders or clients, or worth a look.",
+  "eyebrow": "Tool · 2 minutes",
+  "h1": "What insurance do I need?",
+  "intro": "Answer the questions that apply to you. We’ll flag covers that are legal or lender requirements, ones to strongly consider, and ones worth a look, each with a guide. Nothing you enter leaves your browser.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    "alt": "Person filling in paperwork with a pen at a desk",
+    "credit": "Scott Graham",
+    "creditUrl": "https://unsplash.com/@amstram"
+  },
+  "search": false,
+  "blocks": [
+    {
+      "type": "checker",
+      "position": "top",
+      "questions": [
+        {
+          "id": "region",
+          "q": "Where are you based?",
+          "options": [
+            {
+              "v": "uk",
+              "label": "UK"
+            },
+            {
+              "v": "us",
+              "label": "USA"
+            },
+            {
+              "v": "eu",
+              "label": "EU / Europe"
+            }
+          ]
+        },
+        {
+          "id": "side",
+          "q": "What do you want to insure?",
+          "options": [
+            {
+              "v": "home",
+              "label": "My home & family"
+            },
+            {
+              "v": "business",
+              "label": "My business"
+            },
+            {
+              "v": "both",
+              "label": "Both"
+            }
+          ]
+        },
+        {
+          "id": "own",
+          "q": "Your home: do you own, rent or let?",
+          "showIf": {
+            "side": [
+              "home",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "own",
+              "label": "I own it"
+            },
+            {
+              "v": "rent",
+              "label": "I rent"
+            },
+            {
+              "v": "let",
+              "label": "I’m a landlord"
+            }
+          ]
+        },
+        {
+          "id": "mortgage",
+          "q": "Is there a mortgage on the property?",
+          "showIf": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "own",
+              "let"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "flood",
+          "q": "Is the home near a river, the coast or in a known flood zone?",
+          "showIf": {
+            "side": [
+              "home",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "unsure",
+              "label": "Not sure"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "car",
+          "q": "Do you drive a car you own or keep?",
+          "showIf": {
+            "side": [
+              "home",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "family",
+          "q": "Would anyone struggle financially if you died?",
+          "hint": "For example a partner, children or someone sharing a mortgage.",
+          "showIf": {
+            "side": [
+              "home",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "travel",
+          "q": "Do you travel abroad?",
+          "showIf": {
+            "side": [
+              "home",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "staff",
+          "q": "Does the business employ anyone?",
+          "hint": "Including part-time, temporary or casual staff.",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "public",
+          "q": "Do customers visit you, or do you work at clients’ premises?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "advice",
+          "q": "Do you give advice, design or professional services?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "trade",
+          "q": "Are you a tradesperson or contractor?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "premises",
+          "q": "Do you own or lease premises, or hold stock or equipment?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "data",
+          "q": "Do you store customer data or take payments online?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "vehicles",
+          "q": "Business vehicles?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "none",
+              "label": "None"
+            },
+            {
+              "v": "one",
+              "label": "One or two vans/cars"
+            },
+            {
+              "v": "fleet",
+              "label": "Three or more"
+            }
+          ]
+        },
+        {
+          "id": "company",
+          "q": "Is it a limited company with directors?",
+          "showIf": {
+            "side": [
+              "business",
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "homebiz",
+          "q": "Do you run the business from home?",
+          "showIf": {
+            "side": [
+              "both"
+            ]
+          },
+          "options": [
+            {
+              "v": "yes",
+              "label": "Yes"
+            },
+            {
+              "v": "no",
+              "label": "No"
+            }
+          ]
+        }
+      ],
+      "covers": [
+        {
+          "title": "Buildings insurance",
+          "slug": "buildings-insurance",
+          "need": "must",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "own",
+              "let"
+            ],
+            "mortgage": [
+              "yes"
+            ]
+          },
+          "why": "Your mortgage lender will almost certainly require it as a condition of the loan."
+        },
+        {
+          "title": "Buildings insurance",
+          "slug": "buildings-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "own"
+            ],
+            "mortgage": [
+              "no"
+            ]
+          },
+          "why": "Without a lender insisting, it’s your call, but rebuilding a home is beyond most people’s savings."
+        },
+        {
+          "title": "Contents insurance",
+          "slug": "contents-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "own"
+            ]
+          },
+          "why": "Covers your belongings against theft, fire and water damage. Often combined with buildings cover."
+        },
+        {
+          "title": "Renters / tenants insurance",
+          "slug": "renters-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "rent"
+            ],
+            "region": [
+              "uk",
+              "us"
+            ]
+          },
+          "why": "Your landlord’s policy doesn’t cover your belongings or your liability. In the US, leases often require it."
+        },
+        {
+          "title": "Tenants’ insurance (rental risks)",
+          "slug": "renters-insurance",
+          "need": "must",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "rent"
+            ],
+            "region": [
+              "eu"
+            ]
+          },
+          "why": "Some countries require it: in France, tenants must insure against rental risks. Check your lease and national rules."
+        },
+        {
+          "title": "Landlord insurance",
+          "slug": "landlord-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "own": [
+              "let"
+            ]
+          },
+          "why": "Standard home insurance usually stops covering a property once it’s let. Covers the building, liability and loss of rent."
+        },
+        {
+          "title": "Flood insurance (NFIP or private)",
+          "slug": "flood-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "flood": [
+              "yes",
+              "unsure"
+            ],
+            "region": [
+              "us"
+            ]
+          },
+          "why": "Standard US homeowners policies exclude flood. Required for federally backed mortgages in high-risk zones. Mind the 30-day wait."
+        },
+        {
+          "title": "Check flood cover and Flood Re",
+          "slug": "flood-insurance",
+          "need": "consider",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "flood": [
+              "yes",
+              "unsure"
+            ],
+            "region": [
+              "uk"
+            ]
+          },
+          "why": "UK home policies usually include flood; if you struggle to find cover, Flood Re may help eligible homes built before 2009."
+        },
+        {
+          "title": "Check natural catastrophe cover",
+          "slug": "flood-insurance",
+          "need": "consider",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "flood": [
+              "yes",
+              "unsure"
+            ],
+            "region": [
+              "eu"
+            ]
+          },
+          "why": "Flood cover and national catastrophe schemes vary by country. Check your home policy wording."
+        },
+        {
+          "title": "Car insurance",
+          "slug": "car-insurance",
+          "need": "must",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "car": [
+              "yes"
+            ]
+          },
+          "why": "Third-party cover is a legal minimum to drive in the UK, the EU and almost every US state."
+        },
+        {
+          "title": "Life insurance",
+          "slug": "life-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "family": [
+              "yes"
+            ]
+          },
+          "why": "Pays a lump sum or income so your family can cover the mortgage and living costs if you die."
+        },
+        {
+          "title": "Travel insurance",
+          "slug": "travel-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "home",
+              "both"
+            ],
+            "travel": [
+              "yes"
+            ]
+          },
+          "why": "Medical costs abroad can be huge. Consider an annual policy if you travel more than once or twice a year."
+        },
+        {
+          "title": "Employers’ liability insurance",
+          "slug": "employers-liability-insurance",
+          "need": "must",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "staff": [
+              "yes"
+            ],
+            "region": [
+              "uk"
+            ]
+          },
+          "why": "A legal requirement for most UK employers: at least £5m cover, with fines of up to £2,500 a day without it."
+        },
+        {
+          "title": "Workers’ compensation",
+          "slug": "workers-compensation",
+          "need": "must",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "staff": [
+              "yes"
+            ],
+            "region": [
+              "us"
+            ]
+          },
+          "why": "Required in almost every state once you have employees (Texas is the main exception)."
+        },
+        {
+          "title": "Employer accident & liability cover",
+          "slug": "europe",
+          "need": "must",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "staff": [
+              "yes"
+            ],
+            "region": [
+              "eu"
+            ]
+          },
+          "why": "Many EU countries require employer contributions to statutory accident insurance. Check national rules for your staff."
+        },
+        {
+          "title": "Public / general liability",
+          "slug": "public-liability-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "public": [
+              "yes"
+            ]
+          },
+          "why": "Covers injury or damage to customers and the public. Clients, venues and landlords often require it."
+        },
+        {
+          "title": "Professional indemnity (E&O)",
+          "slug": "professional-indemnity-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "advice": [
+              "yes"
+            ]
+          },
+          "why": "Covers claims that your advice or work caused a client financial loss. Compulsory for some professions."
+        },
+        {
+          "title": "Tradesperson insurance package",
+          "slug": "tradesperson-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "trade": [
+              "yes"
+            ]
+          },
+          "why": "Combines liability, tools and contract works cover. Main contractors often ask for certificates."
+        },
+        {
+          "title": "Commercial property & stock",
+          "slug": "commercial-property-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "premises": [
+              "yes"
+            ]
+          },
+          "why": "Protects premises, equipment and stock. Leases and lenders usually require it."
+        },
+        {
+          "title": "Business interruption",
+          "slug": "blog/business-interruption-insurance-explained",
+          "need": "consider",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "premises": [
+              "yes"
+            ]
+          },
+          "why": "Replaces lost profit while you recover from insured damage. Pick a long enough indemnity period."
+        },
+        {
+          "title": "Business owner’s policy (BOP)",
+          "slug": "business-owners-policy",
+          "need": "consider",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "region": [
+              "us"
+            ],
+            "premises": [
+              "yes"
+            ]
+          },
+          "why": "Bundles property, general liability and business income for many small US firms, often for less."
+        },
+        {
+          "title": "Cyber insurance",
+          "slug": "cyber-insurance",
+          "need": "consider",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "data": [
+              "yes"
+            ]
+          },
+          "why": "Pays for incident response, downtime and claims after a data breach or ransomware attack."
+        },
+        {
+          "title": "Van insurance (business use)",
+          "slug": "van-insurance",
+          "need": "must",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "vehicles": [
+              "one"
+            ]
+          },
+          "why": "Vehicles need at least third-party cover, with the right class of business use."
+        },
+        {
+          "title": "Fleet insurance",
+          "slug": "fleet-insurance",
+          "need": "must",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "vehicles": [
+              "fleet"
+            ]
+          },
+          "why": "Motor cover is compulsory; with three or more vehicles a fleet policy is often simpler and cheaper."
+        },
+        {
+          "title": "Directors & officers (D&O)",
+          "slug": "directors-and-officers-insurance",
+          "need": "consider",
+          "when": {
+            "side": [
+              "business",
+              "both"
+            ],
+            "company": [
+              "yes"
+            ]
+          },
+          "why": "Protects directors’ personal assets from claims about how they run the company."
+        },
+        {
+          "title": "Home business cover",
+          "slug": "home-business-insurance",
+          "need": "should",
+          "when": {
+            "side": [
+              "both"
+            ],
+            "homebiz": [
+              "yes"
+            ]
+          },
+          "why": "Tell your home insurer about business use; stock, equipment and visitors may need extra cover."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How the checker works",
+      "html": "<p>The checker matches your answers against common legal requirements and the covers lenders, landlords and clients typically expect. It’s deliberately cautious and general: it can’t see your contracts, your lender’s conditions or your exact location, and it isn’t personal advice. Use it as a shortlist, then read each guide and check the policy wording.</p>"
+    },
+    {
+      "h2": "What the labels mean",
+      "html": "<ul><li><strong>Legal or lender requirement</strong>: required by law in your region (such as motor or employers’ cover), or almost always required by a lender.</li><li><strong>Strongly consider</strong>: commonly needed for your situation or demanded by clients, leases or landlords.</li><li><strong>Worth a look</strong>: depends on your risks and budget.</li></ul>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do you store my answers?",
+      "a": "No. The checker runs in your browser. Your answers appear in the page address so you can bookmark or share the result, but they aren’t sent to us."
+    },
+    {
+      "q": "Is this financial advice?",
+      "a": "No. It’s general information to help you shortlist covers. For complex needs, speak to a regulated broker or adviser."
+    }
+  ],
+  "keywords": [
+    "what insurance do i need",
+    "insurance checker",
+    "business insurance checklist",
+    "do i need public liability",
+    "insurance needs calculator"
+  ],
+  "cardText": "A two-minute questionnaire that shortlists the cover you need.",
+  "related": [
+    "business-insurance",
+    "home-insurance",
+    "how-to-compare-insurance",
+    "insurance-glossary"
+  ]
+}

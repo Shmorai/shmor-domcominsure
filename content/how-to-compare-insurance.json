@@ -1,0 +1,106 @@
+{
+  "updated": "2026-10-15",
+  "slug": "how-to-compare-insurance",
+  "short": "How to compare",
+  "title": "How to Compare Insurance Quotes Properly (Not Just Price)",
+  "description": "How to compare home and business insurance: like-for-like quotes, excesses, limits, exclusions, key facts and IPID documents, and insurer checks.",
+  "eyebrow": "Guide · Comparing",
+  "h1": "How to compare insurance properly",
+  "intro": "The cheapest quote can be the most expensive policy if it doesn’t pay out when you need it. Here’s how to compare insurance like a professional, whether it’s for your home or your business.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1583521214690-73421a1829a9",
+    "alt": "Stacks of paper documents and folders on a desk",
+    "credit": "Wesley Tingey",
+    "creditUrl": "https://unsplash.com/@wesleyphotography"
+  },
+  "blocks": [
+    {
+      "type": "steps",
+      "position": "top",
+      "title": "The checklist",
+      "items": [
+        {
+          "icon": "clipboard",
+          "title": "Define the cover",
+          "text": "Write down sums insured, limits, extras and who or what must be covered before you get quotes."
+        },
+        {
+          "icon": "search",
+          "title": "Shop three ways",
+          "text": "Comparison sites, direct insurers that aren’t listed on them, and a broker for business or unusual risks."
+        },
+        {
+          "icon": "percent",
+          "title": "Match the excess",
+          "text": "Compare at the same total excess. A low price with a high compulsory excess isn’t a saving."
+        },
+        {
+          "icon": "file",
+          "title": "Read key facts / IPID",
+          "text": "Find the main exclusions, limits and conditions in a page or two before buying."
+        },
+        {
+          "icon": "alert",
+          "title": "Look for conditions",
+          "text": "Security, unoccupancy, alarm and maintenance conditions can stop a claim."
+        },
+        {
+          "icon": "shield",
+          "title": "Check the provider",
+          "text": "FCA register (UK), state insurance department (US), national regulator (EU)."
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Comparison sites, direct insurers and brokers",
+      "html": "<p><strong>Comparison sites</strong> are quick for standard home, car, travel and simple business cover, but don’t list every insurer, and the default settings may not match your needs. <strong>Direct insurers</strong> that sell only through their own websites can be competitive, so check them separately. <strong>Brokers</strong> earn their keep on complex or high-value risks, where they can negotiate wordings and help with claims. See our <a href=\"/insurers/\">insurers and comparison sites directory</a>.</p>"
+    },
+    {
+      "h2": "Key facts and the IPID",
+      "html": "<p>In the UK and EU, general insurance products come with a short standardised summary called the <strong>Insurance Product Information Document (IPID)</strong>, introduced by the EU Insurance Distribution Directive and kept in UK rules. It sets out what is and isn’t insured, restrictions, where you’re covered and your obligations. Read it before you buy, then the full policy wording for anything important.</p>"
+    },
+    {
+      "h2": "Like-for-like means",
+      "html": "<ul><li>The same sums insured and liability limits.</li><li>The same voluntary and compulsory excess (deductible).</li><li>The same optional extras, such as accidental damage or legal expenses.</li><li>The same cover basis: new-for-old vs indemnity, claims-made vs occurrence.</li><li>The same payment method: monthly payments often include interest.</li></ul>"
+    },
+    {
+      "h2": "Beyond price: claims and service",
+      "html": "<p>Look at how claims are handled: 24-hour helplines, approved repairers, whether you can choose your own contractor, and how complaints are resolved. In the UK, the Financial Ombudsman Service publishes complaints data about firms, and in the US the NAIC publishes complaint information by company. These help you spot outliers without relying on anonymous reviews.</p>"
+    },
+    {
+      "h2": "Honesty and renewal",
+      "html": "<p>Answer every question accurately and keep a copy of what you told the insurer. Review cover each year, and especially after big changes such as an extension, new staff or a new vehicle. In the UK, renewal prices for home and motor can’t exceed the equivalent new-customer price through the same channel, but shopping around still often finds a better fit.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are comparison sites independent?",
+      "a": "They’re usually paid by insurers when you buy, and not every insurer appears on them. They’re useful, but check direct insurers and brokers too."
+    },
+    {
+      "q": "What is an IPID?",
+      "a": "An Insurance Product Information Document: a short, standardised summary of a general insurance product used in the UK and EU."
+    },
+    {
+      "q": "How do I check an insurer is genuine?",
+      "a": "Use the FCA Financial Services Register in the UK, your state insurance department in the US, or your national supervisor in the EU. Be wary of “ghost broking” offers on social media."
+    }
+  ],
+  "keywords": [
+    "how to compare insurance",
+    "compare insurance quotes",
+    "ipid",
+    "key facts insurance",
+    "insurance comparison sites",
+    "insurance broker vs direct"
+  ],
+  "cardText": "Like-for-like quotes, key facts documents and checks that matter more than price.",
+  "related": [
+    "insurers",
+    "cover-checker",
+    "claims",
+    "insurance-glossary"
+  ]
+}

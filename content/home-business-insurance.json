@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-15",
+  "slug": "home-business-insurance",
+  "short": "Home business insurance",
+  "title": "Home Business Insurance: Working From Home, Covered",
+  "description": "Run a business from home? What home insurance does and doesn’t cover: equipment, stock, client visits and liability, and when you need business cover.",
+  "eyebrow": "Domestic + Commercial",
+  "h1": "Home business insurance",
+  "intro": "Home and business meet at the kitchen table. Many home policies cover a little office work, but stock, client visits, business equipment and liability usually need extra cover. Here’s where the line falls.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1600494603989-9650cf6ddd3d",
+    "alt": "Home office with a wooden desk, black chair and green walls",
+    "credit": "Collov Home Design",
+    "creditUrl": "https://unsplash.com/@collovhome"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "both",
+      "ref": "DOM+COM",
+      "rows": [
+        [
+          "Home policy may cover",
+          "Basic office equipment and clerical work by the household, up to a limit."
+        ],
+        [
+          "Usually needs extra cover",
+          "Stock, tools, client visits, employees at home, deliveries, business liability."
+        ],
+        [
+          "Tell your insurer",
+          "Any business use of your home, even part-time or online."
+        ],
+        [
+          "Options",
+          "Home business endorsement, home business policy, or a small business package."
+        ],
+        [
+          "Legal must-haves",
+          "Employers’ liability (UK) or workers’ comp (US) if you employ anyone."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "What a home policy might not cover",
+      "html": "<ul><li>Business equipment above a small limit, or equipment used by employees.</li><li>Stock held for sale, including online shop inventory.</li><li>Injuries to clients, customers or couriers visiting for business.</li><li>Theft by people visiting for business purposes.</li><li>Business data and lost income.</li></ul><p>Telling your home insurer about business use is important even if you don’t need extra cover: failing to disclose it can affect claims.</p>"
+    },
+    {
+      "h2": "Matching cover to what you do",
+      "html": "<table><thead><tr><th>Your set-up</th><th>Cover to look at</th></tr></thead><tbody><tr><td>Laptop-based work, no visitors</td><td>Tell your home insurer; check equipment limits; consider <a href=\"/professional-indemnity-insurance/\">PI</a> if you advise clients</td></tr><tr><td>Clients visit you</td><td><a href=\"/public-liability-insurance/\">Public liability</a></td></tr><tr><td>Selling products or holding stock</td><td>Stock cover, products liability, goods in transit</td></tr><tr><td>Staff working from your home</td><td>Employers’ liability or workers’ comp</td></tr><tr><td>Holding customer data</td><td><a href=\"/cyber-insurance/\">Cyber insurance</a></td></tr></tbody></table>"
+    },
+    {
+      "h2": "Mortgages, leases and planning",
+      "html": "<p>Check your mortgage terms or tenancy agreement for restrictions on business use. Significant changes (such as a salon with regular customers) may need planning permission or affect business rates in the UK. See also <a href=\"/blog/working-from-home-insurance/\">working from home and your insurance</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need to tell my home insurer I work from home?",
+      "a": "If you run a business from home, yes. Occasional employee home working is often fine, but check your policy and ask if unsure."
+    },
+    {
+      "q": "Is my work laptop covered by home insurance?",
+      "a": "An employer-owned laptop is usually the employer’s responsibility. Your own business equipment may be covered up to a limit; check the wording."
+    },
+    {
+      "q": "What if I sell online from home?",
+      "a": "Stock and products liability usually need business cover. Some insurers offer policies designed for online sellers."
+    }
+  ],
+  "keywords": [
+    "home business insurance",
+    "working from home insurance",
+    "home office insurance",
+    "business use home insurance",
+    "online seller insurance"
+  ],
+  "cardText": "Where home insurance stops and business cover starts when you work from home.",
+  "related": [
+    "contents-insurance",
+    "public-liability-insurance",
+    "blog/working-from-home-insurance",
+    "cyber-insurance"
+  ]
+}

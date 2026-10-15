@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-14",
+  "type": "post",
+  "slug": "blog/nfip-reauthorization-2026",
+  "date": "2026-10-14",
+  "short": "NFIP deadline",
+  "title": "NFIP Reauthorization: What the December 2026 Deadline Means",
+  "description": "The NFIP is authorized until 11 December 2026. What happens to new flood policies and renewals if it lapses, and how to protect your home.",
+  "h1": "NFIP reauthorization: what the next deadline means for flood cover",
+  "intro": "The US National Flood Insurance Program runs on short-term extensions from Congress. As of mid-October 2026 its authorization runs to 11 December 2026. Here’s what a lapse would and wouldn’t affect.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1657069345471-c54f2432b79c",
+    "alt": "Car driving through a flooded street",
+    "credit": "Wes Warren",
+    "creditUrl": "https://unsplash.com/@wcwarren"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "title": "Key points",
+      "rows": [
+        [
+          "Current deadline",
+          "11 December 2026 (as of 15 October 2026)."
+        ],
+        [
+          "Existing policies",
+          "Continue to the end of their term if a lapse happens."
+        ],
+        [
+          "At risk in a lapse",
+          "New policies and renewals; some home sales and refinances in flood zones."
+        ],
+        [
+          "Waiting period",
+          "New NFIP policies usually take 30 days to start."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Where things stand",
+      "html": "<p>The NFIP needs Congress to renew its legal authority to issue new policies. Since 2017 it has been extended many times, mostly for short periods. A Congressional Research Service update in September 2026 reported authorization to <strong>11 December 2026</strong>. Deadlines can change quickly, so check FEMA or Congress for the latest.</p><p>The program briefly lapsed in autumn 2025 during a federal government shutdown, before being restored retroactively.</p>"
+    },
+    {
+      "h2": "What a lapse means",
+      "html": "<ul><li><strong>Existing policies</strong> stay in force until their expiry date, and claims are still paid.</li><li><strong>New policies and renewals</strong> can’t be issued while authority has lapsed, so policies expiring during a lapse may not renew on time.</li><li><strong>Property deals</strong> in high-risk flood zones that need flood insurance for a federally backed mortgage can be delayed.</li><li>The NFIP’s ability to borrow from the Treasury is reduced.</li></ul>"
+    },
+    {
+      "h2": "What homeowners can do",
+      "html": "<ol><li>Check your NFIP renewal date and renew early if it falls near a deadline.</li><li>Remember the 30-day waiting period for new policies.</li><li>Ask about private flood insurance, which isn’t affected by NFIP authorization and is available in many states.</li><li>Keep flood cover in place even if your mortgage doesn’t require it: standard homeowners policies exclude flood.</li></ol><p>See our <a href=\"/flood-insurance/\">flood insurance guide</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my claim be paid if the NFIP lapses?",
+      "a": "Claims under existing policies continue to be paid, although a prolonged lapse alongside limited borrowing could affect timing."
+    },
+    {
+      "q": "Is private flood insurance a good alternative?",
+      "a": "It can be, depending on your state and property. Compare cover, limits and waiting periods with NFIP options."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FEMA: Flood insurance",
+      "url": "https://www.fema.gov/flood-insurance"
+    },
+    {
+      "title": "Congressional Research Service: What happens if the NFIP lapses? (IN10835)",
+      "url": "https://crsreports.congress.gov/product/pdf/IN/IN10835"
+    }
+  ],
+  "keywords": [
+    "nfip reauthorization",
+    "nfip lapse",
+    "flood insurance deadline",
+    "national flood insurance program 2026"
+  ],
+  "related": [
+    "flood-insurance",
+    "usa",
+    "blog/hurricane-deductibles-explained"
+  ]
+}

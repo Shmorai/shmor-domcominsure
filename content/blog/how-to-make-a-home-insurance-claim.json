@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-11",
+  "type": "post",
+  "slug": "blog/how-to-make-a-home-insurance-claim",
+  "date": "2026-10-11",
+  "short": "Making a claim",
+  "title": "How to Make a Home Insurance Claim, Step by Step",
+  "description": "A practical guide to home insurance claims: the first hour, evidence to gather, loss adjusters, settlement offers and how to challenge one.",
+  "h1": "How to make a home insurance claim",
+  "intro": "A claim is when your policy proves its worth. Being organised from the first hour makes it faster and fairer. Here’s a practical walk-through.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f",
+    "alt": "Person filling in a form with a pen",
+    "credit": "Romain Dancre",
+    "creditUrl": "https://unsplash.com/@romaindancre"
+  },
+  "sections": [
+    {
+      "h2": "The first hour",
+      "html": "<ul><li>Make sure everyone is safe; call emergency services if needed.</li><li>Prevent further damage if it’s safe: stop the water, cover openings.</li><li>For theft or vandalism, report to the police and get a crime reference.</li><li>Call your insurer’s claims line; ask about emergency repairs and alternative accommodation.</li></ul>"
+    },
+    {
+      "h2": "Evidence",
+      "html": "<p>Photos and video of damage, receipts and bank statements, manuals, valuations and pre-loss photos of rooms. Don’t throw away damaged items until the insurer agrees. Keep a log of calls, names and dates.</p>"
+    },
+    {
+      "h2": "Loss adjusters and assessors",
+      "html": "<p>For larger claims, the insurer may appoint a <strong>loss adjuster</strong> to investigate and value the loss. You can appoint a <strong>loss assessor</strong> to act for you; they charge a fee, often a percentage of the settlement, so think about whether you need one.</p>"
+    },
+    {
+      "h2": "Settlement and disputes",
+      "html": "<p>Check the offer against your policy: is it new-for-old, has an excess been deducted, has average been applied? Ask for the calculation in writing. If you disagree, use the complaints process, and in the UK the Financial Ombudsman Service. See <a href=\"/claims/\">claims and complaints</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long do I have to report a claim?",
+      "a": "Policies usually require you to report “as soon as reasonably possible”. Late reporting can cause problems, especially if damage got worse."
+    },
+    {
+      "q": "Can I start repairs before the insurer agrees?",
+      "a": "Emergency repairs to prevent further damage are usually fine; keep receipts. Wait for agreement before permanent repairs."
+    }
+  ],
+  "keywords": [
+    "home insurance claim",
+    "how to claim on home insurance",
+    "loss adjuster",
+    "insurance settlement offer"
+  ],
+  "related": [
+    "claims",
+    "home-insurance",
+    "blog/storm-season-claims"
+  ]
+}

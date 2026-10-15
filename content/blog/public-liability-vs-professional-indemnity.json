@@ -1,0 +1,52 @@
+{
+  "updated": "2026-09-28",
+  "type": "post",
+  "slug": "blog/public-liability-vs-professional-indemnity",
+  "date": "2026-09-28",
+  "short": "PL vs PI",
+  "title": "Public Liability vs Professional Indemnity: Which to Get?",
+  "description": "Public liability covers injury and property damage; professional indemnity covers financial loss from your work. How to tell which you need.",
+  "h1": "Public liability vs professional indemnity",
+  "intro": "They’re the two business covers people most often mix up. The simplest way to remember: public liability is about physical harm; professional indemnity is about financial harm from your work.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1517048676732-d65bc937f952",
+    "alt": "Colleagues around a meeting table with notebooks and pens",
+    "credit": "Dylan Gillis",
+    "creditUrl": "https://unsplash.com/@mainermedia"
+  },
+  "sections": [
+    {
+      "h2": "The difference in one table",
+      "html": "<table><thead><tr><th></th><th>Public liability</th><th>Professional indemnity</th></tr></thead><tbody><tr><td>Covers</td><td>Injury to people, damage to property</td><td>Financial loss caused by your advice, design or service</td></tr><tr><td>Example</td><td>A customer slips on a wet floor in your shop</td><td>A client loses money because of an error in your report</td></tr><tr><td>Basis</td><td>Usually occurrence</td><td>Usually claims-made</td></tr><tr><td>US name</td><td>General liability</td><td>Errors and omissions (E&O)</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Who needs both",
+      "html": "<p>Plenty of businesses do: an architect visiting building sites, an IT consultant installing equipment at a client’s office, a personal trainer giving programmes and coaching in person. If you both meet people and advise them, consider both covers, or a combined policy.</p>"
+    },
+    {
+      "h2": "Check your contracts",
+      "html": "<p>Clients often specify one or both, with minimum limits. Read the insurance clause and the indemnity clause: agreeing to unlimited liability can expose you beyond your cover.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is either compulsory?",
+      "a": "Neither is a general legal requirement, but PI is compulsory for many regulated professions, and contracts commonly require one or both."
+    },
+    {
+      "q": "Does PI cover a client injured at my office?",
+      "a": "No, that’s public liability."
+    }
+  ],
+  "keywords": [
+    "public liability vs professional indemnity",
+    "pi or pl insurance",
+    "general liability vs e&o",
+    "which business insurance do i need"
+  ],
+  "related": [
+    "public-liability-insurance",
+    "professional-indemnity-insurance",
+    "business-insurance"
+  ]
+}

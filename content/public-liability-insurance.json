@@ -1,0 +1,118 @@
+{
+  "updated": "2026-10-15",
+  "slug": "public-liability-insurance",
+  "short": "Public liability",
+  "nav": "Liability",
+  "navOrder": 4,
+  "title": "Public Liability & General Liability Insurance Guide",
+  "description": "Public liability (UK) and general liability (US) insurance: what they cover, how much cover clients ask for, products liability and common exclusions.",
+  "eyebrow": "Commercial · Liability",
+  "h1": "Public liability and general liability insurance",
+  "intro": "If a customer trips over your cable, or you damage a client’s floor while working, public liability (called general liability in the US) pays compensation and legal costs. It’s the cover clients ask for most.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5",
+    "alt": "Rustic café interior with wooden tables ready for customers",
+    "credit": "Shawn",
+    "creditUrl": "https://unsplash.com/@shawnanggg"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-PL",
+      "rows": [
+        [
+          "Covers",
+          "Injury to members of the public and damage to their property caused by your business, plus legal costs."
+        ],
+        [
+          "Who needs it",
+          "Shops, cafés, tradespeople, event organisers, anyone who meets clients or works on their premises."
+        ],
+        [
+          "Legal requirement",
+          "Not by law in the UK or most US states, but often required by contracts, venues and councils."
+        ],
+        [
+          "Typical limits",
+          "UK: often £1m, £2m, £5m or £10m. US: often $1m per occurrence / $2m aggregate."
+        ],
+        [
+          "Often paired with",
+          "Products liability, employers’ liability or workers’ comp."
+        ]
+      ]
+    },
+    {
+      "type": "covers",
+      "title": "Public liability at a glance",
+      "covered": [
+        "Injury to customers, visitors and the public",
+        "Damage to third-party property (e.g. a client’s home)",
+        "Legal defence costs and compensation",
+        "Products liability, if included: harm caused by products you sell or make"
+      ],
+      "excluded": [
+        "Injury to your own employees (that’s employers’ liability or workers’ comp)",
+        "Damage to your own property or tools",
+        "Financial loss from advice (that’s professional indemnity)",
+        "Deliberate acts and contractual penalties",
+        "Work on certain hazardous sites without declaration"
+      ],
+      "addons": [
+        "Products liability",
+        "Contract works",
+        "Tools and equipment",
+        "Legal expenses"
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Public liability vs general liability",
+      "html": "<p>The idea is the same on both sides of the Atlantic. In the UK, <strong>public liability</strong> is a standalone cover, often sold with products liability. In the US, <strong>commercial general liability (CGL)</strong> is broader: it typically includes bodily injury and property damage, products and completed operations, and “personal and advertising injury” such as defamation. US small businesses often buy it inside a <a href=\"/business-owners-policy/\">BOP</a>.</p>"
+    },
+    {
+      "h2": "How much cover do you need?",
+      "html": "<p>Choose a limit that reflects the worst realistic claim and what your contracts require. Councils, venues, construction sites and large clients often set a minimum. A serious injury claim can be very expensive, so don’t pick the lowest limit just because it’s cheapest; the difference between limits is often modest.</p>"
+    },
+    {
+      "h2": "Products liability",
+      "html": "<p>If you make, sell, repair or import products, you can be liable if one causes injury or damage. Importers and own-brand sellers can carry the same responsibility as manufacturers. Check that products liability is included and whether it covers sales to the US and Canada, which some policies exclude or limit.</p>"
+    },
+    {
+      "h2": "Certificates of insurance",
+      "html": "<p>Clients often ask for proof of cover. In the UK, your insurer or broker can provide a policy schedule or certificate. In the US, a certificate of insurance (COI) is standard, and clients may ask to be named as an <strong>additional insured</strong>, which extends your policy to cover them for claims arising from your work.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is public liability insurance a legal requirement?",
+      "a": "Not in the UK or for most US businesses. But you may not get work without it, because clients, venues and landlords commonly require it."
+    },
+    {
+      "q": "Does public liability cover my employees?",
+      "a": "No. Injuries to employees are covered by <a href=\"/employers-liability-insurance/\">employers’ liability</a> (UK) or <a href=\"/workers-compensation/\">workers’ compensation</a> (US)."
+    },
+    {
+      "q": "Do I need it if I work from home?",
+      "a": "If clients visit you, or you work at clients’ premises, it’s worth having. Your home insurance usually won’t cover business visitors. See <a href=\"/home-business-insurance/\">home business insurance</a>."
+    }
+  ],
+  "keywords": [
+    "public liability insurance",
+    "general liability insurance",
+    "products liability",
+    "liability insurance for small business",
+    "certificate of insurance",
+    "cgl insurance"
+  ],
+  "cardText": "Cover for injury or damage to the public, and the limits clients ask for.",
+  "related": [
+    "employers-liability-insurance",
+    "professional-indemnity-insurance",
+    "tradesperson-insurance",
+    "blog/public-liability-vs-professional-indemnity"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "updated": "2026-09-24",
+  "type": "post",
+  "slug": "blog/monthly-vs-annual-insurance-payments",
+  "date": "2026-09-24",
+  "short": "Monthly vs annual",
+  "title": "Paying Insurance Monthly vs Annually: What It Really Costs",
+  "description": "Paying car or home insurance monthly usually means borrowing. What the FCA’s 2026 premium finance study found and how to check the real cost.",
+  "h1": "Monthly vs annual insurance payments",
+  "intro": "Spreading the cost of insurance can help your budget, but monthly instalments for an annual policy usually involve credit, with interest. Here’s how to see what you’re paying.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1563013544-824ae1b704d3",
+    "alt": "Person holding a payment card while using a laptop",
+    "credit": "rupixen",
+    "creditUrl": "https://unsplash.com/@rupixen"
+  },
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "dom",
+      "title": "Key points",
+      "rows": [
+        [
+          "Usually",
+          "Monthly payments for an annual policy are a credit agreement (premium finance)."
+        ],
+        [
+          "Look for",
+          "The APR and the total amount payable, compared with paying in full."
+        ],
+        [
+          "FCA, Feb 2026",
+          "Final premium finance study: no price cap, but continued monitoring under the Consumer Duty."
+        ],
+        [
+          "Alternative",
+          "Saving monthly towards an annual payment, if you can."
+        ]
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Why monthly can cost more",
+      "html": "<p>When you pay an annual premium in monthly instalments, the insurer or a finance company is often lending you the money. You’ll see an <strong>APR</strong> and a <strong>total amount payable</strong> in your documents. Compare that total with the single-payment price to see the true cost of spreading.</p>"
+    },
+    {
+      "h2": "What the FCA found",
+      "html": "<p>The FCA’s premium finance market study covered home and motor insurance. Its final report in February 2026 found the cost of premium finance had fallen since 2022 and decided not to introduce a price cap or require interest-free instalments. It said it would keep monitoring APRs and use its Consumer Duty rules on fair value, and that any higher premium for monthly payers needs an objective, reasonable basis.</p>"
+    },
+    {
+      "h2": "When monthly makes sense",
+      "html": "<ul><li>If you couldn’t afford the annual amount without borrowing at a higher rate elsewhere.</li><li>If the insurer offers 0% instalments (some do).</li><li>For policies that are genuinely monthly contracts, such as some life insurance, where there’s no credit involved.</li></ul><p>If paying annually is possible, it’s often the cheaper choice for car and home insurance.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does missing a monthly payment cancel my insurance?",
+      "a": "It can. Missed instalments may lead to cancellation and affect your credit record. Contact the insurer quickly if you’re struggling."
+    },
+    {
+      "q": "Is life insurance cheaper paid annually?",
+      "a": "Life insurance is usually priced monthly without credit, so there’s often little or no difference. Check your quote."
+    }
+  ],
+  "sources": [
+    {
+      "title": "FCA: Falling cost of premium finance (final report, 2026)",
+      "url": "https://www.fca.org.uk/news/press-releases/falling-cost-premium-finance-saving-consumers-around-157m-year"
+    }
+  ],
+  "keywords": [
+    "pay insurance monthly",
+    "premium finance",
+    "insurance apr",
+    "monthly car insurance cost",
+    "annual vs monthly insurance"
+  ],
+  "related": [
+    "car-insurance",
+    "home-insurance",
+    "how-to-compare-insurance"
+  ]
+}

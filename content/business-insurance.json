@@ -1,0 +1,285 @@
+{
+  "updated": "2026-10-15",
+  "slug": "business-insurance",
+  "nav": "Business insurance",
+  "navOrder": 2,
+  "title": "Business Insurance Explained: Covers Small Firms Need",
+  "description": "A plain-English guide to commercial insurance for small businesses: liability, employers’ cover, property, professional indemnity, cyber and vehicles.",
+  "eyebrow": "Commercial · Overview",
+  "h1": "Business insurance for small firms",
+  "intro": "Commercial insurance isn’t one policy: it’s a set of covers you combine to match what your business does. Some are legal requirements, some are demanded by clients or landlords, and some simply stop one bad day closing the business.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1556740758-90de374c12ad",
+    "alt": "Two women running a small café, chatting at the counter",
+    "credit": "Blake Wisz",
+    "creditUrl": "https://unsplash.com/@blakewisz"
+  },
+  "chips": [
+    {
+      "label": "Cover checker",
+      "slug": "cover-checker"
+    },
+    {
+      "label": "Public liability",
+      "slug": "public-liability-insurance"
+    },
+    {
+      "label": "Employers’ liability",
+      "slug": "employers-liability-insurance"
+    },
+    {
+      "label": "Professional indemnity",
+      "slug": "professional-indemnity-insurance"
+    }
+  ],
+  "searchPlaceholder": "Try “employers liability” or “BOP”",
+  "blocks": [
+    {
+      "type": "schedule",
+      "position": "top",
+      "side": "com",
+      "ref": "COM-BIZ",
+      "rows": [
+        [
+          "Legal must-haves",
+          "UK: employers’ liability if you employ staff; motor cover for vehicles. US: workers’ comp in almost every state once you have employees; commercial auto."
+        ],
+        [
+          "Usually needed",
+          "Public / general liability if you deal with the public or work on others’ premises."
+        ],
+        [
+          "For advice and services",
+          "Professional indemnity (errors and omissions)."
+        ],
+        [
+          "For premises and kit",
+          "Commercial property, contents, stock, business interruption."
+        ],
+        [
+          "Increasingly common",
+          "Cyber insurance, directors’ and officers’ (D&O) liability."
+        ],
+        [
+          "Ways to buy",
+          "Direct from insurers, online brokers, or a specialist broker for complex risks."
+        ]
+      ]
+    },
+    {
+      "type": "deals",
+      "title": "The main business covers",
+      "intro": "Start with the legal requirements, then match the rest to your activities.",
+      "items": [
+        {
+          "icon": "users",
+          "title": "Public liability",
+          "text": "Claims from customers or the public for injury or property damage.",
+          "slug": "public-liability-insurance",
+          "badge": "Most common"
+        },
+        {
+          "icon": "hardhat",
+          "title": "Employers’ liability",
+          "text": "UK legal requirement if you employ people. Covers injury or illness claims from staff.",
+          "slug": "employers-liability-insurance",
+          "badge": "UK law"
+        },
+        {
+          "icon": "heartpulse",
+          "title": "Workers’ compensation",
+          "text": "US state-mandated cover for employee injuries and lost wages.",
+          "slug": "workers-compensation",
+          "badge": "US law"
+        },
+        {
+          "icon": "briefcase",
+          "title": "Professional indemnity",
+          "text": "Claims that your advice, design or service caused a client financial loss.",
+          "slug": "professional-indemnity-insurance"
+        },
+        {
+          "icon": "building",
+          "title": "Commercial property",
+          "text": "Buildings, contents, stock and equipment, plus business interruption.",
+          "slug": "commercial-property-insurance"
+        },
+        {
+          "icon": "lock",
+          "title": "Cyber insurance",
+          "text": "Data breaches, ransomware, incident response and business downtime.",
+          "slug": "cyber-insurance"
+        },
+        {
+          "icon": "scale",
+          "title": "Directors & officers",
+          "text": "Personal liability of directors for management decisions.",
+          "slug": "directors-and-officers-insurance"
+        },
+        {
+          "icon": "truck",
+          "title": "Van & fleet",
+          "text": "Vehicles used for business, from one van to a fleet.",
+          "slug": "van-insurance"
+        },
+        {
+          "icon": "store",
+          "title": "Business owner’s policy",
+          "text": "US bundle of property and general liability for small firms.",
+          "slug": "business-owners-policy"
+        }
+      ]
+    },
+    {
+      "type": "matrix",
+      "title": "Which business insurance is compulsory?",
+      "intro": "The legal position in general terms. Professional bodies, landlords and contracts add their own requirements.",
+      "cols": [
+        "UK",
+        "USA",
+        "EU"
+      ],
+      "rows": [
+        {
+          "label": "Employers’ liability / workers’ comp",
+          "slug": "employers-liability-insurance",
+          "cells": [
+            [
+              "yes",
+              "Employers’ liability, at least £5 million, if you employ staff (some exemptions)."
+            ],
+            [
+              "yes",
+              "Workers’ comp is required in almost every state; Texas lets most private employers opt out."
+            ],
+            [
+              "varies",
+              "Workplace accidents are often covered by statutory social insurance schemes, funded by employers."
+            ]
+          ]
+        },
+        {
+          "label": "Public / general liability",
+          "slug": "public-liability-insurance",
+          "cells": [
+            [
+              "no",
+              "Not legally required, but often required by clients, venues and councils."
+            ],
+            [
+              "no",
+              "Not state law for most firms, but leases and contracts frequently demand it."
+            ],
+            [
+              "varies",
+              "Compulsory for some professions and activities in some countries."
+            ]
+          ]
+        },
+        {
+          "label": "Professional indemnity",
+          "slug": "professional-indemnity-insurance",
+          "cells": [
+            [
+              "varies",
+              "Required by regulators for solicitors, accountants in practice, architects, financial advisers and others."
+            ],
+            [
+              "varies",
+              "Required for some licensed professions in some states."
+            ],
+            [
+              "varies",
+              "Required for many regulated professions, including insurance intermediaries under EU rules."
+            ]
+          ]
+        },
+        {
+          "label": "Commercial vehicles",
+          "slug": "van-insurance",
+          "cells": [
+            [
+              "yes",
+              "At least third party for every vehicle on the road."
+            ],
+            [
+              "yes",
+              "Commercial auto liability is required for business vehicles."
+            ],
+            [
+              "yes",
+              "Third-party motor insurance is compulsory everywhere in the EU."
+            ]
+          ]
+        },
+        {
+          "label": "Commercial property",
+          "slug": "commercial-property-insurance",
+          "cells": [
+            [
+              "lender",
+              "Not law, but lenders and leases usually require it."
+            ],
+            [
+              "lender",
+              "Lenders and landlords usually require it."
+            ],
+            [
+              "lender",
+              "Usually a lender or lease condition."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "How to build the right cover",
+      "html": "<ol><li><strong>List what you do</strong>: where you work, who visits, what you sell or advise on, what you own, and how you use vehicles.</li><li><strong>Tick off legal requirements</strong>: staff and vehicles first.</li><li><strong>Check contracts</strong>: clients, venues, landlords and platforms often specify minimum liability limits (for example £5m or $1m per occurrence).</li><li><strong>Insure your assets</strong>: premises, equipment, stock and the income they generate.</li><li><strong>Think about your biggest “what if”</strong>: a data breach, a design error, a fire, a key supplier failing.</li></ol><p>Our <a href=\"/cover-checker/\">cover checker</a> walks you through these questions in about two minutes.</p>"
+    },
+    {
+      "h2": "Packages vs separate policies",
+      "html": "<p>Many insurers sell <strong>packages</strong> for particular trades (shops, offices, salons, restaurants, tradespeople) that bundle liability, contents, stock and business interruption. In the US the equivalent for small firms is the <a href=\"/business-owners-policy/\">business owner’s policy (BOP)</a>. Packages are convenient, but check each section’s limits and exclusions; separate specialist policies can be better for professional indemnity and cyber.</p>"
+    },
+    {
+      "h2": "Disclosure rules for business insurance",
+      "html": "<p>In the UK, the Insurance Act 2015 requires businesses to make a <strong>fair presentation of the risk</strong>: disclose everything you know or ought to know that would influence an insurer, in a clear way. If you don’t, the insurer’s remedy depends on what it would have done had it known, which can mean a reduced claim. Keep records of what you told the insurer and update them when the business changes. See <a href=\"/blog/non-disclosure-misrepresentation/\">disclosure and misrepresentation</a>.</p>"
+    },
+    {
+      "h2": "Brokers or direct?",
+      "html": "<p>Simple risks (a sole-trader consultant, a small shop) are easy to buy online. A broker adds value when your business is unusual, larger, or needs several covers coordinated, and can negotiate wordings and help with claims. In the UK, check brokers and insurers on the FCA register; in the US, check the agent’s license with your state insurance department.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What insurance does a small business legally need?",
+      "a": "In the UK, employers’ liability if you have employees, and motor insurance for vehicles. In the US, workers’ compensation in almost every state once you have employees, plus commercial auto for business vehicles. Other covers are usually required by contracts rather than law."
+    },
+    {
+      "q": "Do sole traders need business insurance?",
+      "a": "Not legally for most activities without staff, but public liability and professional indemnity are often required by clients. Your home and car policies may not cover business use."
+    },
+    {
+      "q": "Is business insurance tax-deductible?",
+      "a": "Business insurance premiums are generally an allowable business expense in the UK and deductible as an ordinary business expense in the US. Check with your accountant."
+    }
+  ],
+  "keywords": [
+    "business insurance",
+    "commercial insurance",
+    "small business insurance",
+    "compare business insurance",
+    "sole trader insurance",
+    "insurance for limited company"
+  ],
+  "cardText": "The covers small businesses combine, and which ones are legal requirements.",
+  "related": [
+    "public-liability-insurance",
+    "employers-liability-insurance",
+    "professional-indemnity-insurance",
+    "cover-checker"
+  ],
+  "latestPosts": 3,
+  "latestTitle": "Latest for business owners"
+}

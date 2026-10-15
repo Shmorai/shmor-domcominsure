@@ -1,0 +1,56 @@
+{
+  "updated": "2026-10-15",
+  "type": "post",
+  "slug": "blog/christmas-gifts-contents-cover",
+  "date": "2026-10-15",
+  "short": "Christmas & contents",
+  "title": "Christmas Gifts and Your Contents Insurance: What to Check",
+  "description": "Expensive presents can push you over contents limits. Seasonal increases, single-item limits, gifts in the car, parcels and Christmas fire safety.",
+  "h1": "Christmas gifts and your contents insurance",
+  "intro": "Between new gadgets, jewellery and a house full of parcels, the festive season can quietly push your belongings past your policy’s limits. A ten-minute check now avoids surprises later.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1545608444-f045a6db6133",
+    "alt": "Wrapped gift boxes topped with red baubles",
+    "credit": "Mel Poole",
+    "creditUrl": "https://unsplash.com/@melpoole"
+  },
+  "sections": [
+    {
+      "h2": "Seasonal increases",
+      "html": "<p>Some UK contents policies automatically increase the sum insured for a period around Christmas (and sometimes weddings or religious festivals) to cover gifts. Check your wording for the dates and amount. If your policy doesn’t do this, consider raising your sum insured.</p>"
+    },
+    {
+      "h2": "Single-item and valuables limits",
+      "html": "<p>A new watch, engagement ring, laptop or bike can exceed your policy’s single-item limit. If so, list it as a specified item. Remember personal possessions cover if the gift will leave the house.</p>"
+    },
+    {
+      "h2": "Gifts in cars and on doorsteps",
+      "html": "<ul><li>Car insurance often limits or excludes cover for belongings left in vehicles; contents policies may too.</li><li>Parcels left outside may not be covered by your contents policy until they’re inside your home. Use safe places or collection points.</li></ul>"
+    },
+    {
+      "h2": "Fire safety",
+      "html": "<p>Check decorative lights for damage, don’t overload sockets, keep candles away from trees and decorations, and test smoke alarms. Fire services publish festive safety advice each year.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Are gifts covered before I give them?",
+      "a": "Usually, as part of your contents while they’re in your home, subject to limits."
+    },
+    {
+      "q": "Is my new phone covered outside the house?",
+      "a": "Only if you have personal possessions or gadget cover."
+    }
+  ],
+  "keywords": [
+    "christmas contents insurance",
+    "seasonal increase contents",
+    "gifts insurance",
+    "single item limit jewellery"
+  ],
+  "related": [
+    "contents-insurance",
+    "home-insurance",
+    "blog/winter-home-insurance-checklist"
+  ]
+}

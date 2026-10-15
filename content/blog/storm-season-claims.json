@@ -1,0 +1,59 @@
+{
+  "updated": "2026-10-10",
+  "type": "post",
+  "slug": "blog/storm-season-claims",
+  "date": "2026-10-10",
+  "short": "Storm damage claims",
+  "title": "Storm Damage Claims: What Home Insurance Usually Covers",
+  "description": "Storm season is here. What counts as a storm, what home insurance usually covers and excludes (like fences), and how to make a smooth claim.",
+  "h1": "Storm damage and your home insurance",
+  "intro": "The 2026/27 storm naming season began in September. If a storm damages your home, knowing what your insurer considers a “storm” and what it usually excludes can make the claim much smoother.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1508697014387-db70aad34f4d",
+    "alt": "Lightning strike against a dark night sky",
+    "credit": "Max LaRochelle",
+    "creditUrl": "https://unsplash.com/@maxlarochelle"
+  },
+  "sections": [
+    {
+      "h2": "What counts as a storm?",
+      "html": "<p>Many insurers define a storm by wind speed, heavy rainfall, snow or hail, and may check weather records for your area on the date. Named storms are a useful signal but naming isn’t a requirement for a storm claim. The Met Office, Met Éireann and KNMI name storms expected to have medium or high impacts; this season’s list begins Austen, Boelo, Chloe.</p>"
+    },
+    {
+      "h2": "Usually covered vs usually excluded",
+      "html": "<table><thead><tr><th>Usually covered</th><th>Usually excluded</th></tr></thead><tbody><tr><td>Roof tiles blown off by high winds</td><td>Damage from wear and tear or poor maintenance</td></tr><tr><td>Water getting in through storm damage</td><td>Fences, gates and hedges (common exclusion)</td></tr><tr><td>Falling trees damaging the house</td><td>Gradual water ingress through old pointing</td></tr><tr><td>Contents damaged as a result</td><td>Removing a fallen tree that didn’t damage anything (often)</td></tr></tbody></table>"
+    },
+    {
+      "h2": "Claiming",
+      "html": "<ol><li>Make safe and prevent further damage (tarpaulins, buckets) if it’s safe.</li><li>Photograph everything, including the wider scene.</li><li>Report promptly and keep receipts for emergency work.</li><li>Expect a surveyor or loss adjuster for larger claims.</li></ol><p>See <a href=\"/blog/how-to-make-a-home-insurance-claim/\">how to make a home insurance claim</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will my claim be refused if my roof was old?",
+      "a": "If the damage was caused mainly by wear and tear rather than the storm, cover may not apply. Regular maintenance helps."
+    },
+    {
+      "q": "Is flood from a storm covered?",
+      "a": "In the UK, flood is usually covered by standard home insurance. In the US, flood needs a separate policy."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Met Office: UK Storm Centre",
+      "url": "https://www.metoffice.gov.uk/weather/warnings-and-advice/uk-storm-centre/index"
+    }
+  ],
+  "keywords": [
+    "storm damage insurance",
+    "storm claim",
+    "roof damage insurance",
+    "fence storm damage insurance",
+    "named storms 2026"
+  ],
+  "related": [
+    "home-insurance",
+    "claims",
+    "blog/winter-home-insurance-checklist"
+  ]
+}
