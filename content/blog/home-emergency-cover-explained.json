@@ -1,0 +1,79 @@
+{
+  "short": "Home emergency cover",
+  "title": "Home Emergency Cover: Is It Worth Adding?",
+  "description": "Home emergency cover pays for urgent fixes like burst pipes or boiler breakdowns. See how it differs from home insurance, its exclusions and what to check.",
+  "h1": "Home emergency cover explained: what it pays for and what it doesn't",
+  "intro": "A burst pipe at 2am or a boiler that dies in January is exactly when you want a tradesperson fast. Home emergency cover is designed for that, but it is not the same as buildings or contents insurance. Here is how it works in the UK, and what to check before you pay for it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+    "alt": "Two-storey house with a dark roof and a covered front porch",
+    "credit": "Naomi Hutchinson",
+    "creditUrl": "https://unsplash.com/@naomi365photography"
+  },
+  "keywords": [
+    "home emergency cover",
+    "home emergency cover vs home insurance",
+    "is home emergency cover worth it",
+    "boiler cover vs home emergency",
+    "home emergency insurance uk",
+    "burst pipe cover",
+    "what does home emergency cover include",
+    "home emergency cover exclusions"
+  ],
+  "cardText": "What home emergency cover pays for, and how it differs from your home insurance.",
+  "sections": [
+    {
+      "h2": "What home emergency cover is",
+      "html": "<p>Which?, the UK consumer organisation, describes home emergency cover as help in a crisis, such as a sudden leak, by covering the cost of getting a tradesperson out quickly. It tends to deal with the urgent problem, such as making the property safe, rather than putting everything right afterwards.</p><p>It is rarely part of a standard policy. Which? found that only 18% of the policies it analysed included it, usually as an optional extra, so many people either add it to home insurance or buy it as a separate product.</p>"
+    },
+    {
+      "h2": "How it differs from buildings and contents insurance",
+      "html": "<p>Which? explains that home emergency cover may not fix the underlying cause of a problem. If a leak damages your ceiling, you may be able to claim for the damage under your <a href=\"/buildings-insurance/\">buildings insurance</a> or <a href=\"/contents-insurance/\">contents insurance</a>, depending on what was damaged. So the two work together: the emergency policy gets help to your door, and your home insurance deals with the damage.</p><p>Boiler cover is a separate product again. It is designed to keep heating and hot water running and often includes an annual service. Limits vary widely, so check the cap on repair or replacement costs.</p>"
+    },
+    {
+      "h2": "Common exclusions to check",
+      "html": "<p>The Which? research on winter risks flags several points worth reading in your documents:</p><ul><li>Wear and tear is not usually covered by standard home insurance, so a leak caused by poor maintenance can be rejected.</li><li>Standard policies typically do not cover pest removal, although Which? found that nearly all add-on emergency policies that include it cover vermin removal.</li><li>Frozen pipes are usually covered by home insurance, but not if the home was unoccupied or the damage came from poor maintenance. Our <a href=\"/blog/winter-home-insurance-checklist/\">winter home insurance checklist</a> and <a href=\"/blog/unoccupied-property-insurance/\">unoccupied property guide</a> explain the conditions.</li></ul><p>Which? also found that some heating cover does not apply to boilers over a certain age, so look for age limits and for rules about winter-only breakdowns.</p>"
+    },
+    {
+      "h2": "Check what you already have",
+      "html": "<p>Before buying, check whether your current home insurance already includes emergency cover, or whether your bank account or boiler warranty bundles it. Read the policy's key facts document, which sets out the main limits and exclusions in a standard format. Look for the call-out limit, the maximum payout per claim, any excess, and the process for reaching an approved contractor, because paying your own tradesperson may not be reimbursed.</p>"
+    },
+    {
+      "h2": "Is it worth it for you?",
+      "html": "<p>That depends on your home, its age, your savings and how comfortable you are with a surprise bill. Cover can make sense if an urgent repair would be hard to afford or you rarely have time to find a trusted tradesperson quickly. If you have a sizeable emergency fund and a well-maintained home, you may prefer to keep the money. Our guide on <a href=\"/how-to-compare-insurance/\">how to compare insurance</a> explains what to look at beyond the headline price. This is general information, not personal advice.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does home insurance cover boiler breakdown?",
+      "a": "Not usually. A standard policy generally does not pay to repair or replace a broken boiler, but you may be able to add emergency or boiler cover (Which?)."
+    },
+    {
+      "q": "Does home emergency cover pay for the damage a leak causes?",
+      "a": "Typically not. It deals with the emergency itself. For the resulting damage you may be able to claim on buildings or contents insurance, depending on what was damaged."
+    },
+    {
+      "q": "Do I need home emergency cover if I rent?",
+      "a": "Often your landlord is responsible for the structure and fixtures such as the boiler, so check your tenancy agreement before buying cover. Our renters vs landlord guide explains who covers what."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Which?: 5 winter risks your home insurance might not cover",
+      "url": "https://www.which.co.uk/news/article/5-winter-risks-your-home-insurance-might-not-cover-aFKqZ5Z9c0rJ"
+    },
+    {
+      "title": "Which?: How to choose the best boiler cover",
+      "url": "https://www.which.co.uk/reviews/boiler-cover/article/how-to-choose-the-best-boiler-cover-aYodD8Z46xjC"
+    }
+  ],
+  "related": [
+    "home-insurance",
+    "blog/winter-home-insurance-checklist",
+    "blog/what-home-insurance-doesnt-cover"
+  ],
+  "date": "2026-11-23",
+  "updated": "2026-11-23",
+  "slug": "blog/home-emergency-cover-explained",
+  "type": "post"
+}
