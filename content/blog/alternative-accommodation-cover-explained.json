@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-27",
+  "updated": "2026-11-27",
+  "slug": "blog/alternative-accommodation-cover-explained",
+  "type": "post",
+  "title": "Alternative Accommodation Cover: If You Can't Live at Home",
+  "description": "Alternative accommodation cover explained: what home insurance pays if a fire, flood or storm makes your home unliveable, typical limits and how to claim.",
+  "eyebrow": "Home insurance",
+  "h1": "Alternative accommodation cover: what happens if you cannot live in your home",
+  "intro": "After a fire, flood or burst pipe, the first question is often not about repairs but where you will sleep tonight. Most home policies include some cover for temporary housing, called alternative accommodation in the UK and loss of use or additional living expenses (ALE) in the US. Here is how it works, where limits bite and what to do first.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1603796846097-bee99e4a601f",
+    "alt": "Person filling in a form with a pen",
+    "credit": "Romain Dancre",
+    "creditUrl": "https://unsplash.com/@romaindancre"
+  },
+  "sections": [
+    {
+      "h2": "What is alternative accommodation cover?",
+      "html": "<p>It pays the reasonable cost of somewhere to live while your home is unfit to live in after an <strong>insured event</strong> such as fire, flood, storm or escape of water. In the UK it normally sits in the buildings section of a policy (check your wording, as some policies include it under contents too). The Financial Ombudsman Service (FOS) says insurers should provide <strong>suitable accommodation</strong> and, where local options are limited, work with you to find a reasonable solution. In the US the equivalent is <strong>loss of use</strong> or <strong>additional living expenses</strong>, usually part of a homeowners policy. If the cause is not an insured peril, there is no cover: for example a flood or earthquake that your policy excludes. See our <a href=\"/home-insurance/\">home insurance</a> and <a href=\"/buildings-insurance/\">buildings insurance</a> guides.</p>"
+    },
+    {
+      "h2": "What it usually pays for",
+      "html": "<ul><li><strong>Temporary housing:</strong> a hotel, B&amp;B, serviced apartment or rental, depending on how long you will be out. The FOS says a few days or a week may reasonably be a hotel or B&amp;B, while a longer stay may call for a private rental or serviced apartment.</li><li><strong>Extra costs while away:</strong> the FOS describes a <strong>disturbance allowance</strong> for reasonable extra costs such as additional food, laundry, travel, rehousing pets or extra council tax. It does not pay for the inconvenience of living elsewhere.</li><li><strong>Only the extra in the US:</strong> the NAIC and Triple-I say ALE pays the gap between your normal living costs and your new temporary costs. Your mortgage still has to be paid.</li><li><strong>Lost rental income:</strong> US ALE may also cover rent you would have collected from a tenant. For rented properties, see our <a href=\"/landlord-insurance/\">landlord insurance guide</a>.</li></ul>"
+    },
+    {
+      "h2": "Limits and time caps",
+      "html": "<p>Cover is capped. FOS decisions show UK limits that vary by policy, so check your own schedule. In the US the limit is often a percentage of the dwelling cover (Triple-I and NAIC cite 20% as common, with some insurers paying more) and may also have a time limit. These limits are separate from the money to rebuild. If your repairs are likely to take months, ask before the claim how long you will be covered and whether the limit could run out. The FOS notes that costs are generally expected to be covered until the property is habitable or safe again, subject to the limit, and looks at what is reasonable and in proportion to the claim.</p>"
+    },
+    {
+      "h2": "What to do if your home becomes unliveable",
+      "html": "<ol><li><strong>Make it safe</strong> and call emergency services if needed. Take photos of the damage.</li><li><strong>Contact your insurer straight away</strong> and ask about alternative accommodation before you book anything expensive. Our <a href=\"/blog/how-to-make-a-home-insurance-claim/\">how to claim guide</a> covers the first hour and evidence.</li><li><strong>Ask what they will pay for and the daily or total limit.</strong> Ask them to put anything agreed in writing.</li><li><strong>Keep every receipt</strong> for accommodation, meals, travel and other extra costs. Insurers need proof before they reimburse you.</li><li><strong>Tell your mortgage lender and landlord if relevant</strong>, and arrange post redirection and utilities.</li></ol>"
+    },
+    {
+      "h2": "If your insurer delays or stops paying",
+      "html": "<p>Raise a formal complaint with the insurer first. In the UK, if you do not get a final response within eight weeks, or you are unhappy with it, you can take it to the Financial Ombudsman Service, which looks at when the home became unsuitable, the policy limit and what is fair. In the US, contact your state insurance department. Also check what your policy does not cover in our <a href=\"/blog/what-home-insurance-doesnt-cover/\">what home insurance doesn't cover</a> guide, and see <a href=\"/blog/storm-season-claims/\">storm season claims</a> if weather caused the damage. For renters, loss-of-use cover is often part of the policy too: see <a href=\"/renters-insurance/\">renters insurance</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does home insurance pay for a hotel if my house is flooded?",
+      "a": "Usually, yes, if flood is an insured event on your policy and the home is unfit to live in. Cover is subject to a limit and conditions, so ask your insurer before booking and keep all receipts."
+    },
+    {
+      "q": "How long does alternative accommodation cover last?",
+      "a": "There is no standard period. UK costs are generally expected to be covered until the property is habitable or safe again, up to your policy limit; US policies may add a time cap. Check your own policy."
+    },
+    {
+      "q": "Is alternative accommodation in buildings or contents insurance?",
+      "a": "Often buildings, but it varies. Some policies also include it under contents or as a separate section. Read the \"what is covered\" list in your policy booklet."
+    },
+    {
+      "q": "What is loss of use coverage?",
+      "a": "A US homeowners coverage, also called additional living expenses, that pays the extra costs of living elsewhere after a covered loss, usually up to a limit."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Financial Ombudsman Service: Flood damage (alternative accommodation and disturbance)",
+      "url": "https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/insurance/home-insurance/flood-damage"
+    },
+    {
+      "title": "NAIC: What are additional living expenses and how can insurance help?",
+      "url": "https://content.naic.org/article/what-are-additional-living-expenses-and-how-can-insurance-help"
+    },
+    {
+      "title": "Triple-I: Settling insurance claims after a disaster",
+      "url": "https://www.iii.org/article/settling-insurance-claims-after-a-disaster"
+    }
+  ],
+  "related": [
+    "home-insurance",
+    "buildings-insurance",
+    "blog/how-to-make-a-home-insurance-claim"
+  ],
+  "keywords": [
+    "alternative accommodation cover",
+    "alternative accommodation home insurance",
+    "loss of use home insurance",
+    "additional living expenses",
+    "home insurance hotel cost after fire",
+    "house flooded where to stay insurance",
+    "does home insurance pay for temporary accommodation",
+    "ale coverage"
+  ],
+  "cardText": "What home insurance pays for temporary housing after fire, flood or storm damage."
+}
